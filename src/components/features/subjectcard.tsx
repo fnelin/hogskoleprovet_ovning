@@ -3,7 +3,7 @@ import type { Subject } from "@/lib/subjects"
 
 const colorMap: Record<string, { card: string; badge: string; badgeText: string }> = {
     indigo: {
-        card: "hover:border-[var(--color-primary)]",
+        card: "hover:border-primary",
         badge: "bg-[#312e81] text-[#a5b4fc]",
         badgeText: "",
     },
@@ -32,7 +32,7 @@ export default function SubjectCard({ subject, questionCount }: Props) {
             href={`/subject/${subject.slug}`}
             className={`
         flex flex-col gap-3 p-5 rounded-2xl
-        bg-surface border border-border]
+        bg-surface border border-border ]
         transition-colors duration-200 group
         ${colors.card}
       `}
