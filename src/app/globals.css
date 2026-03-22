@@ -2,28 +2,7 @@
 
 :root
 {
-  --color-primary: #6366f1;
-  /* soft indigo */
-  --color-primary-dark: #4f46e5;
-  --color-secondary: #14b8a6;
-  /* muted teal */
-  --color-secondary-dark: #0f766e;
-  --color-accent: #f59e0b;
-  /* warm amber */
-  --color-accent-dark: #d97706;
-  --color-neutral-100: #f3f4f6;
-  --color-neutral-200: #e5e7eb;
-  --color-neutral-300: #d1d5db;
-  --color-neutral-400: #9ca3af;
-  --color-neutral-500: #6b7280;
-  --color-neutral-600: #4b5563;
-  --color-neutral-700: #374151;
-  --color-neutral-800: #1f2937;
-  --color-neutral-900: #111827;
-  --color-background: #0f172a;
-  --color-surface: #1e293b;
-  --color-border: #334155;
-  --color-muted: #94a3b8;
+
   --background: var(--color-background);
   --foreground: var(--color-neutral-100)
 }
@@ -71,6 +50,31 @@
 {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
+
+  --color-primary: #6366f1;
+  /* soft indigo */
+  --color-primary-dark: #4f46e5;
+  --color-secondary: #14b8a6;
+  /* muted teal */
+  --color-secondary-dark: #0f766e;
+  --color-accent: #f59e0b;
+  /* warm amber */
+  --color-accent-dark: #d97706;
+  --color-neutral-100: #f3f4f6;
+  --color-neutral-200: #e5e7eb;
+  --color-neutral-300: #d1d5db;
+  --color-neutral-400: #9ca3af;
+  --color-neutral-500: #6b7280;
+  --color-neutral-600: #4b5563;
+  --color-neutral-700: #374151;
+  --color-neutral-800: #1f2937;
+  --color-neutral-900: #111827;
+  --color-background: #0f172a;
+  --color-surface: #1e293b;
+  --color-border: #334155;
+  --color-muted: #94a3b8;
+
+
   --font-sans: var(--font-nunito-sans);
   --font-serif: var(--font-source-serif);
   --font-mono: var(--font-jetbrains_mono);

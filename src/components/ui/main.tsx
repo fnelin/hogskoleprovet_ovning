@@ -28,7 +28,7 @@ export default function Mainsection() {
             <h2 className="text-neutral-100 text-xl font-medium mb-2">
                 Välj ämnesområde
             </h2>
-            <p className="text-muted text-sm mb-8">
+            <p className="text text-sm mb-8">
                 Klicka på ett område för att börja öva
             </p>
 
