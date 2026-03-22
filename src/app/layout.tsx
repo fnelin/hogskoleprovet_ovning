@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 import { Nunito, Source_Serif_4, JetBrains_Mono } from "next/font/google";
-import "./globals.css";
-import Sidhuvud from "./componets/ui/header";
-import Sidfot from "./componets/ui/footer";
+import "@/app/globals.css";
+import Sidhuvud from "@/components/ui/header";
+import Sidfot from "@/components/ui/footer";
 
 
 const nunitoSans = Nunito({

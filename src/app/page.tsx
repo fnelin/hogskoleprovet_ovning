@@ -1,5 +1,5 @@
-import Mainhero from "./componets/ui/hero";
-import Mainsection from "./componets/ui/main";
+import Mainhero from "@/components/ui/hero";
+import Mainsection from "@/components/ui/main";
 
 export default function Home() {
   return (<>
