@@ -1,0 +1,274 @@
+[
+  {
+    "id": "ari-001",
+    "subject": "aritmetik",
+    "question": "Vad är 15% av 240?",
+    "options": ["30", "36", "40", "48"],
+    "answer": "36",
+    "explanation": "15% av 240 = 0,15 × 240 = 36."
+  },
+  {
+    "id": "ari-002",
+    "subject": "aritmetik",
+    "question": "Vilket tal är störst?",
+    "options": ["3/4", "0,7", "72%", "7/10"],
+    "answer": "3/4",
+    "explanation": "3/4 = 0,75 vilket är störst. Övriga är 0,70, 0,72 och 0,70."
+  },
+  {
+    "id": "ari-003",
+    "subject": "aritmetik",
+    "question": "En vara kostar 320 kr efter 20% rabatt. Vad var ordinariepriset?",
+    "options": ["384 kr", "400 kr", "420 kr", "256 kr"],
+    "answer": "400 kr",
+    "explanation": "320 = 0,8 × p → p = 320 / 0,8 = 400 kr."
+  },
+  {
+    "id": "ari-004",
+    "subject": "aritmetik",
+    "question": "Hur många minuter är 2,5 timmar?",
+    "options": ["120", "135", "150", "160"],
+    "answer": "150",
+    "explanation": "2,5 × 60 = 150 minuter."
+  },
+  {
+    "id": "ari-005",
+    "subject": "aritmetik",
+    "question": "Vad är 2/3 + 3/4?",
+    "options": ["5/7", "17/12", "1/2", "11/12"],
+    "answer": "17/12",
+    "explanation": "2/3 = 8/12 och 3/4 = 9/12. Summan är 17/12."
+  },
+  {
+    "id": "ari-006",
+    "subject": "aritmetik",
+    "question": "Ett tåg färdas 450 km på 3 timmar. Vad är medelhastigheten i km/h?",
+    "options": ["135", "150", "160", "175"],
+    "answer": "150",
+    "explanation": "450 / 3 = 150 km/h."
+  },
+  {
+    "id": "ari-007",
+    "subject": "aritmetik",
+    "question": "Vilket av följande är ett primtal?",
+    "options": ["51", "57", "59", "63"],
+    "answer": "59",
+    "explanation": "59 är delbart enbart med 1 och sig självt. Övriga är delbara: 51 = 3×17, 57 = 3×19, 63 = 9×7."
+  },
+
+  {
+    "id": "alg-001",
+    "subject": "algebra",
+    "question": "Lös ekvationen: 3x + 7 = 22",
+    "options": ["x = 3", "x = 4", "x = 5", "x = 6"],
+    "answer": "x = 5",
+    "explanation": "3x = 22 − 7 = 15 → x = 5."
+  },
+  {
+    "id": "alg-002",
+    "subject": "algebra",
+    "question": "Förenkla: 4a + 3b − 2a + b",
+    "options": ["6a + 4b", "2a + 4b", "2a − 4b", "6a − 4b"],
+    "answer": "2a + 4b",
+    "explanation": "4a − 2a = 2a och 3b + b = 4b, alltså 2a + 4b."
+  },
+  {
+    "id": "alg-003",
+    "subject": "algebra",
+    "question": "Vilket värde har x om 2(x − 3) = 10?",
+    "options": ["x = 5", "x = 7", "x = 8", "x = 11"],
+    "answer": "x = 8",
+    "explanation": "2x − 6 = 10 → 2x = 16 → x = 8."
+  },
+  {
+    "id": "alg-004",
+    "subject": "algebra",
+    "question": "Vad är värdet av uttrycket 3x² när x = 4?",
+    "options": ["24", "36", "48", "144"],
+    "answer": "48",
+    "explanation": "3 × 4² = 3 × 16 = 48."
+  },
+  {
+    "id": "alg-005",
+    "subject": "algebra",
+    "question": "Lös olikheten: 5x − 3 > 12",
+    "options": ["x > 1", "x > 2", "x > 3", "x > 4"],
+    "answer": "x > 3",
+    "explanation": "5x > 15 → x > 3."
+  },
+  {
+    "id": "alg-006",
+    "subject": "algebra",
+    "question": "Faktorisera: x² − 9",
+    "options": ["(x−3)(x+3)", "(x−9)(x+1)", "(x+3)²", "(x−3)²"],
+    "answer": "(x−3)(x+3)",
+    "explanation": "x² − 9 är en differens av kvadrater: (x−3)(x+3)."
+  },
+  {
+    "id": "alg-007",
+    "subject": "algebra",
+    "question": "Om f(x) = 2x + 5, vad är f(−3)?",
+    "options": ["−11", "−1", "1", "11"],
+    "answer": "−1",
+    "explanation": "f(−3) = 2×(−3) + 5 = −6 + 5 = −1."
+  },
+  {
+    "id": "alg-008",
+    "subject": "algebra",
+    "question": "Lös ekvationssystemet: x + y = 10 och x − y = 4",
+    "options": ["x=6, y=4", "x=7, y=3", "x=8, y=2", "x=5, y=5"],
+    "answer": "x=7, y=3",
+    "explanation": "Addera ekvationerna: 2x = 14 → x = 7, sedan y = 10 − 7 = 3."
+  },
+
+  {
+    "id": "las-001",
+    "subject": "lasforstaelse",
+    "question": "Vad är textens huvudsyfte om en artikel inleds med statistik om klimatförändringar och avslutas med en uppmaning att ändra konsumtionsmönster?",
+    "options": [
+      "Att underhålla läsaren med fakta",
+      "Att övertyga läsaren om att agera",
+      "Att beskriva historiska händelser",
+      "Att jämföra olika länders utsläpp"
+    ],
+    "answer": "Att övertyga läsaren om att agera",
+    "explanation": "En text som kombinerar statistik med en uppmaning är argumenterande och syftar till att påverka läsarens beteende."
+  },
+  {
+    "id": "las-002",
+    "subject": "lasforstaelse",
+    "question": "Vad innebär det att en text har en 'implicit slutsats'?",
+    "options": [
+      "Slutsatsen är fetstilad i texten",
+      "Slutsatsen framgår utan att uttryckligen skrivas ut",
+      "Texten saknar en slutsats",
+      "Slutsatsen presenteras i inledningen"
+    ],
+    "answer": "Slutsatsen framgår utan att uttryckligen skrivas ut",
+    "explanation": "Implicit betyder underförstådd — läsaren förväntas dra slutsatsen själv utifrån textens innehåll."
+  },
+  {
+    "id": "las-003",
+    "subject": "lasforstaelse",
+    "question": "Vilket textgrepp används när en författare beskriver ett problem ur barnets perspektiv för att väcka läsarens empati?",
+    "options": [
+      "Kronologisk struktur",
+      "Berättarperspektiv för att skapa inlevelse",
+      "Faktabaserad argumentation",
+      "Komparativ analys"
+    ],
+    "answer": "Berättarperspektiv för att skapa inlevelse",
+    "explanation": "Att använda ett specifikt perspektiv för att väcka känslor kallas för att använda pathos som retorisk strategi."
+  },
+  {
+    "id": "las-004",
+    "subject": "lasforstaelse",
+    "question": "En text beskriver både för- och nackdelar med ett förslag utan att ta ställning. Hur klassificeras texten bäst?",
+    "options": [
+      "Argumenterande",
+      "Instruerande",
+      "Utredande",
+      "Berättande"
+    ],
+    "answer": "Utredande",
+    "explanation": "En utredande text presenterar olika perspektiv och fakta utan att nödvändigtvis argumentera för en viss ståndpunkt."
+  },
+  {
+    "id": "las-005",
+    "subject": "lasforstaelse",
+    "question": "Vad menas med 'textreferens' när man svarar på en läsförståelsefråga?",
+    "options": [
+      "Att man hittar exakta ord i texten som stödjer svaret",
+      "Att man sammanfattar hela texten",
+      "Att man jämför texten med en annan källa",
+      "Att man tolkar textens budskap fritt"
+    ],
+    "answer": "Att man hittar exakta ord i texten som stödjer svaret",
+    "explanation": "Textreferens innebär att svaret kan beläggas direkt i texten, till skillnad från slutledning."
+  },
+  {
+    "id": "las-006",
+    "subject": "lasforstaelse",
+    "question": "En artikel börjar med orden 'Trots att forskningen är entydig väljer politikerna att ignorera den.' Vilken ton har inledningen?",
+    "options": [
+      "Neutral och informativ",
+      "Kritisk och ifrågasättande",
+      "Optimistisk och uppmuntrande",
+      "Deskriptiv och objektiv"
+    ],
+    "answer": "Kritisk och ifrågasättande",
+    "explanation": "Ordet 'trots' markerar en kontrast och kritik mot politikernas agerande, vilket ger texten en ifrågasättande ton."
+  },
+
+  {
+    "id": "ord-001",
+    "subject": "ordforstaelse",
+    "question": "Vilket ord är en synonym till 'kolossal'?",
+    "options": ["Minimal", "Genomsnittlig", "Gigantisk", "Rimlig"],
+    "answer": "Gigantisk",
+    "explanation": "Kolossal och gigantisk betyder båda något som är enormt stort."
+  },
+  {
+    "id": "ord-002",
+    "subject": "ordforstaelse",
+    "question": "Vad betyder ordet 'flegmatisk'?",
+    "options": [
+      "Lättretad och impulsiv",
+      "Lugn och svårrubbad",
+      "Ivrig och entusiastisk",
+      "Oärlig och beräknande"
+    ],
+    "answer": "Lugn och svårrubbad",
+    "explanation": "En flegmatisk person är kallblodig, lugn och låter sig inte lätt uppröras."
+  },
+  {
+    "id": "ord-003",
+    "subject": "ordforstaelse",
+    "question": "Vilket ord är ett antonym till 'frikostig'?",
+    "options": ["Generös", "Givmild", "Snål", "Öppen"],
+    "answer": "Snål",
+    "explanation": "Frikostig betyder generös/givmild, vars motsats är snål."
+  },
+  {
+    "id": "ord-004",
+    "subject": "ordforstaelse",
+    "question": "Vad betyder 'ambivalent'?",
+    "options": [
+      "Helt övertygad om något",
+      "Likgiltig inför allt",
+      "Ha motstridiga känslor inför något",
+      "Extremt engagerad"
+    ],
+    "answer": "Ha motstridiga känslor inför något",
+    "explanation": "Ambivalens innebär att man hyser mottsatta känslor eller åsikter om något samtidigt."
+  },
+  {
+    "id": "ord-005",
+    "subject": "ordforstaelse",
+    "question": "Vilket ord passar bäst i meningen: 'Hans tal var _____, fyllt av onödiga detaljer och upprepningar.'",
+    "options": ["Koncist", "Mångordig", "Pregnant", "Kortfattat"],
+    "answer": "Mångordig",
+    "explanation": "Mångordig betyder att man använder fler ord än nödvändigt, vilket stämmer med beskrivningen."
+  },
+  {
+    "id": "ord-006",
+    "subject": "ordforstaelse",
+    "question": "Vad betyder 'konsensus'?",
+    "options": [
+      "Stark oenighet",
+      "Allmän enighet",
+      "Personlig åsikt",
+      "Formellt beslut"
+    ],
+    "answer": "Allmän enighet",
+    "explanation": "Konsensus syftar på en uppfattning som delas av alla eller en majoritet i en grupp."
+  },
+  {
+    "id": "ord-007",
+    "subject": "ordforstaelse",
+    "question": "Vilket ord är en synonym till 'eufori'?",
+    "options": ["Vemod", "Likgiltighet", "Lycksalighet", "Förvirring"],
+    "answer": "Lycksalighet",
+    "explanation": "Eufori och lycksalighet beskriver båda ett tillstånd av intensiv glädje och välbefinnande."
+  }
+]

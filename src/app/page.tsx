@@ -1,9 +1,11 @@
-import Buttons from "./componets/features/button";
+import Mainhero from "@/components/ui/hero";
+import Mainsection from "@/components/ui/main";
 
 export default function Home() {
   return (<>
-  <h1>Welcome</h1>
-  <Buttons />
+    <Mainhero />
+    <Mainsection />
+
   </>
   );
 }

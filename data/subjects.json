@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "aritmetik",
+    "title": "Aritmetik",
+    "badge": "KVA",
+    "icon": "🔢",
+    "color": "indigo",
+    "description": "Grundläggande räkning, bråk, procent och taluppfattning."
+  },
+  {
+    "slug": "algebra",
+    "title": "Algebra",
+    "badge": "XYZ",
+    "icon": "🔣",
+    "color": "teal",
+    "description": "Ekvationer, olikheter och algebraiska uttryck."
+  },
+  {
+    "slug": "lasforstaelse",
+    "title": "Läsförståelse",
+    "badge": "LÄS",
+    "icon": "📖",
+    "color": "amber",
+    "description": "Textanalys och förståelse av längre svenska texter."
+  },
+  {
+    "slug": "ordforstaelse",
+    "title": "Ordförståelse",
+    "badge": "ORD",
+    "icon": "🔠",
+    "color": "amber",
+    "description": "Synonymer, antonymer och ordets betydelse i kontext."
+  }
+]
