@@ -1,7 +1,8 @@
 import { notFound } from "next/navigation"
 import { getSubjects } from "@/lib/subjects"
 import { getQuestionsBySubject } from "@/lib/questions"
-import QuizClient from "@/components/features/quizclient"
+import QuizClient from "@/components/client/quizclient"
+import FlashClient from "@/components/client/flashclient"
 
 type Props = {
     params: Promise<{ slug: string }>
@@ -27,7 +28,16 @@ export default async function SubjectPage({ params }: Props) {
                 <p className="text-muted text-sm">{subject.description}</p>
             </div>
 
-            <QuizClient questions={questions} />
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6 items-start">
+                <div className="flex flex-col gap-2">
+                    <p className="text-muted text-xs uppercase tracking-widest">Quiz</p>
+                    <QuizClient questions={questions} />
+                </div>
+                <div className="flex flex-col gap-2">
+                    <p className="text-muted text-xs uppercase tracking-widest">Flashkort</p>
+                    <FlashClient questions={questions} />
+                </div>
+            </div>
         </section>
     )
 }
