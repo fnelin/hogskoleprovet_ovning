@@ -19,6 +19,7 @@ export default function FlashClient({ questions }: Props) {
     const [current, setCurrent] = useState<Question | null>(null)
     const [selected, setSelected] = useState<string | null>(null)
     const [flipped, setFlipped] = useState(false)
+    const [contentVisible, setContentVisible] = useState(true)
 
     const openCard = useCallback(() => {
         setCurrent(pickRandom(questions))
@@ -28,9 +29,13 @@ export default function FlashClient({ questions }: Props) {
     }, [questions])
 
     const nextCard = useCallback(() => {
-        setCurrent((prev) => pickRandom(questions, prev?.id))
-        setSelected(null)
         setFlipped(false)
+        setContentVisible(false)
+        setTimeout(() => {
+            setCurrent((prev) => pickRandom(questions, prev?.id))
+            setSelected(null)
+            setContentVisible(true)
+        }, 550)
     }, [questions])
 
     const close = () => setOpen(false)
@@ -95,34 +100,41 @@ export default function FlashClient({ questions }: Props) {
                                         ✕
                                     </button>
                                 </div>
-
-                                <p className="text-neutral-100 font-medium text-base leading-relaxed flex-1">
-                                    {current.question}
-                                </p>
-
-                                <div className="flex flex-col gap-2">
-                                    {current.options.map((opt) => (
-                                        <button
-                                            key={opt}
-                                            disabled={flipped}
-                                            onClick={() => setSelected(opt)}
-                                            className={`w-full text-left px-4 py-3 rounded-xl text-sm border transition-colors duration-150 bg-surface disabled:cursor-default ${selected === opt
-                                                ? "border-primary text-neutral-100"
-                                                : "border-border text-neutral-100 hover:border-primary"
-                                                }`}
-                                        >
-                                            {opt}
-                                        </button>
-                                    ))}
-                                </div>
-
-                                <button
-                                    onClick={confirm}
-                                    disabled={!selected}
-                                    className="btn-primary self-end"
+                                <div
+                                    style={{
+                                        transition: "opacity 0.2s ease",
+                                        opacity: contentVisible ? 1 : 0,
+                                    }}
+                                    className="flex flex-col gap-4"
                                 >
-                                    Bekräfta svar
-                                </button>
+                                    <p className="text-neutral-100 font-medium text-base leading-relaxed flex-1">
+                                        {current.question}
+                                    </p>
+
+                                    <div className="flex flex-col gap-2">
+                                        {current.options.map((opt) => (
+                                            <button
+                                                key={opt}
+                                                disabled={flipped}
+                                                onClick={() => setSelected(opt)}
+                                                className={`w-full text-left px-4 py-3 rounded-xl text-sm border transition-colors duration-150 bg-surface disabled:cursor-default ${selected === opt
+                                                    ? "border-primary text-neutral-100"
+                                                    : "border-border text-neutral-100 hover:border-primary"
+                                                    }`}
+                                            >
+                                                {opt}
+                                            </button>
+                                        ))}
+                                    </div>
+
+                                    <button
+                                        onClick={confirm}
+                                        disabled={!selected}
+                                        className="btn-primary self-end"
+                                    >
+                                        Bekräfta svar
+                                    </button>
+                                </div>
                             </div>
 
                             {/* BACK */}
