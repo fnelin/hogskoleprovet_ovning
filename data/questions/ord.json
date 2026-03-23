@@ -1,0 +1,100 @@
+[
+  {
+    "id": "ord-001",
+    "subject": "Ordförståelse",
+    "question": "Vilket ord är en synonym till 'kolossal'?",
+    "options": [
+      "Minimal",
+      "Genomsnittlig",
+      "Gigantisk",
+      "Rimlig"
+    ],
+    "answer": "Gigantisk",
+    "explanation": "Kolossal och gigantisk betyder båda något som är enormt stort.",
+    "slug": "ord"
+  },
+  {
+    "id": "ord-002",
+    "subject": "Ordförståelse",
+    "question": "Vad betyder ordet 'flegmatisk'?",
+    "options": [
+      "Lättretad och impulsiv",
+      "Lugn och svårrubbad",
+      "Ivrig och entusiastisk",
+      "Oärlig och beräknande"
+    ],
+    "answer": "Lugn och svårrubbad",
+    "explanation": "En flegmatisk person är kallblodig, lugn och låter sig inte lätt uppröras.",
+    "slug": "ord"
+  },
+  {
+    "id": "ord-003",
+    "subject": "Ordförståelse",
+    "question": "Vilket ord är ett antonym till 'frikostig'?",
+    "options": [
+      "Generös",
+      "Givmild",
+      "Snål",
+      "Öppen"
+    ],
+    "answer": "Snål",
+    "explanation": "Frikostig betyder generös/givmild, vars motsats är snål.",
+    "slug": "ord"
+  },
+  {
+    "id": "ord-004",
+    "subject": "Ordförståelse",
+    "question": "Vad betyder 'ambivalent'?",
+    "options": [
+      "Helt övertygad om något",
+      "Likgiltig inför allt",
+      "Ha motstridiga känslor inför något",
+      "Extremt engagerad"
+    ],
+    "answer": "Ha motstridiga känslor inför något",
+    "explanation": "Ambivalens innebär att man hyser mottsatta känslor eller åsikter om något samtidigt.",
+    "slug": "ord"
+  },
+  {
+    "id": "ord-005",
+    "subject": "Ordförståelse",
+    "question": "Vilket ord passar bäst i meningen: 'Hans tal var _____, fyllt av onödiga detaljer och upprepningar.'",
+    "options": [
+      "Koncist",
+      "Mångordig",
+      "Pregnant",
+      "Kortfattat"
+    ],
+    "answer": "Mångordig",
+    "explanation": "Mångordig betyder att man använder fler ord än nödvändigt, vilket stämmer med beskrivningen.",
+    "slug": "ord"
+  },
+  {
+    "id": "ord-006",
+    "subject": "Ordförståelse",
+    "question": "Vad betyder 'konsensus'?",
+    "options": [
+      "Stark oenighet",
+      "Allmän enighet",
+      "Personlig åsikt",
+      "Formellt beslut"
+    ],
+    "answer": "Allmän enighet",
+    "explanation": "Konsensus syftar på en uppfattning som delas av alla eller en majoritet i en grupp.",
+    "slug": "ord"
+  },
+  {
+    "id": "ord-007",
+    "subject": "Ordförståelse",
+    "question": "Vilket ord är en synonym till 'eufori'?",
+    "options": [
+      "Vemod",
+      "Likgiltighet",
+      "Lycksalighet",
+      "Förvirring"
+    ],
+    "answer": "Lycksalighet",
+    "explanation": "Eufori och lycksalighet beskriver båda ett tillstånd av intensiv glädje och välbefinnande.",
+    "slug": "ord"
+  }
+]

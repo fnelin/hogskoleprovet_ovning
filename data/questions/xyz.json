@@ -1,0 +1,212 @@
+[
+  {
+    "id": "ari-001",
+    "subject": "Matematisk problemlösning",
+    "question": "Vad är 15% av 240?",
+    "options": [
+      "30",
+      "36",
+      "40",
+      "48"
+    ],
+    "answer": "36",
+    "explanation": "15% av 240 = 0,15 × 240 = 36.",
+    "slug": "xyz"
+  },
+  {
+    "id": "ari-002",
+    "subject": "Matematisk problemlösning",
+    "question": "Vilket tal är störst?",
+    "options": [
+      "3/4",
+      "0,7",
+      "72%",
+      "7/10"
+    ],
+    "answer": "3/4",
+    "explanation": "3/4 = 0,75 vilket är störst. Övriga är 0,70, 0,72 och 0,70.",
+    "slug": "xyz"
+  },
+  {
+    "id": "ari-003",
+    "subject": "Matematisk problemlösning",
+    "question": "En vara kostar 320 kr efter 20% rabatt. Vad var ordinariepriset?",
+    "options": [
+      "384 kr",
+      "400 kr",
+      "420 kr",
+      "256 kr"
+    ],
+    "answer": "400 kr",
+    "explanation": "320 = 0,8 × p → p = 320 / 0,8 = 400 kr.",
+    "slug": "xyz"
+  },
+  {
+    "id": "ari-004",
+    "subject": "Matematisk problemlösning",
+    "question": "Hur många minuter är 2,5 timmar?",
+    "options": [
+      "120",
+      "135",
+      "150",
+      "160"
+    ],
+    "answer": "150",
+    "explanation": "2,5 × 60 = 150 minuter.",
+    "slug": "xyz"
+  },
+  {
+    "id": "ari-005",
+    "subject": "Matematisk problemlösning",
+    "question": "Vad är 2/3 + 3/4?",
+    "options": [
+      "5/7",
+      "17/12",
+      "1/2",
+      "11/12"
+    ],
+    "answer": "17/12",
+    "explanation": "2/3 = 8/12 och 3/4 = 9/12. Summan är 17/12.",
+    "slug": "xyz"
+  },
+  {
+    "id": "ari-006",
+    "subject": "Matematisk problemlösning",
+    "question": "Ett tåg färdas 450 km på 3 timmar. Vad är medelhastigheten i km/h?",
+    "options": [
+      "135",
+      "150",
+      "160",
+      "175"
+    ],
+    "answer": "150",
+    "explanation": "450 / 3 = 150 km/h.",
+    "slug": "xyz"
+  },
+  {
+    "id": "ari-007",
+    "subject": "Matematisk problemlösning",
+    "question": "Vilket av följande är ett primtal?",
+    "options": [
+      "51",
+      "57",
+      "59",
+      "63"
+    ],
+    "answer": "59",
+    "explanation": "59 är delbart enbart med 1 och sig självt. Övriga är delbara: 51 = 3×17, 57 = 3×19, 63 = 9×7.",
+    "slug": "xyz"
+  },
+  {
+    "id": "alg-001",
+    "subject": "Matematisk problemlösning",
+    "question": "Lös ekvationen: 3x + 7 = 22",
+    "options": [
+      "x = 3",
+      "x = 4",
+      "x = 5",
+      "x = 6"
+    ],
+    "answer": "x = 5",
+    "explanation": "3x = 22 − 7 = 15 → x = 5.",
+    "slug": "xyz"
+  },
+  {
+    "id": "alg-002",
+    "subject": "Matematisk problemlösning",
+    "question": "Förenkla: 4a + 3b − 2a + b",
+    "options": [
+      "6a + 4b",
+      "2a + 4b",
+      "2a − 4b",
+      "6a − 4b"
+    ],
+    "answer": "2a + 4b",
+    "explanation": "4a − 2a = 2a och 3b + b = 4b, alltså 2a + 4b.",
+    "slug": "xyz"
+  },
+  {
+    "id": "alg-003",
+    "subject": "Matematisk problemlösning",
+    "question": "Vilket värde har x om 2(x − 3) = 10?",
+    "options": [
+      "x = 5",
+      "x = 7",
+      "x = 8",
+      "x = 11"
+    ],
+    "answer": "x = 8",
+    "explanation": "2x − 6 = 10 → 2x = 16 → x = 8.",
+    "slug": "xyz"
+  },
+  {
+    "id": "alg-004",
+    "subject": "Matematisk problemlösning",
+    "question": "Vad är värdet av uttrycket 3x² när x = 4?",
+    "options": [
+      "24",
+      "36",
+      "48",
+      "144"
+    ],
+    "answer": "48",
+    "explanation": "3 × 4² = 3 × 16 = 48.",
+    "slug": "xyz"
+  },
+  {
+    "id": "alg-005",
+    "subject": "Matematisk problemlösning",
+    "question": "Lös olikheten: 5x − 3 > 12",
+    "options": [
+      "x > 1",
+      "x > 2",
+      "x > 3",
+      "x > 4"
+    ],
+    "answer": "x > 3",
+    "explanation": "5x > 15 → x > 3.",
+    "slug": "xyz"
+  },
+  {
+    "id": "alg-006",
+    "subject": "Matematisk problemlösning",
+    "question": "Faktorisera: x² − 9",
+    "options": [
+      "(x−3)(x+3)",
+      "(x−9)(x+1)",
+      "(x+3)²",
+      "(x−3)²"
+    ],
+    "answer": "(x−3)(x+3)",
+    "explanation": "x² − 9 är en differens av kvadrater: (x−3)(x+3).",
+    "slug": "xyz"
+  },
+  {
+    "id": "alg-007",
+    "subject": "Matematisk problemlösning",
+    "question": "Om f(x) = 2x + 5, vad är f(−3)?",
+    "options": [
+      "−11",
+      "−1",
+      "1",
+      "11"
+    ],
+    "answer": "−1",
+    "explanation": "f(−3) = 2×(−3) + 5 = −6 + 5 = −1.",
+    "slug": "xyz"
+  },
+  {
+    "id": "alg-008",
+    "subject": "Matematisk problemlösning",
+    "question": "Lös ekvationssystemet: x + y = 10 och x − y = 4",
+    "options": [
+      "x=6, y=4",
+      "x=7, y=3",
+      "x=8, y=2",
+      "x=5, y=5"
+    ],
+    "answer": "x=7, y=3",
+    "explanation": "Addera ekvationerna: 2x = 14 → x = 7, sedan y = 10 − 7 = 3.",
+    "slug": "xyz"
+  }
+]

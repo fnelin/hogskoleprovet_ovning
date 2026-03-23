@@ -1,0 +1,86 @@
+[
+  {
+    "id": "las-001",
+    "subject": "Läsförståelse",
+    "question": "Vad är textens huvudsyfte om en artikel inleds med statistik om klimatförändringar och avslutas med en uppmaning att ändra konsumtionsmönster?",
+    "options": [
+      "Att underhålla läsaren med fakta",
+      "Att övertyga läsaren om att agera",
+      "Att beskriva historiska händelser",
+      "Att jämföra olika länders utsläpp"
+    ],
+    "answer": "Att övertyga läsaren om att agera",
+    "explanation": "En text som kombinerar statistik med en uppmaning är argumenterande och syftar till att påverka läsarens beteende.",
+    "slug": "las"
+  },
+  {
+    "id": "las-002",
+    "subject": "Läsförståelse",
+    "question": "Vad innebär det att en text har en 'implicit slutsats'?",
+    "options": [
+      "Slutsatsen är fetstilad i texten",
+      "Slutsatsen framgår utan att uttryckligen skrivas ut",
+      "Texten saknar en slutsats",
+      "Slutsatsen presenteras i inledningen"
+    ],
+    "answer": "Slutsatsen framgår utan att uttryckligen skrivas ut",
+    "explanation": "Implicit betyder underförstådd — läsaren förväntas dra slutsatsen själv utifrån textens innehåll.",
+    "slug": "las"
+  },
+  {
+    "id": "las-003",
+    "subject": "Läsförståelse",
+    "question": "Vilket textgrepp används när en författare beskriver ett problem ur barnets perspektiv för att väcka läsarens empati?",
+    "options": [
+      "Kronologisk struktur",
+      "Berättarperspektiv för att skapa inlevelse",
+      "Faktabaserad argumentation",
+      "Komparativ analys"
+    ],
+    "answer": "Berättarperspektiv för att skapa inlevelse",
+    "explanation": "Att använda ett specifikt perspektiv för att väcka känslor kallas för att använda pathos som retorisk strategi.",
+    "slug": "las"
+  },
+  {
+    "id": "las-004",
+    "subject": "Läsförståelse",
+    "question": "En text beskriver både för- och nackdelar med ett förslag utan att ta ställning. Hur klassificeras texten bäst?",
+    "options": [
+      "Argumenterande",
+      "Instruerande",
+      "Utredande",
+      "Berättande"
+    ],
+    "answer": "Utredande",
+    "explanation": "En utredande text presenterar olika perspektiv och fakta utan att nödvändigtvis argumentera för en viss ståndpunkt.",
+    "slug": "las"
+  },
+  {
+    "id": "las-005",
+    "subject": "Läsförståelse",
+    "question": "Vad menas med 'textreferens' när man svarar på en läsförståelsefråga?",
+    "options": [
+      "Att man hittar exakta ord i texten som stödjer svaret",
+      "Att man sammanfattar hela texten",
+      "Att man jämför texten med en annan källa",
+      "Att man tolkar textens budskap fritt"
+    ],
+    "answer": "Att man hittar exakta ord i texten som stödjer svaret",
+    "explanation": "Textreferens innebär att svaret kan beläggas direkt i texten, till skillnad från slutledning.",
+    "slug": "las"
+  },
+  {
+    "id": "las-006",
+    "subject": "Läsförståelse",
+    "question": "En artikel börjar med orden 'Trots att forskningen är entydig väljer politikerna att ignorera den.' Vilken ton har inledningen?",
+    "options": [
+      "Neutral och informativ",
+      "Kritisk och ifrågasättande",
+      "Optimistisk och uppmuntrande",
+      "Deskriptiv och objektiv"
+    ],
+    "answer": "Kritisk och ifrågasättande",
+    "explanation": "Ordet 'trots' markerar en kontrast och kritik mot politikernas agerande, vilket ger texten en ifrågasättande ton.",
+    "slug": "las"
+  }
+]

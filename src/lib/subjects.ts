@@ -1,6 +1,5 @@
-import fs from "fs"
-import path from "path"
-
+import subjectsData from "@/../data/subjects.json"
+ 
 export type Subject = {
   slug: string
   title: string
@@ -8,10 +7,9 @@ export type Subject = {
   icon: string
   color: string
   description: string
+  section: string
 }
-
+ 
 export function getSubjects(): Subject[] {
-  const filePath = path.join(process.cwd(), "data", "subjects.json")
-  const raw = fs.readFileSync(filePath, "utf-8")
-  return JSON.parse(raw) as Subject[]
+  return subjectsData as Subject[]
 }

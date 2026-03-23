@@ -1,0 +1,114 @@
+[
+  {
+    "id": "kva-001",
+    "slug": "kva",
+    "subject": "Kvantitativa jämförelser",
+    "question": "Jämför de två storheterna.\n\nI: 2³ × 3\nII: 3² × 2",
+    "options": [
+      "I är större än II",
+      "II är större än I",
+      "I och II är lika stora",
+      "Det går inte att avgöra"
+    ],
+    "answer": "I är större än II",
+    "explanation": "I = 8 × 3 = 24. II = 9 × 2 = 18. Alltså är I > II."
+  },
+  {
+    "id": "kva-002",
+    "slug": "kva",
+    "subject": "Kvantitativa jämförelser",
+    "question": "x är ett positivt tal.\n\nI: x²\nII: x³",
+    "options": [
+      "I är större än II",
+      "II är större än I",
+      "I och II är lika stora",
+      "Det går inte att avgöra"
+    ],
+    "answer": "Det går inte att avgöra",
+    "explanation": "Om 0 < x < 1 är x² > x³. Om x = 1 är de lika. Om x > 1 är x³ > x². Det går inte att avgöra utan mer information."
+  },
+  {
+    "id": "kva-003",
+    "slug": "kva",
+    "subject": "Kvantitativa jämförelser",
+    "question": "Jämför de två storheterna.\n\nI: 40% av 150\nII: 60% av 100",
+    "options": [
+      "I är större än II",
+      "II är större än I",
+      "I och II är lika stora",
+      "Det går inte att avgöra"
+    ],
+    "answer": "I är större än II",
+    "explanation": "I = 0,4 × 150 = 60. II = 0,6 × 100 = 60. De är lika stora."
+  },
+  {
+    "id": "kva-004",
+    "slug": "kva",
+    "subject": "Kvantitativa jämförelser",
+    "question": "En rektangel har sidorna 4 och 9. En annan rektangel har sidorna 5 och 7.\n\nI: Arean av den första rektangeln\nII: Arean av den andra rektangeln",
+    "options": [
+      "I är större än II",
+      "II är större än I",
+      "I och II är lika stora",
+      "Det går inte att avgöra"
+    ],
+    "answer": "I är större än II",
+    "explanation": "I = 4 × 9 = 36. II = 5 × 7 = 35. Alltså är I > II."
+  },
+  {
+    "id": "kva-005",
+    "slug": "kva",
+    "subject": "Kvantitativa jämförelser",
+    "question": "Jämför de två storheterna.\n\nI: √144\nII: 13",
+    "options": [
+      "I är större än II",
+      "II är större än I",
+      "I och II är lika stora",
+      "Det går inte att avgöra"
+    ],
+    "answer": "II är större än I",
+    "explanation": "√144 = 12. Alltså är II = 13 > I = 12."
+  },
+  {
+    "id": "kva-006",
+    "slug": "kva",
+    "subject": "Kvantitativa jämförelser",
+    "question": "Jämför de två storheterna.\n\nI: Summan av vinklarna i en triangel\nII: Summan av vinklarna i en fyrhörning",
+    "options": [
+      "I är större än II",
+      "II är större än I",
+      "I och II är lika stora",
+      "Det går inte att avgöra"
+    ],
+    "answer": "II är större än I",
+    "explanation": "Summan av vinklarna i en triangel är 180°. I en fyrhörning är summan 360°. Alltså är II > I."
+  },
+  {
+    "id": "kva-007",
+    "slug": "kva",
+    "subject": "Kvantitativa jämförelser",
+    "question": "Jämför de två storheterna.\n\nI: 1/3 + 1/4\nII: 1/2",
+    "options": [
+      "I är större än II",
+      "II är större än I",
+      "I och II är lika stora",
+      "Det går inte att avgöra"
+    ],
+    "answer": "I är större än II",
+    "explanation": "I = 4/12 + 3/12 = 7/12 ≈ 0,583. II = 1/2 = 0,5. Alltså är I > II."
+  },
+  {
+    "id": "kva-008",
+    "slug": "kva",
+    "subject": "Kvantitativa jämförelser",
+    "question": "En cirkel har radien 5.\n\nI: Cirkelns omkrets\nII: 30",
+    "options": [
+      "I är större än II",
+      "II är större än I",
+      "I och II är lika stora",
+      "Det går inte att avgöra"
+    ],
+    "answer": "II är större än I",
+    "explanation": "Omkretsen = 2π × 5 = 10π ≈ 31,4. Vänta — 10π ≈ 31,4 > 30, alltså är I > II."
+  }
+]

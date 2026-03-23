@@ -1,34 +1,74 @@
 [
   {
-    "slug": "aritmetik",
-    "title": "Aritmetik",
-    "badge": "KVA",
-    "icon": "🔢",
-    "color": "indigo",
-    "description": "Grundläggande räkning, bråk, procent och taluppfattning."
-  },
-  {
-    "slug": "algebra",
-    "title": "Algebra",
-    "badge": "XYZ",
-    "icon": "🔣",
-    "color": "teal",
-    "description": "Ekvationer, olikheter och algebraiska uttryck."
-  },
-  {
-    "slug": "lasforstaelse",
-    "title": "Läsförståelse",
-    "badge": "LÄS",
-    "icon": "📖",
-    "color": "amber",
-    "description": "Textanalys och förståelse av längre svenska texter."
-  },
-  {
-    "slug": "ordforstaelse",
+    "slug": "ord",
     "title": "Ordförståelse",
     "badge": "ORD",
     "icon": "🔠",
-    "color": "amber",
-    "description": "Synonymer, antonymer och ordets betydelse i kontext."
+    "color": "indigo",
+    "description": "Välj det ord eller uttryck som bäst motsvarar det kursiverade ordets betydelse.",
+    "section": "verbal"
+  },
+  {
+    "slug": "las",
+    "title": "Läsförståelse",
+    "badge": "LÄS",
+    "icon": "📖",
+    "color": "indigo",
+    "description": "Besvara frågor om innehållet i svenska texter.",
+    "section": "verbal"
+  },
+  {
+    "slug": "mek",
+    "title": "Meningskomplettering",
+    "badge": "MEK",
+    "icon": "📝",
+    "color": "indigo",
+    "description": "Välj det alternativ som bäst fyller i de tomma luckorna i texten.",
+    "section": "verbal"
+  },
+  {
+    "slug": "elf",
+    "title": "Engelsk läsförståelse",
+    "badge": "ELF",
+    "icon": "🇬🇧",
+    "color": "indigo",
+    "description": "Besvara frågor om innehållet i engelska texter.",
+    "section": "verbal"
+  },
+  {
+    "slug": "kva",
+    "title": "Kvantitativa jämförelser",
+    "badge": "KVA",
+    "icon": "⚖️",
+    "color": "teal",
+    "description": "Jämför två kvantiteter och avgör vilket värde som är störst.",
+    "section": "kvantitativ"
+  },
+  {
+    "slug": "xyz",
+    "title": "Matematisk problemlösning",
+    "badge": "XYZ",
+    "icon": "🔣",
+    "color": "teal",
+    "description": "Lös matematiska problem och välj rätt svar bland alternativen.",
+    "section": "kvantitativ"
+  },
+  {
+    "slug": "noga",
+    "title": "Dataanalys — del A",
+    "badge": "NOGa",
+    "icon": "📊",
+    "color": "teal",
+    "description": "Avgör om givna påståenden ger tillräcklig information för att lösa ett problem.",
+    "section": "kvantitativ"
+  },
+  {
+    "slug": "nogb",
+    "title": "Dataanalys — del B",
+    "badge": "NOGb",
+    "icon": "📈",
+    "color": "teal",
+    "description": "Besvara frågor med hjälp av diagram, tabeller och statistik.",
+    "section": "kvantitativ"
   }
 ]

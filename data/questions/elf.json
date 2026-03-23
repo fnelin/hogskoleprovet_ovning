@@ -1,0 +1,114 @@
+[
+  {
+    "id": "elf-001",
+    "slug": "elf",
+    "subject": "Engelsk läsförståelse",
+    "question": "What does the word 'ambiguous' most likely mean in the sentence: 'The contract contained several ambiguous clauses that left both parties uncertain about their obligations'?",
+    "options": [
+      "Clearly defined",
+      "Open to multiple interpretations",
+      "Legally binding",
+      "Unnecessarily complex"
+    ],
+    "answer": "Open to multiple interpretations",
+    "explanation": "'Ambiguous' means open to more than one interpretation. The context — uncertainty about obligations — confirms this meaning."
+  },
+  {
+    "id": "elf-002",
+    "slug": "elf",
+    "subject": "Engelsk läsförståelse",
+    "question": "Read the passage: 'Despite initial skepticism from investors, the startup's revenue tripled within its first year, silencing its critics.' What is the main point of this sentence?",
+    "options": [
+      "Investors were right to doubt the startup",
+      "The startup failed to meet expectations",
+      "The startup's success proved the doubters wrong",
+      "Critics helped improve the startup's performance"
+    ],
+    "answer": "The startup's success proved the doubters wrong",
+    "explanation": "'Despite initial skepticism' and 'silencing its critics' together show that strong performance disproved early doubts."
+  },
+  {
+    "id": "elf-003",
+    "slug": "elf",
+    "subject": "Engelsk läsförståelse",
+    "question": "Which word is closest in meaning to 'proliferate' as used in: 'Social media platforms continue to proliferate, with new apps emerging every month'?",
+    "options": [
+      "Decline",
+      "Merge",
+      "Multiply rapidly",
+      "Improve steadily"
+    ],
+    "answer": "Multiply rapidly",
+    "explanation": "'Proliferate' means to increase rapidly in number. The context of 'new apps emerging every month' supports this meaning."
+  },
+  {
+    "id": "elf-004",
+    "slug": "elf",
+    "subject": "Engelsk läsförståelse",
+    "question": "Read the passage: 'The author's prose is deceptively simple — beneath the plain surface lies a carefully constructed web of symbolism.' What does the author mean by 'deceptively simple'?",
+    "options": [
+      "The prose is simple and easy to understand",
+      "The prose appears simple but is actually complex",
+      "The prose is dishonest in its simplicity",
+      "The prose is too simple for literary analysis"
+    ],
+    "answer": "The prose appears simple but is actually complex",
+    "explanation": "'Deceptively' means misleadingly — the prose looks simple on the surface but hides complex symbolism underneath."
+  },
+  {
+    "id": "elf-005",
+    "slug": "elf",
+    "subject": "Engelsk läsförståelse",
+    "question": "Which sentence best describes the tone of: 'Yet another policy reform has been announced, promising the same sweeping changes we have heard about for the past decade'?",
+    "options": [
+      "Optimistic and encouraging",
+      "Neutral and informative",
+      "Cynical and skeptical",
+      "Alarmed and urgent"
+    ],
+    "answer": "Cynical and skeptical",
+    "explanation": "'Yet another' and 'the same sweeping changes we have heard about for the past decade' signal doubt and weariness — a cynical tone."
+  },
+  {
+    "id": "elf-006",
+    "slug": "elf",
+    "subject": "Engelsk läsförståelse",
+    "question": "What is the function of the word 'albeit' in: 'The treatment was effective, albeit expensive and time-consuming'?",
+    "options": [
+      "To contradict the first clause entirely",
+      "To introduce a condition",
+      "To acknowledge a limitation while maintaining the main point",
+      "To emphasize the positive outcome"
+    ],
+    "answer": "To acknowledge a limitation while maintaining the main point",
+    "explanation": "'Albeit' means 'even though' — it concedes a drawback (expensive, time-consuming) without undermining the main claim (effective)."
+  },
+  {
+    "id": "elf-007",
+    "slug": "elf",
+    "subject": "Engelsk läsförståelse",
+    "question": "Read the passage: 'Renewable energy sources have grown substantially, yet fossil fuels still account for the majority of global energy consumption.' What does this sentence primarily illustrate?",
+    "options": [
+      "Renewable energy has failed as a solution",
+      "Fossil fuels are more reliable than renewables",
+      "Progress has been made but challenges remain",
+      "Global energy consumption is decreasing"
+    ],
+    "answer": "Progress has been made but challenges remain",
+    "explanation": "'Grown substantially' shows progress, while 'yet still account for the majority' shows that fossil fuels still dominate — a classic progress-versus-challenge structure."
+  },
+  {
+    "id": "elf-008",
+    "slug": "elf",
+    "subject": "Engelsk läsförståelse",
+    "question": "What does 'tangible' mean in: 'After months of negotiations, the two sides finally reached a tangible agreement that could be implemented immediately'?",
+    "options": [
+      "Theoretical and abstract",
+      "Concrete and real",
+      "Temporary and fragile",
+      "Controversial and disputed"
+    ],
+    "answer": "Concrete and real",
+    "explanation": "'Tangible' means real and concrete — something that can actually be acted upon, as supported by 'implemented immediately'."
+  }
+]
