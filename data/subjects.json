@@ -23,7 +23,7 @@
     "badge": "MEK",
     "icon": "📝",
     "color": "indigo",
-    "description": "Välj det alternativ som bäst fyller i de tomma luckorna i texten.",
+    "description": "Välj det alternativ som bäst fyller i de tomma luckorna i meningen.",
     "section": "verbal"
   },
   {
@@ -36,15 +36,6 @@
     "section": "verbal"
   },
   {
-    "slug": "kva",
-    "title": "Kvantitativa jämförelser",
-    "badge": "KVA",
-    "icon": "⚖️",
-    "color": "teal",
-    "description": "Jämför två kvantiteter och avgör vilket värde som är störst.",
-    "section": "kvantitativ"
-  },
-  {
     "slug": "xyz",
     "title": "Matematisk problemlösning",
     "badge": "XYZ",
@@ -54,21 +45,30 @@
     "section": "kvantitativ"
   },
   {
-    "slug": "noga",
-    "title": "Dataanalys — del A",
-    "badge": "NOGa",
-    "icon": "📊",
+    "slug": "kva",
+    "title": "Kvantitativa jämförelser",
+    "badge": "KVA",
+    "icon": "⚖️",
+    "color": "teal",
+    "description": "Jämför två kvantiteter och avgör vilket värde som är störst.",
+    "section": "kvantitativ"
+  },
+  {
+    "slug": "nog",
+    "title": "Dataanalys",
+    "badge": "NOG",
+    "icon": "🧮",
     "color": "teal",
     "description": "Avgör om givna påståenden ger tillräcklig information för att lösa ett problem.",
     "section": "kvantitativ"
   },
   {
-    "slug": "nogb",
-    "title": "Dataanalys — del B",
-    "badge": "NOGb",
-    "icon": "📈",
+    "slug": "dtk",
+    "title": "Diagram, tabeller och kartor",
+    "badge": "DTK",
+    "icon": "📊",
     "color": "teal",
-    "description": "Besvara frågor med hjälp av diagram, tabeller och statistik.",
+    "description": "Besvara frågor med hjälp av diagram, tabeller och kartor.",
     "section": "kvantitativ"
   }
 ]

@@ -1,0 +1,152 @@
+[
+  {
+    "id": "nog-001",
+    "slug": "nog",
+    "subject": "Dataanalys",
+    "question": "Vad är värdet av det positiva talet x?\n\n(1) x² = 25\n(2) x + 3 = 8",
+    "options": [
+      "A – i (1) men ej i (2)",
+      "B – i (2) men ej i (1)",
+      "C – i (1) tillsammans med (2)",
+      "D – i (1) och (2) var för sig",
+      "E – ej genom de båda påståendena"
+    ],
+    "answer": "D – i (1) och (2) var för sig",
+    "explanation": "(1) ensamt: x² = 25 ger x = 5 eller x = −5. Eftersom x är positivt ger detta x = 5 entydigt. Tillräckligt.\n(2) ensamt: x + 3 = 8 ger x = 5. Tillräckligt.\nKombinationen behövs inte. Svar: D."
+  },
+  {
+    "id": "nog-002",
+    "slug": "nog",
+    "subject": "Dataanalys",
+    "question": "Hur många elever är det i klassen?\n\n(1) Antalet pojkar är 18.\n(2) Andelen flickor är 40%.",
+    "options": [
+      "A – i (1) men ej i (2)",
+      "B – i (2) men ej i (1)",
+      "C – i (1) tillsammans med (2)",
+      "D – i (1) och (2) var för sig",
+      "E – ej genom de båda påståendena"
+    ],
+    "answer": "C – i (1) tillsammans med (2)",
+    "explanation": "(1) ensamt: vi vet att det finns 18 pojkar men inte hur stor andel de utgör. Otillräckligt.\n(2) ensamt: vi vet att 40% är flickor, dvs 60% är pojkar, men inte det faktiska antalet. Otillräckligt.\nTillsammans: 60% = 18 elever → totalt = 18 / 0,60 = 30 elever. Tillräckligt. Svar: C."
+  },
+  {
+    "id": "nog-003",
+    "slug": "nog",
+    "subject": "Dataanalys",
+    "question": "Är triangeln liksidig?\n\n(1) Två av triangelns sidor är lika långa.\n(2) En av triangelns vinklar är 60°.",
+    "options": [
+      "A – i (1) men ej i (2)",
+      "B – i (2) men ej i (1)",
+      "C – i (1) tillsammans med (2)",
+      "D – i (1) och (2) var för sig",
+      "E – ej genom de båda påståendena"
+    ],
+    "answer": "E – ej genom de båda påståendena",
+    "explanation": "(1) ensamt: en triangel med två lika sidor är likbent men inte nödvändigtvis liksidig. Otillräckligt.\n(2) ensamt: en vinkel på 60° räcker inte — en triangel kan ha en 60°-vinkel utan att vara liksidig. Otillräckligt.\nTillsammans: en likbent triangel med en 60°-vinkel kan vara liksidig, men om 60°-vinkeln är toppvinkeln är basvinklarna 60° var, vilket ger liksidig. Om 60°-vinkeln är en basvinkel är toppvinkeln 60° och alla vinklar 60°, också liksidig. Men om de två lika sidorna inte är de som omsluter 60°-vinkeln kan triangeln vara icke-liksidig. Det går inte att avgöra entydigt. Svar: E."
+  },
+  {
+    "id": "nog-004",
+    "slug": "nog",
+    "subject": "Dataanalys",
+    "question": "Vad är priset på en vara efter att momsen lagts till?\n\n(1) Priset exklusive moms är 400 kr.\n(2) Momssatsen är 25%.",
+    "options": [
+      "A – i (1) men ej i (2)",
+      "B – i (2) men ej i (1)",
+      "C – i (1) tillsammans med (2)",
+      "D – i (1) och (2) var för sig",
+      "E – ej genom de båda påståendena"
+    ],
+    "answer": "C – i (1) tillsammans med (2)",
+    "explanation": "(1) ensamt: vi vet priset ex moms men inte momssatsen. Otillräckligt.\n(2) ensamt: vi vet momssatsen men inte grundpriset. Otillräckligt.\nTillsammans: 400 × 1,25 = 500 kr. Tillräckligt. Svar: C."
+  },
+  {
+    "id": "nog-005",
+    "slug": "nog",
+    "subject": "Dataanalys",
+    "question": "Är talet n delbart med 6?\n\n(1) n är delbart med 2.\n(2) n är delbart med 3.",
+    "options": [
+      "A – i (1) men ej i (2)",
+      "B – i (2) men ej i (1)",
+      "C – i (1) tillsammans med (2)",
+      "D – i (1) och (2) var för sig",
+      "E – ej genom de båda påståendena"
+    ],
+    "answer": "C – i (1) tillsammans med (2)",
+    "explanation": "(1) ensamt: delbart med 2 räcker inte — t.ex. 4 är delbart med 2 men inte med 6. Otillräckligt.\n(2) ensamt: delbart med 3 räcker inte — t.ex. 9 är delbart med 3 men inte med 6. Otillräckligt.\nTillsammans: om n är delbart med både 2 och 3 är det delbart med 6, eftersom 2 och 3 är relativt prima. Tillräckligt. Svar: C."
+  },
+  {
+    "id": "nog-006",
+    "slug": "nog",
+    "subject": "Dataanalys",
+    "question": "Hur lång tid tar det att köra sträckan mellan stad A och stad B?\n\n(1) Sträckan är 240 km.\n(2) Medelhastigheten är 80 km/h.",
+    "options": [
+      "A – i (1) men ej i (2)",
+      "B – i (2) men ej i (1)",
+      "C – i (1) tillsammans med (2)",
+      "D – i (1) och (2) var för sig",
+      "E – ej genom de båda påståendena"
+    ],
+    "answer": "C – i (1) tillsammans med (2)",
+    "explanation": "(1) ensamt: vi vet sträckan men inte hastigheten. Otillräckligt.\n(2) ensamt: vi vet hastigheten men inte sträckan. Otillräckligt.\nTillsammans: tid = sträcka / hastighet = 240 / 80 = 3 timmar. Tillräckligt. Svar: C."
+  },
+  {
+    "id": "nog-007",
+    "slug": "nog",
+    "subject": "Dataanalys",
+    "question": "Vad är värdet av x + y?\n\n(1) 2x + 2y = 20\n(2) x − y = 3",
+    "options": [
+      "A – i (1) men ej i (2)",
+      "B – i (2) men ej i (1)",
+      "C – i (1) tillsammans med (2)",
+      "D – i (1) och (2) var för sig",
+      "E – ej genom de båda påståendena"
+    ],
+    "answer": "A – i (1) men ej i (2)",
+    "explanation": "(1) ensamt: 2x + 2y = 20 → 2(x + y) = 20 → x + y = 10. Tillräckligt.\n(2) ensamt: x − y = 3 ger skillnaden men inte summan — oändligt många par (x, y) satisfierar detta. Otillräckligt.\nSvar: A."
+  },
+  {
+    "id": "nog-008",
+    "slug": "nog",
+    "subject": "Dataanalys",
+    "question": "Hur stor är vinkeln v i en triangel?\n\n(1) De två andra vinklarna i triangeln är lika stora.\n(2) Triangeln är rätvinklig.",
+    "options": [
+      "A – i (1) men ej i (2)",
+      "B – i (2) men ej i (1)",
+      "C – i (1) tillsammans med (2)",
+      "D – i (1) och (2) var för sig",
+      "E – ej genom de båda påståendena"
+    ],
+    "answer": "E – ej genom de båda påståendena",
+    "explanation": "(1) ensamt: de två andra vinklarna är lika stora men vi vet inte storleken på v — v kan vara vilken vinkel som helst och de andra delar resten lika. Otillräckligt.\n(2) ensamt: triangeln är rätvinklig men vi vet inte vilken av de tre vinklarna som är v. Otillräckligt.\nTillsammans: om triangeln är rätvinklig är en vinkel 90°. Om de två övriga är lika stora är de 45° var. Men vi vet inte om v är 90°-vinkeln eller en av 45°-vinklarna — det framgår inte av påståendena. Entydigt svar kan inte ges. Svar: E."
+  },
+  {
+    "id": "nog-009",
+    "slug": "nog",
+    "subject": "Dataanalys",
+    "question": "Vilket är det minsta av tre på varandra följande heltal vars summa är känd?\n\n(1) Summan av de tre heltalen är 54.\n(2) Det mittersta av de tre heltalen är 18.",
+    "options": [
+      "A – i (1) men ej i (2)",
+      "B – i (2) men ej i (1)",
+      "C – i (1) tillsammans med (2)",
+      "D – i (1) och (2) var för sig",
+      "E – ej genom de båda påståendena"
+    ],
+    "answer": "D – i (1) och (2) var för sig",
+    "explanation": "(1) ensamt: tre på varandra följande heltal n, n+1, n+2 ger summan 3n+3 = 54 → n = 17. Det minsta är 17. Tillräckligt.\n(2) ensamt: om det mittersta är 18 är de tre talen 17, 18, 19. Det minsta är 17. Tillräckligt.\nBåda räcker var för sig. Svar: D."
+  },
+  {
+    "id": "nog-010",
+    "slug": "nog",
+    "subject": "Dataanalys",
+    "question": "Är x > y?\n\n(1) x² > y²\n(2) x > 0 och y > 0",
+    "options": [
+      "A – i (1) men ej i (2)",
+      "B – i (2) men ej i (1)",
+      "C – i (1) tillsammans med (2)",
+      "D – i (1) och (2) var för sig",
+      "E – ej genom de båda påståendena"
+    ],
+    "answer": "C – i (1) tillsammans med (2)",
+    "explanation": "(1) ensamt: x² > y² innebär |x| > |y| men inte nödvändigtvis x > y — t.ex. x = −5, y = 3 ger x² > y² men x < y. Otillräckligt.\n(2) ensamt: att båda är positiva säger ingenting om vilket som är störst. Otillräckligt.\nTillsammans: om x > 0, y > 0 och x² > y² följer direkt att x > y (eftersom kvadratfunktionen är strängt växande för positiva tal). Tillräckligt. Svar: C."
+  }
+]

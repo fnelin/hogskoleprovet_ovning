@@ -2,6 +2,7 @@
 
 import { useState, useCallback } from "react"
 import type { Question } from "@/lib/questions"
+import { formatText } from "@/lib/utils"
 
 type Props = {
     questions: Question[]
@@ -106,9 +107,7 @@ export default function FlashClient({ questions }: Props) {
                                     }}
                                     className="flex flex-col gap-4"
                                 >
-                                    <p className="text-neutral-100 font-medium text-base leading-relaxed flex-1">
-                                        {current.question}
-                                    </p>
+                                    {formatText(current.question, "text-neutral-100 font-medium text-base leading-relaxed")}
 
                                     <div className="flex flex-col gap-2">
                                         {current.options.map((opt) => (
@@ -174,9 +173,9 @@ export default function FlashClient({ questions }: Props) {
 
                                 <div>
                                     <p className="text-muted text-xs mb-1">Förklaring</p>
-                                    <p className="text-muted text-sm leading-relaxed">
-                                        {current.explanation}
-                                    </p>
+
+                                    {formatText(current.explanation, "text-sm text-muted leading-relaxed")}
+
                                 </div>
 
                                 <div className="flex gap-3 mt-auto pt-2">
