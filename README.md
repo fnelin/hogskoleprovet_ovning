@@ -6,6 +6,14 @@ Preperation question stored in json files presented as either flashcard or strin
 A typescript/nextjs project with as few components as possible. Tailwind added for quicker formatting.
 Heavy use of Claude AI with manual code reviews and refactors. So far no keys or secrets in .env.
 
+### 🧩 Adding subjects
+The questions are managed in two json files.
+- Subjects.json
+  - Here we define which categories/subjects of questions will be shown on the frontpage.   
+    Each subject has a three to four letter SLUG which is used as naming convention for each file containing questions
+- [slug].json
+  - Files with questions, answer and explanation. Each file is named with a [SLUG] in order to map it to a category/subject.
+
 ### 🔖 Wishlist
 - [ ] Userprofiles with progress charts
 - [ ] Larger set of questions for each category
