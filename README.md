@@ -11,8 +11,35 @@ The questions are managed in two json files.
 - Subjects.json
   - Here we define which categories/subjects of questions will be shown on the frontpage.   
     Each subject has a three to four letter SLUG which is used as naming convention for each file containing questions
+```
+   {
+    "slug": "ord",
+    "title": "Ordförståelse",
+    "badge": "ORD",
+    "icon": "🔠",
+    "color": "indigo",
+    "description": "Välj det ord eller uttryck som bäst motsvarar det kursiverade ordets betydelse.",
+    "section": "verbal"
+   }
+```
 - [slug].json
-  - Files with questions, answer and explanation. Each file is named with a [SLUG] in order to map it to a category/subject.
+  - Files with questions, answer and explanation. Each file is named with a [SLUG] in order to map it to a category/subject.   
+```
+  {
+    "id": "las-001",
+    "subject": "Läsförståelse",
+    "question": "Vad är textens huvudsyfte om en artikel inleds med statistik om klimatförändringar och avslutas med en uppmaning att ändra konsumtionsmönster?",
+    "options": [
+      "Att underhålla läsaren med fakta",
+      "Att övertyga läsaren om att agera",
+      "Att beskriva historiska händelser",
+      "Att jämföra olika länders utsläpp"
+    ],
+    "answer": "Att övertyga läsaren om att agera",
+    "explanation": "En text som kombinerar statistik med en uppmaning är argumenterande och syftar till att påverka läsarens beteende.",
+    "slug": "las"
+  }
+```
 
 ### 🔖 Wishlist
 - [ ] Userprofiles with progress charts
