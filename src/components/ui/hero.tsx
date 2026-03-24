@@ -4,7 +4,7 @@ export default function Mainhero() {
             Förberedelser med syfte.
         </h1>
         <p className="mt-4 text-lg text-muted-foreground max-w-xl">
-            Riktade övningsfrågor för att förbereda dig inför ditt kommande prov. Välj ett ämne eller gör ett helt övningsprov.
+            Riktade övningsfrågor för att förbereda dig inför ditt kommande prov. Välj ett ämne för att öva på frågorna.
         </p>
     </section>
     )
