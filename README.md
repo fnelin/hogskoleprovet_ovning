@@ -22,10 +22,13 @@ The questions are managed in two json files.
     "section": "verbal"
    }
 ```
+> [!CAUTION]
+> Provided files contain AI generated questions and their prompts. The prompts are stored in `data/questions/prompts.txt`.   
+> The questions and answers are not vetted and should not be used for actual preperations at this time.
+
 - [slug].json
   - Files with questions, answer and explanation. Each file is named with a [SLUG] in order to map it to a category/subject.
-> [!CAUTION]
-> Provided files contain AI generated questions and their prompts. The questions and answers are not vetted and should not be used for actual preperations at this time.
+
 ```
   {
     "id": "las-001",
