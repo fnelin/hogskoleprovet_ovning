@@ -45,7 +45,7 @@
     "id": "dtk-004",
     "slug": "dtk",
     "subject": "Dataanalys — del B",
-    "question": "En klass har 30 elever. Resultaten på ett prov fördelar sig enligt: Under 50p: 6 elever, 50–70p: 12 elever, Över 70p: 12 elever. Vilken andel av eleverna fick under 50 poäng?",
+    "question": "En klass har 30 elever. Resultaten på ett prov fördelar sig enligt: Under 50p: 6 elever, 50-70p: 12 elever, Över 70p: 12 elever. Vilken andel av eleverna fick under 50 poäng?",
     "options": [
       "15%",
       "20%",

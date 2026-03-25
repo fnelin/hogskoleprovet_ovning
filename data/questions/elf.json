@@ -110,5 +110,358 @@
     ],
     "answer": "Concrete and real",
     "explanation": "'Tangible' means real and concrete — something that can actually be acted upon, as supported by 'implemented immediately'."
+  },
+  {
+    "id": "elf-009",
+    "slug": "elf",
+    "subject": "Engelsk läsförståelse",
+    "question": "Text:\nMany cities around the world are investing in bicycle infrastructure as a way to reduce traffic congestion and pollution. In Copenhagen, for example, more than half of all commuters travel by bike every day. This has been made possible through decades of planning, including the construction of dedicated bike lanes, traffic signals designed specifically for cyclists, and public campaigns promoting cycling as a healthy and environmentally friendly alternative to driving.\n\nHowever, not all cities have been equally successful. In some places, attempts to encourage cycling have been met with resistance from drivers and businesses, who argue that reducing car lanes harms economic activity. Others point out that weather conditions and long commuting distances can make cycling impractical for many people.\n\nDespite these challenges, experts agree that cities that invest consistently in cycling infrastructure tend to see long-term benefits, including improved public health and reduced air pollution.\n\nQuestion: What is the main idea of the text?",
+    "options": [
+      "Cycling is only practical in cities with good weather",
+      "Cities face both benefits and challenges when promoting cycling",
+      "Businesses always oppose bicycle infrastructure",
+      "Copenhagen is the only city where cycling is popular"
+    ],
+    "answer": "Cities face both benefits and challenges when promoting cycling",
+    "explanation": "The text presents both advantages (health, pollution reduction, Copenhagen success) and challenges (resistance, weather, distance). Other options are too narrow or incorrect."
+  },
+  {
+    "id": "elf-010",
+    "slug": "elf",
+    "subject": "Engelsk läsförståelse",
+    "question": "Text:\nArtificial intelligence has rapidly advanced over the past decade, transforming industries such as healthcare, finance, and transportation. Machines are now capable of diagnosing diseases, detecting fraud, and even driving cars. While these developments have created new opportunities, they have also raised concerns about job displacement and ethical decision-making.\n\nSome experts argue that AI will ultimately create more jobs than it replaces, particularly in fields that require creativity and human interaction. Others, however, warn that certain professions may disappear entirely, leaving workers struggling to adapt.\n\nGovernments and organizations are increasingly focusing on developing regulations and educational programs to ensure that society can benefit from AI while minimizing its risks.\n\nQuestion: What concern about AI is mentioned in the text?",
+    "options": [
+      "That AI cannot perform complex tasks",
+      "That AI may replace certain jobs",
+      "That AI is too expensive to develop",
+      "That AI only benefits governments"
+    ],
+    "answer": "That AI may replace certain jobs",
+    "explanation": "The text explicitly mentions 'job displacement'. Other options are not supported."
+  },
+  {
+    "id": "elf-011",
+    "slug": "elf",
+    "subject": "Engelsk läsförståelse",
+    "question": "Text:\nReading fiction has long been considered a valuable activity, not only for entertainment but also for developing empathy. Studies suggest that people who regularly read novels are better able to understand others' emotions and perspectives. This is because stories often place readers inside the minds of characters with different backgrounds and experiences.\n\nHowever, some researchers argue that not all types of reading have the same effect. For instance, reading purely factual material may not engage the imagination in the same way. Others suggest that digital reading habits could reduce the depth of engagement.\n\nQuestion: Why might fiction improve empathy?",
+    "options": [
+      "Because it provides factual information",
+      "Because it places readers in others' perspectives",
+      "Because it is easier to read",
+      "Because it is always longer"
+    ],
+    "answer": "Because it places readers in others' perspectives",
+    "explanation": "The text states readers are placed inside characters' minds. Other options are unsupported."
+  },
+  {
+    "id": "elf-012",
+    "slug": "elf",
+    "subject": "Engelsk läsförståelse",
+    "question": "Text:\nIn recent years, remote work has become increasingly common. Advances in technology have made it possible for employees to collaborate from different locations, often leading to greater flexibility and improved work-life balance. Many workers appreciate the ability to avoid long commutes.\n\nHowever, remote work also presents challenges. Some employees report feeling isolated, while others find it difficult to separate work from personal life.\n\nQuestion: What is one advantage of remote work?",
+    "options": [
+      "Lower salaries",
+      "More commuting",
+      "Greater flexibility",
+      "Less communication"
+    ],
+    "answer": "Greater flexibility",
+    "explanation": "The text explicitly mentions flexibility. Other options contradict or are not stated."
+  },
+  {
+    "id": "elf-013",
+    "slug": "elf",
+    "subject": "Engelsk läsförståelse",
+    "question": "Text:\nThe discovery of new species is often associated with remote jungles or deep oceans, but scientists continue to find previously unknown organisms in more familiar environments as well. Even in urban areas, new species are being identified.\n\nAt the same time, many species are disappearing due to habitat destruction and climate change.\n\nQuestion: What does the text suggest?",
+    "options": [
+      "Discovery only happens in remote areas",
+      "It can happen in familiar environments",
+      "It has stopped",
+      "It only happens in oceans"
+    ],
+    "answer": "It can happen in familiar environments",
+    "explanation": "The text clearly states discoveries occur even in cities. Other options contradict this."
+  },
+  {
+    "id": "elf-014",
+    "slug": "elf",
+    "subject": "Engelsk läsförståelse",
+    "question": "Text:\nSome people believe that multitasking increases productivity, but research suggests the opposite. When individuals switch between tasks, their focus is divided, leading to more mistakes and slower completion times. Studies show that concentrating on one task at a time results in higher efficiency and better outcomes.\n\nQuestion: What is the main conclusion?",
+    "options": [
+      "Multitasking improves speed",
+      "Multitasking reduces efficiency",
+      "Multitasking is necessary",
+      "Multitasking has no effect"
+    ],
+    "answer": "Multitasking reduces efficiency",
+    "explanation": "The text states divided focus leads to mistakes and slower work. Other options contradict this."
+  },
+  {
+    "id": "elf-015",
+    "slug": "elf",
+    "subject": "Engelsk läsförståelse",
+    "question": "Text:\nLearning a new language can be challenging, but it also provides many benefits. It can improve memory, increase cultural understanding, and even delay cognitive decline. However, success often requires consistent practice over a long period of time.\n\nQuestion: What is emphasized?",
+    "options": [
+      "Language learning is easy",
+      "It requires consistent practice",
+      "It has no benefits",
+      "It is only for young people"
+    ],
+    "answer": "It requires consistent practice",
+    "explanation": "The text explicitly highlights consistent practice. Other options contradict or are unsupported."
+  },
+
+  {
+    "id": "elf-016",
+    "slug": "elf",
+    "subject": "Engelsk läsförståelse",
+    "question": "Text:\nIn many countries, public transportation plays a crucial role in reducing traffic congestion and pollution. Buses, trains, and subways allow large numbers of people to travel efficiently. However, maintaining such systems requires significant investment and careful planning.\n\nQuestion: What is one challenge mentioned?",
+    "options": [
+      "Too few passengers",
+      "High maintenance costs",
+      "Lack of vehicles",
+      "Too much pollution"
+    ],
+    "answer": "High maintenance costs",
+    "explanation": "The text mentions significant investment is required. Other options are not stated."
+  },
+  {
+    "id": "elf-017",
+    "slug": "elf",
+    "subject": "Engelsk läsförståelse",
+    "question": "Text:\nSocial media has changed how people communicate. It allows instant sharing of information, but it can also spread misinformation quickly. Users must therefore be critical of the content they encounter.\n\nQuestion: What risk is mentioned?",
+    "options": [
+      "Slow communication",
+      "High cost",
+      "Spread of misinformation",
+      "Limited access"
+    ],
+    "answer": "Spread of misinformation",
+    "explanation": "The text explicitly mentions misinformation. Other options are incorrect."
+  },
+  {
+    "id": "elf-018",
+    "slug": "elf",
+    "subject": "Engelsk läsförståelse",
+    "question": "Text:\nExercise is widely known to improve physical health, but it also has mental benefits. Regular activity can reduce stress and improve mood by releasing endorphins.\n\nQuestion: What is a mental benefit?",
+    "options": [
+      "Increased weight",
+      "Reduced stress",
+      "Slower thinking",
+      "Higher costs"
+    ],
+    "answer": "Reduced stress",
+    "explanation": "The text states exercise reduces stress. Other options are incorrect."
+  },
+  {
+    "id": "elf-019",
+    "slug": "elf",
+    "subject": "Engelsk läsförståelse",
+    "question": "Text:\nSome companies are adopting a four-day workweek to improve employee satisfaction. Early results suggest workers are happier and just as productive.\n\nQuestion: What is suggested?",
+    "options": [
+      "Workers are less productive",
+      "Workers are happier",
+      "Companies lose money",
+      "Workweeks are longer"
+    ],
+    "answer": "Workers are happier",
+    "explanation": "The text clearly states workers are happier. Other options contradict it."
+  },
+  {
+    "id": "elf-020",
+    "slug": "elf",
+    "subject": "Engelsk läsförståelse",
+    "question": "Text:\nElectric cars are becoming more popular due to environmental concerns. They produce no direct emissions, but their production can still have environmental impacts.\n\nQuestion: What is highlighted?",
+    "options": [
+      "They have no impact at all",
+      "They are always cheaper",
+      "They reduce emissions but still have impacts",
+      "They are slower"
+    ],
+    "answer": "They reduce emissions but still have impacts",
+    "explanation": "The text explains both benefits and remaining impacts."
+  },
+
+  {
+    "id": "elf-021",
+    "slug": "elf",
+    "subject": "Engelsk läsförståelse",
+    "question": "Text:\nMuseums are evolving to become more interactive. Visitors can now engage with exhibits through digital displays and hands-on experiences.\n\nQuestion: What change is described?",
+    "options": [
+      "Museums are closing",
+      "Museums are becoming interactive",
+      "Museums are smaller",
+      "Museums are free"
+    ],
+    "answer": "Museums are becoming interactive",
+    "explanation": "The text clearly states increased interactivity."
+  },
+  {
+    "id": "elf-022",
+    "slug": "elf",
+    "subject": "Engelsk läsförståelse",
+    "question": "Text:\nOnline education has expanded access to learning. Students can take courses from anywhere, though some miss face-to-face interaction.\n\nQuestion: What is a drawback?",
+    "options": [
+      "High cost",
+      "Limited subjects",
+      "Lack of in-person interaction",
+      "No flexibility"
+    ],
+    "answer": "Lack of in-person interaction",
+    "explanation": "The text mentions missing face-to-face interaction."
+  },
+  {
+    "id": "elf-023",
+    "slug": "elf",
+    "subject": "Engelsk läsförståelse",
+    "question": "Text:\nClimate change is affecting weather patterns globally. Some regions experience more extreme storms, while others face droughts.\n\nQuestion: What effect is mentioned?",
+    "options": [
+      "Stable weather",
+      "Extreme conditions",
+      "Less rain everywhere",
+      "No change"
+    ],
+    "answer": "Extreme conditions",
+    "explanation": "The text mentions storms and droughts."
+  },
+  {
+    "id": "elf-024",
+    "slug": "elf",
+    "subject": "Engelsk läsförståelse",
+    "question": "Text:\nReading news from multiple sources can provide a more balanced understanding of events.\n\nQuestion: Why read multiple sources?",
+    "options": [
+      "To save time",
+      "To reduce bias",
+      "To avoid news",
+      "To simplify issues"
+    ],
+    "answer": "To reduce bias",
+    "explanation": "The text implies balance and broader understanding."
+  },
+  {
+    "id": "elf-025",
+    "slug": "elf",
+    "subject": "Engelsk läsförståelse",
+    "question": "Text:\nSpace exploration has led to many technological advancements, including satellite communication and GPS.\n\nQuestion: What benefit is mentioned?",
+    "options": [
+      "Lower costs",
+      "New technologies",
+      "Less research",
+      "Fewer satellites"
+    ],
+    "answer": "New technologies",
+    "explanation": "The text lists technological advancements."
+  },
+
+  {
+    "id": "elf-026",
+    "slug": "elf",
+    "subject": "Engelsk läsförståelse",
+    "question": "Text:\nHealthy eating involves a balanced diet with fruits, vegetables, and whole grains.\n\nQuestion: What is emphasized?",
+    "options": [
+      "Only meat",
+      "Balanced diet",
+      "Skipping meals",
+      "Fast food"
+    ],
+    "answer": "Balanced diet",
+    "explanation": "The text clearly defines healthy eating."
+  },
+  {
+    "id": "elf-027",
+    "slug": "elf",
+    "subject": "Engelsk läsförståelse",
+    "question": "Text:\nTraveling abroad can broaden perspectives by exposing people to different cultures.\n\nQuestion: What is a benefit?",
+    "options": [
+      "Higher costs",
+      "Cultural exposure",
+      "Less knowledge",
+      "Isolation"
+    ],
+    "answer": "Cultural exposure",
+    "explanation": "The text explicitly mentions exposure to cultures."
+  },
+  {
+    "id": "elf-028",
+    "slug": "elf",
+    "subject": "Engelsk läsförståelse",
+    "question": "Text:\nWater conservation is important as freshwater resources are limited.\n\nQuestion: Why conserve water?",
+    "options": [
+      "It is unlimited",
+      "It is limited",
+      "It is expensive only",
+      "It is unused"
+    ],
+    "answer": "It is limited",
+    "explanation": "The text clearly states limited resources."
+  },
+  {
+    "id": "elf-029",
+    "slug": "elf",
+    "subject": "Engelsk läsförståelse",
+    "question": "Text:\nTechnology can improve productivity but may also lead to distractions.\n\nQuestion: What dual effect is mentioned?",
+    "options": [
+      "Only benefits",
+      "Only problems",
+      "Both benefits and drawbacks",
+      "No effect"
+    ],
+    "answer": "Both benefits and drawbacks",
+    "explanation": "The text clearly presents both sides."
+  },
+  {
+    "id": "elf-030",
+    "slug": "elf",
+    "subject": "Engelsk läsförståelse",
+    "question": "Text:\nLearning history helps people understand current events better.\n\nQuestion: Why study history?",
+    "options": [
+      "To forget the past",
+      "To understand the present",
+      "To avoid learning",
+      "To reduce knowledge"
+    ],
+    "answer": "To understand the present",
+    "explanation": "The text directly states this purpose."
+  },
+  {
+    "id": "elf-031",
+    "slug": "elf",
+    "subject": "Engelsk läsförståelse",
+    "question": "Text:\nUrban parks provide spaces for relaxation and recreation.\n\nQuestion: What is a benefit?",
+    "options": [
+      "Increased traffic",
+      "Relaxation space",
+      "More pollution",
+      "Less greenery"
+    ],
+    "answer": "Relaxation space",
+    "explanation": "The text explicitly states relaxation and recreation."
+  },
+  {
+    "id": "elf-032",
+    "slug": "elf",
+    "subject": "Engelsk läsförståelse",
+    "question": "Text:\nRenewable energy sources like wind and solar reduce reliance on fossil fuels.\n\nQuestion: What is the main point?",
+    "options": [
+      "Increase fossil fuels",
+      "Reduce fossil fuel use",
+      "Stop energy production",
+      "Increase pollution"
+    ],
+    "answer": "Reduce fossil fuel use",
+    "explanation": "The text clearly states reduced reliance."
+  },
+  {
+    "id": "elf-033",
+    "slug": "elf",
+    "subject": "Engelsk läsförståelse",
+    "question": "Text:\nGood time management can improve productivity and reduce stress.\n\nQuestion: What is an outcome?",
+    "options": [
+      "More stress",
+      "Less productivity",
+      "Reduced stress",
+      "No change"
+    ],
+    "answer": "Reduced stress",
+    "explanation": "The text explicitly mentions reduced stress."
   }
 ]

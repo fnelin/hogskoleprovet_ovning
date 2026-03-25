@@ -5,12 +5,12 @@
     "subject": "Meningskomplettering",
     "question": "Trots att projektet var _____ lyckades teamet leverera i tid tack vare sitt _____ arbete.",
     "options": [
-      "enkelt – slarviga",
-      "ambitiöst – noggranna",
-      "komplext – envetna",
-      "litet – sporadiska"
+      "enkelt - slarviga",
+      "ambitiöst - noggranna",
+      "komplext - envetna",
+      "litet - sporadiska"
     ],
-    "answer": "komplext – envetna",
+    "answer": "komplext - envetna",
     "explanation": "Kontrastkonjunktionen 'trots att' signalerar att hindret (komplext projekt) övervannns av en positiv egenskap (envet arbete)."
   },
   {
@@ -19,12 +19,12 @@
     "subject": "Meningskomplettering",
     "question": "Forskarens slutsatser var _____, eftersom de varken kunde _____ eller motbevisas av befintlig data.",
     "options": [
-      "banbrytande – förstärkas",
-      "omtvistade – bekräftas",
-      "uppenbara – ifrågasättas",
-      "felaktiga – analyseras"
+      "banbrytande - förstärkas",
+      "omtvistade - bekräftas",
+      "uppenbara - ifrågasättas",
+      "felaktiga - analyseras"
     ],
-    "answer": "omtvistade – bekräftas",
+    "answer": "omtvistade - bekräftas",
     "explanation": "'Varken bekräftas eller motbevisas' innebär att slutsatserna är osäkra och därmed omtvistade."
   },
   {
@@ -33,12 +33,12 @@
     "subject": "Meningskomplettering",
     "question": "Hon var känd för sin _____ — aldrig tog hon förhastade beslut utan att först ha _____ alla alternativ.",
     "options": [
-      "impulsivitet – avfärdat",
-      "eftertänksamhet – övervägt",
-      "envishet – ignorerat",
-      "generositet – finansierat"
+      "impulsivitet - avfärdat",
+      "eftertänksamhet - övervägt",
+      "envishet - ignorerat",
+      "generositet - finansierat"
     ],
-    "answer": "eftertänksamhet – övervägt",
+    "answer": "eftertänksamhet - övervägt",
     "explanation": "Att inte ta förhastade beslut utan att överväga alternativ är ett kännetecken för eftertänksamhet."
   },
   {
@@ -47,12 +47,12 @@
     "subject": "Meningskomplettering",
     "question": "Klimatdebatten har blivit alltmer _____, med röster som sträcker sig från fullständigt _____ till djup pessimism.",
     "options": [
-      "ensidig – likgiltighet",
-      "polariserad – optimism",
-      "konstruktiv – kritik",
-      "vetenskaplig – skepsis"
+      "ensidig - likgiltighet",
+      "polariserad - optimism",
+      "konstruktiv - kritik",
+      "vetenskaplig - skepsis"
     ],
-    "answer": "polariserad – optimism",
+    "answer": "polariserad - optimism",
     "explanation": "En polariserad debatt innehåller motsatta ytterligheter — optimism och pessimism är varandras motpoler."
   },
   {
@@ -61,12 +61,12 @@
     "subject": "Meningskomplettering",
     "question": "Romanen hyllades för sin _____ prosa, men kritiserades för en handling som kändes _____.",
     "options": [
-      "klumpiga – originell",
-      "poetiska – förutsägbar",
-      "enkla – komplex",
-      "dramatiska – poetisk"
+      "klumpiga - originell",
+      "poetiska - förutsägbar",
+      "enkla - komplex",
+      "dramatiska - poetisk"
     ],
-    "answer": "poetiska – förutsägbar",
+    "answer": "poetiska - förutsägbar",
     "explanation": "Kontrasten mellan hyllad prosa och kritiserad handling antyder att prosan var en styrka (poetisk) medan handlingen var en svaghet (förutsägbar)."
   },
   {
@@ -75,12 +75,12 @@
     "subject": "Meningskomplettering",
     "question": "Det nya systemet var tänkt att _____ arbetsflödet, men resulterade i stället i ökad _____.",
     "options": [
-      "försvåra – effektivitet",
-      "effektivisera – byråkrati",
-      "digitalisera – kreativitet",
-      "automatisera – lönsamhet"
+      "försvåra - effektivitet",
+      "effektivisera - byråkrati",
+      "digitalisera - kreativitet",
+      "automatisera - lönsamhet"
     ],
-    "answer": "effektivisera – byråkrati",
+    "answer": "effektivisera - byråkrati",
     "explanation": "'I stället' signalerar att resultatet blev det motsatta av avsikten — effektivisering gav byråkrati."
   },
   {
@@ -89,12 +89,12 @@
     "subject": "Meningskomplettering",
     "question": "Barnets _____ för matematik var uppenbar redan tidigt, och lärarna _____ hennes talang med avancerade uppgifter.",
     "options": [
-      "ointresse – belönade",
-      "begåvning – uppmuntrade",
-      "svaghet – kompenserade",
-      "nyfikenhet – ignorerade"
+      "ointresse - belönade",
+      "begåvning - uppmuntrade",
+      "svaghet - kompenserade",
+      "nyfikenhet - ignorerade"
     ],
-    "answer": "begåvning – uppmuntrade",
+    "answer": "begåvning - uppmuntrade",
     "explanation": "En uppenbar begåvning uppmuntras naturligt av lärare som ser potentialen."
   },
   {
@@ -103,12 +103,237 @@
     "subject": "Meningskomplettering",
     "question": "Trots sin _____ framtoning dolde han en djup _____ som få av hans kollegor kände till.",
     "options": [
-      "blygsamma – arrogans",
-      "självsäkra – osäkerhet",
-      "kyliga – värme",
-      "glada – sorgsenhet"
+      "blygsamma - arrogans",
+      "självsäkra - osäkerhet",
+      "kyliga - värme",
+      "glada - sorgsenhet"
     ],
-    "answer": "kyliga – värme",
+    "answer": "kyliga - värme",
     "explanation": "'Trots' indikerar en kontrast — en kylig yttre framtoning döljer en inre värme."
+  },
+  {
+    "id": "mek-009",
+    "slug": "mek",
+    "subject": "Meningskomplettering",
+    "question": "Trots att vädret var dåligt valde de att _____ utflykten eftersom alla redan hade förberett sig.",
+    "options": ["ställa in", "genomföra", "förkorta", "glömma"],
+    "answer": "genomföra",
+    "explanation": "’Trots att vädret var dåligt’ signalerar kontrast, och att de ändå fortsätter planen ⇒ 'genomföra'. 'ställa in' motsäger kontrasten, 'förkorta' nämns inte, 'glömma' är ologiskt."
+  },
+  {
+    "id": "mek-010",
+    "slug": "mek",
+    "subject": "Meningskomplettering",
+    "question": "Hans argument var så _____ att ingen kunde säga emot honom.",
+    "options": ["svaga", "övertygande", "förvirrade", "kortfattade"],
+    "answer": "övertygande",
+    "explanation": "Om ingen kan säga emot är argumenten starka ⇒ 'övertygande'. Övriga alternativ motsäger detta."
+  },
+  {
+    "id": "mek-011",
+    "slug": "mek",
+    "subject": "Meningskomplettering",
+    "question": "Hon var tvungen att _____ mötet eftersom hon blev sjuk.",
+    "options": ["leda", "delta i", "ställa in", "förbereda"],
+    "answer": "ställa in",
+    "explanation": "Sjukdom leder logiskt till att mötet ställs in. Övriga alternativ innebär att mötet sker."
+  },
+  {
+    "id": "mek-012",
+    "slug": "mek",
+    "subject": "Meningskomplettering",
+    "question": "Företaget ökade sin vinst, vilket var _____ med tanke på den ekonomiska krisen.",
+    "options": ["förväntat", "överraskande", "självklart", "obetydligt"],
+    "answer": "överraskande",
+    "explanation": "Kris ⇒ oväntat att vinsten ökar. Övriga alternativ motsäger detta."
+  },
+  {
+    "id": "mek-013",
+    "slug": "mek",
+    "subject": "Meningskomplettering",
+    "question": "Han talade så tyst att det var svårt att _____ vad han sa.",
+    "options": ["förstå", "höra", "skriva", "glömma"],
+    "answer": "höra",
+    "explanation": "Tyst tal gör det svårt att höra. 'förstå' kan påverkas men primärt är hörselproblemet."
+  },
+  {
+    "id": "mek-014",
+    "slug": "mek",
+    "subject": "Meningskomplettering",
+    "question": "Efter en lång dag var hon så trött att hon _____ somnade på soffan.",
+    "options": ["plötsligt", "nästan", "redan", "sällan"],
+    "answer": "nästan",
+    "explanation": "’så trött att’ ⇒ nästan somnade. Övriga passar inte logiskt."
+  },
+  {
+    "id": "mek-015",
+    "slug": "mek",
+    "subject": "Meningskomplettering",
+    "question": "Trots upprepade försök lyckades han inte _____ problemet.",
+    "options": ["lösa", "skapa", "förvärra", "ignorera"],
+    "answer": "lösa",
+    "explanation": "Man försöker lösa problem. Övriga alternativ passar inte i sammanhanget."
+  },
+  {
+    "id": "mek-016",
+    "slug": "mek",
+    "subject": "Meningskomplettering",
+    "question": "Hon blev alltmer _____ ju längre diskussionen pågick.",
+    "options": ["ointresserad", "entusiastisk", "likgiltig", "förvirrad"],
+    "answer": "förvirrad",
+    "explanation": "Diskussion som pågår länge kan leda till förvirring. Övriga alternativ är möjliga men mindre tydliga utan stöd."
+  },
+  {
+    "id": "mek-017",
+    "slug": "mek",
+    "subject": "Meningskomplettering",
+    "question": "Boken var så _____ att jag inte kunde sluta läsa.",
+    "options": ["tråkig", "spännande", "kort", "dyr"],
+    "answer": "spännande",
+    "explanation": "Att inte kunna sluta läsa ⇒ spännande. Övriga passar inte."
+  },
+  {
+    "id": "mek-018",
+    "slug": "mek",
+    "subject": "Meningskomplettering",
+    "question": "Han _____ att han skulle komma i tid, men blev ändå sen.",
+    "options": ["glömde", "lovade", "tvivlade", "nekade"],
+    "answer": "lovade",
+    "explanation": "’lovade’ passar med kontrast: ändå sen. Övriga passar inte logiskt."
+  },
+  {
+    "id": "mek-019",
+    "slug": "mek",
+    "subject": "Meningskomplettering",
+    "question": "Det är viktigt att _____ reglerna för att undvika problem.",
+    "options": ["bryta", "förstå", "ignorera", "glömma"],
+    "answer": "förstå",
+    "explanation": "Att förstå regler hjälper att undvika problem. Övriga leder till problem."
+  },
+  {
+    "id": "mek-020",
+    "slug": "mek",
+    "subject": "Meningskomplettering",
+    "question": "Filmen var inte bara underhållande utan också _____.",
+    "options": ["ytlig", "långsam", "tankeväckande", "kort"],
+    "answer": "tankeväckande",
+    "explanation": "’inte bara… utan också’ kräver positiv tilläggsegenskap. Endast 'tankeväckande' passar."
+  },
+  {
+    "id": "mek-021",
+    "slug": "mek",
+    "subject": "Meningskomplettering",
+    "question": "Hon arbetade så _____ att hon snabbt blev klar.",
+    "options": ["långsamt", "effektivt", "slarvigt", "sent"],
+    "answer": "effektivt",
+    "explanation": "Snabbt klar ⇒ effektivt arbete. Övriga motsäger."
+  },
+  {
+    "id": "mek-022",
+    "slug": "mek",
+    "subject": "Meningskomplettering",
+    "question": "Han var _____ nöjd med resultatet, eftersom det överträffade hans förväntningar.",
+    "options": ["knappt", "mycket", "inte alls", "delvis"],
+    "answer": "mycket",
+    "explanation": "Överträffade förväntningar ⇒ mycket nöjd."
+  },
+  {
+    "id": "mek-023",
+    "slug": "mek",
+    "subject": "Meningskomplettering",
+    "question": "Trots kritiken valde hon att _____ sitt beslut.",
+    "options": ["ändra", "försvara", "ignorera", "glömma"],
+    "answer": "försvara",
+    "explanation": "Trots kritik ⇒ stå fast och försvara beslut. Övriga passar sämre."
+  },
+  {
+    "id": "mek-024",
+    "slug": "mek",
+    "subject": "Meningskomplettering",
+    "question": "Vädret blev allt _____ under dagen.",
+    "options": ["sämre", "bättre", "kallare", "varmare"],
+    "answer": "sämre",
+    "explanation": "Neutral standardfras; försämring antyds. Övriga möjliga men inte lika generella."
+  },
+  {
+    "id": "mek-025",
+    "slug": "mek",
+    "subject": "Meningskomplettering",
+    "question": "Han kunde inte _____ sitt misstag, vilket ledde till fler problem.",
+    "options": ["erkänna", "förstå", "förklara", "upptäcka"],
+    "answer": "erkänna",
+    "explanation": "Att inte erkänna misstag leder ofta till fler problem. Övriga mindre logiska."
+  },
+  {
+    "id": "mek-026",
+    "slug": "mek",
+    "subject": "Meningskomplettering",
+    "question": "Hon hade _____ erfarenhet inom området, vilket gjorde henne lämplig för jobbet.",
+    "options": ["ingen", "lite", "stor", "begränsad"],
+    "answer": "stor",
+    "explanation": "Lämplig för jobbet ⇒ stor erfarenhet."
+  },
+  {
+    "id": "mek-027",
+    "slug": "mek",
+    "subject": "Meningskomplettering",
+    "question": "Det var så mörkt att vi knappt kunde _____ vägen framför oss.",
+    "options": ["se", "gå", "höra", "minnas"],
+    "answer": "se",
+    "explanation": "Mörker påverkar syn ⇒ se."
+  },
+  {
+    "id": "mek-028",
+    "slug": "mek",
+    "subject": "Meningskomplettering",
+    "question": "Han försökte _____ situationen genom att skämta.",
+    "options": ["förvärra", "lätta upp", "förklara", "avsluta"],
+    "answer": "lätta upp",
+    "explanation": "Skämta används för att lätta upp situationer."
+  },
+  {
+    "id": "mek-029",
+    "slug": "mek",
+    "subject": "Meningskomplettering",
+    "question": "Resultatet var inte _____ som vi hade hoppats.",
+    "options": ["bättre", "sämre", "lika bra", "snabbare"],
+    "answer": "lika bra",
+    "explanation": "Standardkonstruktion: inte lika bra som hoppats."
+  },
+  {
+    "id": "mek-030",
+    "slug": "mek",
+    "subject": "Meningskomplettering",
+    "question": "Hon var så _____ att hon alltid hjälpte andra.",
+    "options": ["egoistisk", "generös", "trött", "arg"],
+    "answer": "generös",
+    "explanation": "Att hjälpa andra ⇒ generös."
+  },
+  {
+    "id": "mek-031",
+    "slug": "mek",
+    "subject": "Meningskomplettering",
+    "question": "Trots bristen på tid lyckades han _____ uppgiften.",
+    "options": ["slutföra", "börja", "försena", "ignorera"],
+    "answer": "slutföra",
+    "explanation": "Trots tidsbrist ⇒ lyckades slutföra."
+  },
+  {
+    "id": "mek-032",
+    "slug": "mek",
+    "subject": "Meningskomplettering",
+    "question": "Hon kände sig _____ efter den långa resan.",
+    "options": ["utvilad", "trött", "glad", "förvirrad"],
+    "answer": "trött",
+    "explanation": "Lång resa ⇒ trötthet."
+  },
+  {
+    "id": "mek-033",
+    "slug": "mek",
+    "subject": "Meningskomplettering",
+    "question": "Han gav ett _____ svar som inte riktigt besvarade frågan.",
+    "options": ["tydligt", "undvikande", "korrekt", "snabbt"],
+    "answer": "undvikande",
+    "explanation": "Svar som inte besvarar frågan ⇒ undvikande. Övriga motsäger."
   }
 ]
