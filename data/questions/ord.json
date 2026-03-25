@@ -223,5 +223,230 @@
     "options": ["analytiska", "instinktiva", "förvärvade", "teoretiska", "ytliga"],
     "answer": "instinktiva",
     "explanation": "Intuitiv betyder baserad på känsla och omedelbar förståelse snarare än logisk analys. 'Instinktiv' är den närmaste synonymen. 'Analytisk' och 'teoretisk' är motsatser som betonar rationellt tänkande, 'förvärvad' handlar om inlärning och 'ytlig' om djup."
+  },
+  {
+    "id": "ord-026",
+    "slug": "ord",
+    "subject": "Ordförståelse",
+    "question": "Partiets *idealistiska* program möttes av skepsis från mer erfarna politiker.",
+    "options": ["pragmatiska", "orealistiskt visionära", "ambitiösa", "konservativa", "populistiska"],
+    "answer": "orealistiskt visionära",
+    "explanation": "Idealistisk beskriver en inställning präglad av höga ideal som ofta saknar förankring i verkligheten. 'Orealistiskt visionär' fångar denna klang bäst. 'Pragmatisk' är motsatsen, 'ambitiös' saknar den naiva dimensionen, 'konservativ' handlar om förändringsobenägenhet och 'populistisk' om att vinna folkligt stöd."
+  },
+  {
+    "id": "ord-027",
+    "slug": "ord",
+    "subject": "Ordförståelse",
+    "question": "Det *melankoliska* verket speglade konstnärens inre kamp med förlust och längtan.",
+    "options": ["euforiska", "vemodfyllda", "kaotiska", "abstrakta", "minimalistiska"],
+    "answer": "vemodfyllda",
+    "explanation": "Melankolisk beskriver ett tillstånd av djup vemod och tungsinthet. 'Vemodfylld' är den närmaste synonymen. 'Euforisk' är motsatsen, 'kaotisk' handlar om ordning, 'abstrakt' om form och 'minimalistisk' om stil."
+  },
+  {
+    "id": "ord-028",
+    "slug": "ord",
+    "subject": "Ordförståelse",
+    "question": "Hennes *reserverade* uppträdande tolkades av vissa som kyligt men berodde på blyghet.",
+    "options": ["utåtagerande", "tillbakahållna", "artiga", "formella", "distingerade"],
+    "answer": "tillbakahållna",
+    "explanation": "Reserverad betyder tillbakadragen och återhållsam i kontakten med andra. 'Tillbakahållen' är den närmaste synonymen. 'Utåtagerande' är motsatsen, 'artig' handlar om uppförande, 'formell' om stil och 'distingerad' om framtoning."
+  },
+  {
+    "id": "ord-029",
+    "slug": "ord",
+    "subject": "Ordförståelse",
+    "question": "Den *excentriske* professorn var känd för sina ovanliga kläder och ännu mer ovanliga idéer.",
+    "options": ["ödmjuke", "originelle", "säregne", "inåtvände", "karismatiske"],
+    "answer": "säregne",
+    "explanation": "Excentrisk beskriver en person med avvikande och udda beteende som sticker ut från normen. 'Säreget' fångar denna egenskap bäst. 'Ödmjuk' handlar om attityd, 'originell' betonar kreativitet snarare än avvikelse, 'inåtvänd' om social läggning och 'karismatisk' om utstrålning."
+  },
+  {
+    "id": "ord-030",
+    "slug": "ord",
+    "subject": "Ordförståelse",
+    "question": "Rapporten innehöll en *detaljerad* genomgång av samtliga risker med projektet.",
+    "options": ["kortfattad", "uttömmande", "teknisk", "summarisk", "kritisk"],
+    "answer": "uttömmande",
+    "explanation": "Detaljerad betyder grundlig och heltäckande med avseende på detaljer. 'Uttömmande' är den närmaste synonymen i detta sammanhang. 'Kortfattad' och 'summarisk' är motsatser, 'teknisk' handlar om ämnets natur och 'kritisk' om inställning."
+  },
+  {
+    "id": "ord-031",
+    "slug": "ord",
+    "subject": "Ordförståelse",
+    "question": "Det *satiriska* programmet använde humor för att blottlägga politikernas hyckleri.",
+    "options": ["dokumentära", "hånfulla och avslöjande", "underhållande", "propagandistiska", "pedagogiska"],
+    "answer": "hånfulla och avslöjande",
+    "explanation": "Satirisk beskriver ett konstnärligt grepp som använder ironi, överdrift och hån för att kritisera och blottlägga fel hos individer eller samhällsfenomen. 'Hånfullt och avslöjande' fångar denna dubbla funktion. 'Dokumentär' är faktabaserad, 'underhållande' för ytlig, 'propagandistisk' är enkelspårig och 'pedagogisk' handlar om lärande."
+  },
+  {
+    "id": "ord-032",
+    "slug": "ord",
+    "subject": "Ordförståelse",
+    "question": "Den *auktoritära* ledarens styre karakteriserades av censur och politiska förföljelser.",
+    "options": ["demokratiske", "diktatoriske", "karismatiske", "ineffektive", "traditionelle"],
+    "answer": "diktatoriske",
+    "explanation": "Auktoritär beskriver ett styre eller en person som utövar absolut makt utan utrymme för opposition eller ifrågasättande. 'Diktatorisk' är den närmaste synonymen. 'Demokratisk' är motsatsen, 'karismatisk' handlar om utstrålning, 'ineffektiv' om resultat och 'traditionell' om metoder."
+  },
+  {
+    "id": "ord-033",
+    "slug": "ord",
+    "subject": "Ordförståelse",
+    "question": "Kritikerna beskrev filmen som *missvisande* och menade att den förvred historiska fakta.",
+    "options": ["tendentiös", "vilseledande", "ensidig", "propagandistisk", "förenklad"],
+    "answer": "vilseledande",
+    "explanation": "Missvisande betyder att ge en felaktig eller förvrängd bild av verkligheten. 'Vilseledande' är den direkta synonymen. 'Tendentiös' och 'ensidig' handlar om partiskhet, 'propagandistisk' om avsiktlig påverkan och 'förenklad' om brist på nyans — ingen av dessa fångar exakt innebörden av att aktivt ge fel bild."
+  },
+  {
+    "id": "ord-034",
+    "slug": "ord",
+    "subject": "Ordförståelse",
+    "question": "Hans *pessimistiska* syn på framtiden smittade av sig och sänkte stämningen i gruppen.",
+    "options": ["optimistiska", "dystra", "realistiska", "kritiska", "resignerade"],
+    "answer": "dystra",
+    "explanation": "Pessimistisk beskriver en benägenhet att alltid se det negativa och förvänta sig dåliga utfall. 'Dyster' är den närmaste synonymen i detta sammanhang. 'Optimistisk' är motsatsen, 'realistisk' saknar den negativa klangen, 'kritisk' handlar om bedömning och 'resignerad' om uppgivenhet snarare än förväntan."
+  },
+  {
+    "id": "ord-035",
+    "slug": "ord",
+    "subject": "Ordförståelse",
+    "question": "Det *exklusiva* erbjudandet riktade sig enbart till företagets mest lojala kunder.",
+    "options": ["generösa", "selektiva", "lyxiga", "tillfälliga", "kommersiella"],
+    "answer": "selektiva",
+    "explanation": "Exklusiv betyder begränsad till en utvald grupp och inte tillgänglig för alla. 'Selektiv' fångar denna avgränsning bäst. 'Generös' är en kontrast, 'lyxig' handlar om kvalitet snarare än tillgänglighet, 'tillfällig' om varaktighet och 'kommersiell' om syfte."
+  },
+  {
+    "id": "ord-036",
+    "slug": "ord",
+    "subject": "Ordförståelse",
+    "question": "Hennes *ödmjuka* inställning till kritik var uppskattad av både kollegor och chefer.",
+    "options": ["arroganta", "anspråkslösa", "passiva", "taktiska", "professionella"],
+    "answer": "anspråkslösa",
+    "explanation": "Ödmjuk beskriver en person som inte uppfattar sig som överlägsen andra och tar emot kritik utan att försvara sig. 'Anspråkslös' är den närmaste synonymen. 'Arrogant' är motsatsen, 'passiv' antyder brist på engagemang, 'taktisk' om beräkning och 'professionell' om kompetens."
+  },
+  {
+    "id": "ord-037",
+    "slug": "ord",
+    "subject": "Ordförståelse",
+    "question": "Den *retoriska* frågan ställdes inte för att få svar utan för att förstärka argumentet.",
+    "options": ["filosofiska", "ledande", "provokativa", "hypotetiska", "akademiska"],
+    "answer": "ledande",
+    "explanation": "En retorisk fråga ställs för effektens skull och förväntar sig inget egentligt svar — den leder lyssnaren mot en förutbestämd slutsats. 'Ledande' fångar denna funktion bäst. 'Filosofisk' handlar om tankedjup, 'provokativ' om att reta, 'hypotetisk' om ett antagande och 'akademisk' om sammanhang."
+  },
+  {
+    "id": "ord-038",
+    "slug": "ord",
+    "subject": "Ordförståelse",
+    "question": "Projektet befann sig i ett *tillfälligt* dödläge och väntade på beslut från styrelsen.",
+    "options": ["permanent", "kortvarigt", "kritiskt", "oväntat", "administrativt"],
+    "answer": "kortvarigt",
+    "explanation": "Tillfällig betyder övergående och inte permanent. 'Kortvarig' är den närmaste synonymen. 'Permanent' är motsatsen, 'kritisk' handlar om allvar, 'oväntad' om förväntan och 'administrativ' om orsak."
+  },
+  {
+    "id": "ord-039",
+    "slug": "ord",
+    "subject": "Ordförståelse",
+    "question": "Den *pedagogiska* metoden anpassades för att göra komplexa begrepp begripliga för yngre elever.",
+    "options": ["vetenskapliga", "didaktiska", "kreativa", "traditionella", "effektiva"],
+    "answer": "didaktiska",
+    "explanation": "Pedagogisk beskriver något som syftar till undervisning och lärande på ett tydligt och begripligt sätt. 'Didaktisk' är den närmaste synonymen och handlar specifikt om undervisningsmetodik. 'Vetenskaplig' handlar om metod, 'kreativ' om nyskapande, 'traditionell' om beprövade metoder och 'effektiv' om resultat."
+  },
+  {
+    "id": "ord-040",
+    "slug": "ord",
+    "subject": "Ordförståelse",
+    "question": "Den *analytiska* förmågan att bryta ned komplexa problem i delar är central inom ingenjörsyrket.",
+    "options": ["intuitiva", "systematiskt utredande", "kreativa", "pragmatiska", "tekniska"],
+    "answer": "systematiskt utredande",
+    "explanation": "Analytisk beskriver förmågan att systematiskt undersöka och bryta ned ett problem i sina beståndsdelar. 'Systematiskt utredande' fångar denna innebörd bäst. 'Intuitiv' är en kontrast som betonar känsla framför logik, 'kreativ' betonar nyskapande, 'pragmatisk' praktisk tillämpning och 'teknisk' ämnesspecifik kunskap."
+  },
+  {
+    "id": "ord-041",
+    "slug": "ord",
+    "subject": "Ordförståelse",
+    "question": "Hans *impulsiva* beslut att säga upp sig utan nytt jobb förvånade alla som kände honom.",
+    "options": ["välöverlagda", "förhastat ogenomtänkta", "modiga", "irrationella", "spontana"],
+    "answer": "förhastat ogenomtänkta",
+    "explanation": "Impulsiv beskriver handlingar som sker utan eftertanke, styrda av ett ögonblickligt infall. 'Förhastat ogenomtänkt' fångar denna brist på reflektion. 'Välöverlagd' är motsatsen, 'modig' betonar en positiv dimension, 'irrationell' handlar om förnuft snarare än tempo och 'spontan' har en mer positiv klang."
+  },
+  {
+    "id": "ord-042",
+    "slug": "ord",
+    "subject": "Ordförståelse",
+    "question": "Den *katastrofala* översvämningen förstörde tusentals hem och tvingade invånarna på flykt.",
+    "options": ["lindriga", "förödande", "oväntade", "återkommande", "regionala"],
+    "answer": "förödande",
+    "explanation": "Katastrofal beskriver något av extremt allvarlig och destruktiv karaktär. 'Förödande' är den närmaste synonymen. 'Lindrig' är motsatsen, 'oväntad' handlar om förutsägbarhet, 'återkommande' om frekvens och 'regional' om geografisk omfattning."
+  },
+  {
+    "id": "ord-043",
+    "slug": "ord",
+    "subject": "Ordförståelse",
+    "question": "Hennes *tvetydiga* svar lämnade tolkningsutrymme och väckte spekulationer om hennes egentliga avsikt.",
+    "options": ["klara", "mångtydiga", "diplomatiska", "undvikande", "kortfattade"],
+    "answer": "mångtydiga",
+    "explanation": "Tvetydig betyder öppen för mer än en tolkning och därmed oklar. 'Mångtydiga' är den närmaste synonymen. 'Klar' är motsatsen, 'diplomatisk' betonar taktfullhet, 'undvikande' betonar avsikten att slippa svara och 'kortfattad' handlar om längd."
+  },
+  {
+    "id": "ord-044",
+    "slug": "ord",
+    "subject": "Ordförståelse",
+    "question": "Den *akademiska* debatten om metodfrågan pågick i tidskrifter och på konferenser världen över.",
+    "options": ["folkliga", "vetenskapliga", "intellektuella", "tekniska", "filosofiska"],
+    "answer": "vetenskapliga",
+    "explanation": "Akademisk beskriver något som hör hemma inom den vetenskapliga världen och universitetsvärlden. 'Vetenskaplig' är den närmaste synonymen i detta sammanhang. 'Folklig' är en kontrast, 'intellektuell' är bredare, 'teknisk' för snäv och 'filosofisk' för specifik."
+  },
+  {
+    "id": "ord-045",
+    "slug": "ord",
+    "subject": "Ordförståelse",
+    "question": "Museet ställde ut en samling *historiska* föremål från vikingatiden som aldrig tidigare visats offentligt.",
+    "options": ["moderna", "forntida", "kulturella", "arkeologiska", "inhemska"],
+    "answer": "forntida",
+    "explanation": "Historisk i detta sammanhang beskriver föremål från det förflutna av kulturellt och tidsmässigt värde. 'Forntidig' är den närmaste synonymen när det gäller vikingatiden specifikt. 'Modern' är motsatsen, 'kulturell' är för bred, 'arkeologisk' handlar om utgrävningskontext och 'inhemsk' om ursprung."
+  },
+  {
+    "id": "ord-046",
+    "slug": "ord",
+    "subject": "Ordförståelse",
+    "question": "Den *välkände* arkitekten tackade nej till uppdraget med hänvisning till sin fullbokade kalender.",
+    "options": ["anonyme", "berömde", "kompetente", "erfarne", "kontroversielle"],
+    "answer": "berömde",
+    "explanation": "Välkänd beskriver en person som är känd av många och har ett etablerat rykte. 'Berömd' är den närmaste synonymen. 'Anonym' är motsatsen, 'kompetent' handlar om skicklighet, 'erfaren' om livserfarenhet och 'kontroversiell' om att vara omtvistad."
+  },
+  {
+    "id": "ord-047",
+    "slug": "ord",
+    "subject": "Ordförståelse",
+    "question": "Den *förvärvade* kunskapen om ledarskap kom från decennier av praktisk erfarenhet.",
+    "options": ["medfödda", "inlärda", "teoretiska", "ytliga", "tekniska"],
+    "answer": "inlärda",
+    "explanation": "Förvärvad kunskap är kunskap man skaffat sig genom erfarenhet eller studier, till skillnad från medfödd förmåga. 'Inlärd' är den närmaste synonymen. 'Medfödd' är motsatsen, 'teoretisk' handlar om typ av kunskap, 'ytlig' om djup och 'teknisk' om ämnesområde."
+  },
+  {
+    "id": "ord-048",
+    "slug": "ord",
+    "subject": "Ordförståelse",
+    "question": "Hennes *ytliga* kunskap om ämnet räckte inte till när diskussionen fördjupades.",
+    "options": ["djupgående", "bristfälliga", "inlärda", "praktiska", "teoretiska"],
+    "answer": "bristfälliga",
+    "explanation": "Ytlig kunskap saknar djup och grundlighet — man känner till ytan men inte det underliggande. 'Bristfällig' fångar denna otillräcklighet bäst. 'Djupgående' är motsatsen, 'inlärd' handlar om hur kunskapen förvärvats, 'praktisk' om typ av kunskap och 'teoretisk' om kunskapens natur."
+  },
+  {
+    "id": "ord-049",
+    "slug": "ord",
+    "subject": "Ordförståelse",
+    "question": "Det *omtvistade* beslutet ledde till en lång och bitter intern debatt i organisationen.",
+    "options": ["enhälliga", "kontroversiella", "hastiga", "välgrundade", "formella"],
+    "answer": "kontroversiella",
+    "explanation": "Omtvistad beskriver något som det råder oenighet och debatt kring. 'Kontroversiell' är den direkta synonymen. 'Enhällig' är motsatsen, 'hastig' handlar om tempo, 'välgrundad' om kvalitet och 'formell' om form."
+  },
+  {
+    "id": "ord-050",
+    "slug": "ord",
+    "subject": "Ordförståelse",
+    "question": "Det *fundamentala* problemet med planen var att den vilade på felaktiga antaganden från start.",
+    "options": ["perifera", "grundläggande", "tekniska", "uppenbara", "komplexa"],
+    "answer": "grundläggande",
+    "explanation": "Fundamental beskriver något som utgör en grund eller bas och därmed är av avgörande betydelse. 'Grundläggande' är den direkta synonymen. 'Perifert' är en kontrast som antyder oviktighet, 'tekniskt' handlar om ämnets natur, 'uppenbart' om synlighet och 'komplext' om svårighetsgrad."
   }
 ]

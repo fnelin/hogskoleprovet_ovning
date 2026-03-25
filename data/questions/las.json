@@ -1,86 +1,352 @@
 [
   {
     "id": "las-001",
+    "slug": "las",
     "subject": "Läsförståelse",
-    "question": "Vad är textens huvudsyfte om en artikel inleds med statistik om klimatförändringar och avslutas med en uppmaning att ändra konsumtionsmönster?",
+    "question": "Läs texten och besvara frågan.\n\nUnder 1800-talets andra hälft genomgick Sverige en av historiens snabbaste industrialiseringar. Från att ha varit ett övervägande agrart samhälle med självhushållning som norm förvandlades landet på några decennier till en industrination. Sågverk, pappersbruk och järnverk växte fram längs älvarna och vid kusten, och städerna svämmade över av inflyttade lantarbetare som sökte försörjning.\n\nDenna omvandling kom dock inte utan sociala kostnader. Arbetsdagarna var långa — tolv till fjorton timmar var inte ovanligt — och arbetsmiljön var farlig. Barnarbete var utbrett, och bostadsförhållandena för arbetarklassen i städerna var ofta katastrofala. Tuberkulosen skördade liv i de trånga hyreskasernerna.\n\nParallellt med industrialiseringen växte emellertid också en organiserad arbetarrörelse fram. Fackföreningar bildades, strejker bröt ut och politiska krav restes. Det var ur denna jäsning som den svenska modellen — med dess kompromisser mellan kapital och arbete — till slut skulle växa fram under 1900-talets första decennier.\n\nVad var en direkt konsekvens av industrialiseringen enligt texten?",
     "options": [
-      "Att underhålla läsaren med fakta",
-      "Att övertyga läsaren om att agera",
-      "Att beskriva historiska händelser",
-      "Att jämföra olika länders utsläpp"
+      "Sverige gick från jordbrukssamhälle till industrination på några decennier",
+      "Arbetarrörelsen bildades redan under 1800-talets första hälft",
+      "Den svenska modellen etablerades under industrialiseringens höjdpunkt",
+      "Barnarbete avskaffades i samband med fackföreningarnas bildande"
     ],
-    "answer": "Att övertyga läsaren om att agera",
-    "explanation": "En text som kombinerar statistik med en uppmaning är argumenterande och syftar till att påverka läsarens beteende.",
-    "slug": "las"
+    "answer": "Sverige gick från jordbrukssamhälle till industrination på några decennier",
+    "explanation": "Texten anger explicit att Sverige 'från att ha varit ett övervägande agrart samhälle med självhushållning som norm förvandlades till en industrination på några decennier'. De övriga alternativen är antingen felaktiga eller saknar stöd — arbetarrörelsen växte fram parallellt med industrialiseringen, inte före, och den svenska modellen etablerades under 1900-talets första decennier, inte under industrialiseringens höjdpunkt."
   },
   {
     "id": "las-002",
+    "slug": "las",
     "subject": "Läsförståelse",
-    "question": "Vad innebär det att en text har en 'implicit slutsats'?",
+    "question": "Läs texten och besvara frågan.\n\nHavets djup är fortfarande ett av planetens minst utforskade territorier. Trots att vi har kartlagt månens yta med hög precision och skickat rymdfarkoster till solsystemets yttersta hörn, är mer än 80 procent av världshaven okärtlagda i detalj. Det djupaste kända stället, Challengerdjupet i Marianergraven, sträcker sig nästan elva kilometer under ytan — ett avstånd som överstiger höjden på Mount Everest.\n\nDjuphavet är dock inte tomt. Trycket är enormt — upp till tusen gånger atmosfärstrycket vid ytan — och temperaturen ligger nära noll grader, men livet har anpassat sig. Bioluminescerande organismer lyser i mörkret, gigantiska bläckfiskar rör sig i de svarta vattnen och märkliga fiskarter med transparenta huvuden och kameror som ögon lever i evigt mörker.\n\nForskningen på djuphaven accelererar nu med ny teknik, men varje expedition avslöjar lika många nya frågor som svar. Många forskare befarar att vi kan utrotat arter vi ännu inte har upptäckt, till följd av djuphavsgruvdrift och klimatförändringar.\n\nVilket påstående stämmer enligt texten?",
     "options": [
-      "Slutsatsen är fetstilad i texten",
-      "Slutsatsen framgår utan att uttryckligen skrivas ut",
-      "Texten saknar en slutsats",
-      "Slutsatsen presenteras i inledningen"
+      "Challengerdjupet är djupare än Mount Everest är högt",
+      "Mer än 80 procent av världshaven är helt livlösa",
+      "Djuphavsgruvdrift har redan utrotat flera kända arter",
+      "Ny teknik har gjort att vi nu kartlagt merparten av haven"
     ],
-    "answer": "Slutsatsen framgår utan att uttryckligen skrivas ut",
-    "explanation": "Implicit betyder underförstådd — läsaren förväntas dra slutsatsen själv utifrån textens innehåll.",
-    "slug": "las"
+    "answer": "Challengerdjupet är djupare än Mount Everest är högt",
+    "explanation": "Texten anger att Challengerdjupet 'sträcker sig nästan elva kilometer under ytan — ett avstånd som överstiger höjden på Mount Everest', vilket bekräftar det första alternativet. Det andra alternativet motsägs direkt av texten som beskriver rikt liv i djupet. Det tredje är en feltolkning — texten säger att man 'kan ha utrotat' arter, inte att man faktiskt gjort det. Det fjärde motsägs av att 80 procent fortfarande är okartlagda."
   },
   {
     "id": "las-003",
+    "slug": "las",
     "subject": "Läsförståelse",
-    "question": "Vilket textgrepp används när en författare beskriver ett problem ur barnets perspektiv för att väcka läsarens empati?",
+    "question": "Läs texten och besvara frågan.\n\nMeditation har under de senaste decennierna gått från att vara en nischad andlig praktik till ett mainstream-fenomen. Appar, kurser och böcker om mindfulness och meditation omsätter nu miljarder globalt, och teknologijättar som Google och Apple erbjuder meditationsprogram till sina anställda.\n\nForskningen om meditationens effekter är dock mer splittrad än den populära bilden antyder. Vissa studier visar på tydliga positiva effekter på stress, ångest och koncentrationsförmåga. Andra forskare ifrågasätter metodologin i dessa studier och menar att effekterna är överdrivna eller svåra att isolera från placeboeffekten.\n\nEn aspekt som sällan diskuteras i den kommersiella meditationsindustrin är de negativa upplevelser som en minoritet av utövarna rapporterar — allt från ökad ångest till, i sällsynta fall, mer allvarliga psykiska reaktioner. Dessa erfarenheter är välkända inom traditionella kontemplativa traditioner men tenderar att tonas ned i modern marknadsföring.\n\nVad är textens huvudsakliga budskap?",
     "options": [
-      "Kronologisk struktur",
-      "Berättarperspektiv för att skapa inlevelse",
-      "Faktabaserad argumentation",
-      "Komparativ analys"
+      "Meditation är skadlig och bör undvikas",
+      "Den kommersiella bilden av meditation är mer nyanserad än forskningen visar",
+      "Forskningen stödjer entydigt meditationens positiva effekter",
+      "Den populära bilden av meditation är mer oproblematisk än verkligheten"
     ],
-    "answer": "Berättarperspektiv för att skapa inlevelse",
-    "explanation": "Att använda ett specifikt perspektiv för att väcka känslor kallas för att använda pathos som retorisk strategi.",
-    "slug": "las"
+    "answer": "Den populära bilden av meditation är mer oproblematisk än verkligheten",
+    "explanation": "Texten argumenterar genomgående för att den kommersiella och populära bilden av meditation är alltför ensidig positiv — forskningen är splittrad och negativa effekter tonas ned. Det fjärde alternativet fångar detta bäst. Det första alternativet är för extremt och stöds inte av texten, det tredje motsägs direkt och det andra är formulerat förvirrande och inverst mot textens budskap."
   },
   {
     "id": "las-004",
+    "slug": "las",
     "subject": "Läsförståelse",
-    "question": "En text beskriver både för- och nackdelar med ett förslag utan att ta ställning. Hur klassificeras texten bäst?",
+    "question": "Läs texten och besvara frågan.\n\nSpråk förändras ständigt — det är ett faktum som lingvister är eniga om, även om de kan vara oense om hur snabbt och i vilken riktning. Svenska har under de senaste decennierna influerats kraftigt av engelskan, framför allt inom affärsliv, teknik och ungdomskultur. Ord som 'mail', 'meeting' och 'deadline' har blivit vardagliga inslag i arbetsplatsens svenska.\n\nSpråkvårdare och purister ser ofta denna utveckling med oro och talar om en 'anglifiering' av svenskan som hotar språkets integritet. Men många lingvister menar att lånord alltid har funnits och att svenska — liksom alla levande språk — alltid har absorberatord från omgivande kulturer. Medeltidssvenskan var full av lågtyska lånord, och 1700-talets finare kretsar talade en svenska genomsyrad av franska fraser.\n\nFrågan är kanske inte om påverkan sker utan hur den hanteras. Att ha ett rikt och funktionellt eget ord för ett begrepp och ändå välja det engelska kan ses som ett onödigt val. Men att låna in ord för begrepp som saknar bra svenska motsvarigheter är en del av alla levande språks naturliga dynamik.\n\nVilken slutsats drar texten om språklig påverkan?",
     "options": [
-      "Argumenterande",
-      "Instruerande",
-      "Utredande",
-      "Berättande"
+      "Engelska lånord utgör ett allvarligt hot mot det svenska språket",
+      "Lånord är ett naturligt inslag i alla levande språks historia",
+      "Svenska bör aktivt motstå engelskans inflytande",
+      "Lingvister och språkvårdare är eniga om hur lånord ska hanteras"
     ],
-    "answer": "Utredande",
-    "explanation": "En utredande text presenterar olika perspektiv och fakta utan att nödvändigtvis argumentera för en viss ståndpunkt.",
-    "slug": "las"
+    "answer": "Lånord är ett naturligt inslag i alla levande språks historia",
+    "explanation": "Texten argumenterar för att lånord alltid har funnits och att svenska historiskt har absorberat ord från lågtyska och franska. Det andra alternativet sammanfattar denna ståndpunkt korrekt. Det första alternativet representerar purister men stöds inte av textens övergripande slutsats. Det tredje saknar stöd och det fjärde motsägs av att texten beskriver meningsskillnader mellan lingvister och språkvårdare."
   },
   {
     "id": "las-005",
+    "slug": "las",
     "subject": "Läsförståelse",
-    "question": "Vad menas med 'textreferens' när man svarar på en läsförståelsefråga?",
+    "question": "Läs texten och besvara frågan.\n\nAtt sova är inte en passiv handling. Under sömnen genomgår hjärnan en aktiv process av konsolidering — minnen sorteras, onödig information gallras bort och intryck från dagen bearbetas och lagras. Sömnforskare har visat att REM-sömnen, den fas då vi drömmer, är särskilt viktig för emotionellt minne och kreativ problemlösning.\n\nSömnbrist har dramatiska konsekvenser. Efter 24 timmars vakenhet försämras kognitiv förmåga till en nivå jämförbar med en blodalkoholhalt på 0,10 procent. Kronisk sömnbrist har kopplats till ökad risk för hjärt-kärlsjukdomar, diabetes typ 2, depression och Alzheimers sjukdom.\n\nTrots detta lever vi i en kultur som ofta glorifierar sömnlöshet som ett tecken på ambition och hårt arbete. 'Jag sover när jag är död' är ett uttryck som cirkulerar i vissa affärskulturer — ironiskt nog, eftersom sömnbrist faktiskt accelererar åldrandet och förkortar livet.\n\nVad är den ironiska poängen med uttrycket 'Jag sover när jag är död' enligt texten?",
     "options": [
-      "Att man hittar exakta ord i texten som stödjer svaret",
-      "Att man sammanfattar hela texten",
-      "Att man jämför texten med en annan källa",
-      "Att man tolkar textens budskap fritt"
+      "Uttrycket visar på en positiv inställning till hårt arbete",
+      "Sömnbrist förkortar livet och motverkar därmed uttryckets intention",
+      "Uttrycket är populärt bland sömnforskare som ett varnande exempel",
+      "Sömnbrist leder till kreativitet som kompenserar för de negativa effekterna"
     ],
-    "answer": "Att man hittar exakta ord i texten som stödjer svaret",
-    "explanation": "Textreferens innebär att svaret kan beläggas direkt i texten, till skillnad från slutledning.",
-    "slug": "las"
+    "answer": "Sömnbrist förkortar livet och motverkar därmed uttryckets intention",
+    "explanation": "Texten beskriver uttrycket som 'ironiskt' just eftersom sömnbrist 'accelererar åldrandet och förkortar livet' — den som sovit för lite dör alltså tidigare, vilket är raka motsatsen till vad uttrycket antyder. Det andra alternativet fångar denna ironi korrekt. Det första alternativet beskriver attityden utan att förklara ironin, det tredje saknar stöd och det fjärde motsägs av texten."
   },
   {
     "id": "las-006",
+    "slug": "las",
     "subject": "Läsförståelse",
-    "question": "En artikel börjar med orden 'Trots att forskningen är entydig väljer politikerna att ignorera den.' Vilken ton har inledningen?",
+    "question": "Läs texten och besvara frågan.\n\nKonstens roll i samhället har diskuterats ända sedan antikens dagar. Platon ville utvisa poeterna ur sin idealstat eftersom han ansåg att konsten väckte okontrollerbara känslor och förvrängde sanningen. Aristoteles svarade med begreppet katarsis — tanken att konsten genom att väcka känslor av rädsla och medlidande faktiskt renar och befriar åskådaren.\n\nDenna grundläggande spänning — är konsten samhällsfarlig eller samhällsnyttig? — lever kvar i moderna debatter. Censurförespråkare och de som kräver 'ansvarsfull' konst befinner sig i en lång tradition efter Platon. De som värnar om konstnärlig frihet och konstens rätt att utmana, provocera och störa befinner sig i Aristoteles fotspår.\n\nMen kanske är dikotomin falsk. Konst kan vara provocerande och samtidigt samhällsbärande. Den kan utmana normer och förstärka gemenskap. Litteratur kan skapa empati för människor vi aldrig skulle möta i verkligheten och förändra hur vi ser på världen — utan att för den skull ge enkla svar eller bekräfta rådande värderingar.\n\nVad menar texten med att 'dikotomin kanske är falsk'?",
     "options": [
-      "Neutral och informativ",
-      "Kritisk och ifrågasättande",
-      "Optimistisk och uppmuntrande",
-      "Deskriptiv och objektiv"
+      "Att varken Platon eller Aristoteles hade rätt om konstens natur",
+      "Att konst kan vara både provocerande och samhällsnyttig samtidigt",
+      "Att konstnärlig frihet alltid bör prioriteras framför samhällsnytta",
+      "Att censur och konstnärlig frihet är förenliga under rätta omständigheter"
     ],
-    "answer": "Kritisk och ifrågasättande",
-    "explanation": "Ordet 'trots' markerar en kontrast och kritik mot politikernas agerande, vilket ger texten en ifrågasättande ton.",
-    "slug": "las"
+    "answer": "Att konst kan vara både provocerande och samhällsnyttig samtidigt",
+    "explanation": "Texten argumenterar explicit att 'konst kan vara provocerande och samtidigt samhällsbärande' och att den kan 'utmana normer och förstärka gemenskap' — vilket innebär att motsättningen mellan farlig och nyttig konst är en falsk dikotomi. Det andra alternativet fångar detta korrekt. Det första är för extremt och stöds inte, det tredje tar tydlig ställning som texten undviker och det fjärde handlar om censur som texten inte förespråkar."
+  },
+  {
+    "id": "las-007",
+    "slug": "las",
+    "subject": "Läsförståelse",
+    "question": "Läs texten och besvara frågan.\n\nUrbaniseringen accelererar globalt. År 2050 beräknas 68 procent av världens befolkning bo i städer, jämfört med 55 procent idag. Denna utveckling ställer enorma krav på stadsplanering, infrastruktur och bostadsförsörjning.\n\nMen urbaniseringen har också positiva effekter som sällan lyfts fram i domedagsprofetior. Städer är per capita mer energieffektiva än landsbygden — tätare bebyggelse minskar transportbehov och möjliggör effektivare uppvärmning. Städer genererar innovation, eftersom koncentrationen av människor och idéer skapar synergieffekter som driver ekonomisk och kulturell utveckling.\n\nUtmaningen är inte att stoppa urbaniseringen utan att hantera den klokt. Det handlar om att bygga städer som är inkluderande, hållbara och levbara — städer som välkomnar inflyttare snarare än segregerar dem, som investerar i kollektivtrafik snarare än bilvänlig sprawl, och som planerar för klimatförändringar snarare än att ignorera dem.\n\nVilken inställning till urbanisering förespråkar texten?",
+    "options": [
+      "Urbanisering bör bromsas för att skydda landsbygden",
+      "Urbanisering är oundviklig och bör hanteras konstruktivt",
+      "Städer är alltid mer hållbara än landsbygd",
+      "Urbanisering löser automatiskt problem med energiförbrukning"
+    ],
+    "answer": "Urbanisering är oundviklig och bör hanteras konstruktivt",
+    "explanation": "Texten argumenterar tydligt för att 'utmaningen inte är att stoppa urbaniseringen utan att hantera den klokt', vilket innebär att den ses som oundviklig och att fokus bör ligga på klok hantering. Det andra alternativet sammanfattar detta korrekt. Det första alternativet motsägs direkt, det tredje är en överdrift — texten säger 'per capita mer energieffektiva', inte 'alltid mer hållbara', och det fjärde är en feltolkning av textens mer nyanserade resonemang."
+  },
+  {
+    "id": "las-008",
+    "slug": "las",
+    "subject": "Läsförståelse",
+    "question": "Läs texten och besvara frågan.\n\nDen svenska välfärdsstaten byggdes upp under efterkrigstiden och vilar på ett kontrakt mellan medborgare och stat: höga skatter i utbyte mot universella tjänster — sjukvård, utbildning, äldreomsorg — tillgängliga för alla oavsett inkomst. Modellen har internationellt sett som en framgångssaga och kopieras i delar av världen.\n\nUnder 1990-talskrisen utsattes modellen för sin allvarligaste prövning. Massarbetslöshet, bankkriser och statsfinansiella underskott tvingade fram nedskärningar som satte djupa spår. Delar av välfärdssektorn privatiserades och marknadslösningar introducerades inom skola och vård.\n\nIdag är debatten om välfärdsstatens framtid mer intensiv än på länge. Å ena sidan finns de som menar att privatisering och valfrihet har förbättrat kvaliteten och effektiviteten. Å andra sidan finns de som hävdar att marknadslösningar skapar ojämlikhet och urholkar det universella åtagandet som är välfärdsstatens kärna.\n\nVad var den utlösande faktorn bakom förändringarna av välfärdsmodellen under 1990-talet?",
+    "options": [
+      "En ideologisk övertygelse om marknadens överlägsenhet",
+      "Internationell kritik mot den svenska modellen",
+      "En ekonomisk kris med massarbetslöshet och statsfinansiella underskott",
+      "Medborgarnas krav på ökad valfrihet inom välfärdssektorn"
+    ],
+    "answer": "En ekonomisk kris med massarbetslöshet och statsfinansiella underskott",
+    "explanation": "Texten anger explicit att 'massarbetslöshet, bankkriser och statsfinansiella underskott tvingade fram nedskärningar' under 1990-talskrisen. Det tredje alternativet återger detta korrekt. De övriga alternativen saknar stöd i texten — ideologisk övertygelse, internationell kritik och medborgarnas krav nämns inte som orsaker."
+  },
+  {
+    "id": "las-009",
+    "slug": "las",
+    "subject": "Läsförståelse",
+    "question": "Läs texten och besvara frågan.\n\nPlast har revolutionerat den moderna världen. Det lätta, formningsbara och hållbara materialet används i allt från förpackningar och kläder till medicinska instrument och rymdfarkoster. Men plasten har också blivit en av vår tids mest akuta miljöproblem.\n\nVarje år hamnar uppskattningsvis åtta miljoner ton plast i världshaven. Plastpåsar och -flaskor bryts visserligen ned med tiden, men inte till ofarliga ämnen — de fragmenteras till mikroplaster, partiklar mindre än fem millimeter, som sprids i hela ekosystemet. Mikroplaster har hittats i djuphavets sediment, i arktisk is, i fiskar och skaldjur — och i det mänskliga blodet.\n\nLösningarna är omdebatterade. Förbud mot engångsplast är en åtgärd som redan genomförts i många länder. Forskning på biologiskt nedbrytbara alternativ pågår. Men kritiker menar att fokus på konsumentbeteende och substitutmaterial avleder uppmärksamheten från den grundläggande frågan om hur mycket vi producerar och konsumerar.\n\nVad innebär plastens nedbrytning i havet enligt texten?",
+    "options": [
+      "Plasten bryts ned till ofarliga naturliga ämnen",
+      "Plasten försvinner från ekosystemet efter nedbrytningen",
+      "Plasten fragmenteras till mikroplaster som sprids i ekosystemet",
+      "Plasten sjunker till havets botten och stannar där"
+    ],
+    "answer": "Plasten fragmenteras till mikroplaster som sprids i ekosystemet",
+    "explanation": "Texten anger tydligt att plastpåsar och -flaskor 'fragmenteras till mikroplaster, partiklar mindre än fem millimeter, som sprids i hela ekosystemet'. Det tredje alternativet återger detta korrekt. Det första alternativet motsägs direkt — texten säger 'inte till ofarliga ämnen'. Det andra och fjärde saknar stöd och motsägs av att mikroplaster hittats överallt inklusive i arktisk is och mänskligt blod."
+  },
+  {
+    "id": "las-010",
+    "slug": "las",
+    "subject": "Läsförståelse",
+    "question": "Läs texten och besvara frågan.\n\nAugust Strindberg är utan tvekan en av de mest inflytelserika svenska författarna någonsin, men han var också en av de mest kontroversiella. Hans verk spänner från naturalistiska romaner och samhällskritiska dramer till expressionistiska kammarspelar och självbiografisk prosa.\n\nStrindberg var en man full av motsägelser. Han var internationellt berömd och internationellt ignorerad. Han var feminist och frauenfeind. Han var fritänkare och periodvis djupt religiös. Hans syn på kvinnan förändrades dramatiskt över tid och hans relationer — tre äktenskap och otaliga konflikter — präglade hans liv och verk.\n\nI Sverige väcker Strindberg fortfarande starka känslor. Hans problematiska syn på kön och hans antisemitiska uttalanden gör honom till en svår figur att förhålla sig till. Samtidigt är hans bidrag till teatern och litteraturen av en klass som få svenska författare ens kommit i närheten av — hans inflytande på världsdramatiken kan knappast överskatttas.\n\nHur beskriver texten Strindbergs betydelse för litteraturen?",
+    "options": [
+      "Hans bidrag är överskattade i förhållande till hans kontroveriella åsikter",
+      "Hans inflytande på världsdramatiken är svårt att överskatta",
+      "Han är mer berömd utomlands än i Sverige på grund av sina kontroverser",
+      "Hans verk är i huvudsak självbiografiska och saknar bredare relevans"
+    ],
+    "answer": "Hans inflytande på världsdramatiken är svårt att överskatta",
+    "explanation": "Texten anger explicit att 'hans inflytande på världsdramatiken kan knappast överskatttas', vilket direkt bekräftar det andra alternativet. Det första alternativet motsägs av texten som lyfter fram hans enorma bidrag trots kontroverser. Det tredje saknar stöd — texten säger han var 'internationellt berömd och internationellt ignorerad', inte att han är mer berömd utomlands. Det fjärde är en grov förenkling som texten inte stöder."
+  },
+  {
+    "id": "las-011",
+    "slug": "las",
+    "subject": "Läsförståelse",
+    "question": "Läs texten och besvara frågan.\n\nKlimatförändringarna är inte längre ett framtida hot — de är en pågående verklighet. Extrema väderhändelser har ökat i frekvens och intensitet. Glaciärer smälter, havsytan stiger och korallrev blekar. Temperaturen på jorden har stigit med ungefär 1,1 grader Celsius sedan förindustriell tid.\n\nParisavtalet från 2015 innebar att världens länder åtog sig att begränsa uppvärmningen till 1,5 grader, helst under 2 grader. Forskarana är dock skeptiska — nuvarande åtaganden, om de uppfylls, beräknas leda till en uppvärmning på runt 2,5 till 3 grader, med potentiellt katastrofala konsekvenser för många delar av världen.\n\nTrots denna dystra bild finns ljuspunkter. Priset på sol- och vindenergi har fallit dramatiskt. Elfordon tar marknadsandelar. Unga aktivister har lyckats sätta klimatfrågan högt på den politiska dagordningen. Frågan är om dessa positiva trender kan accelerera tillräckligt snabbt.\n\nVad är textens övergripande ton?",
+    "options": [
+      "Optimistisk — tekniken löser klimatproblemet",
+      "Pessimistisk — klimatförändringarna är ohanterbara",
+      "Nyanserad — allvarliga problem lyfts fram men också tecken på framsteg",
+      "Neutral — texten tar ingen ställning i klimatfrågan"
+    ],
+    "answer": "Nyanserad — allvarliga problem lyfts fram men också tecken på framsteg",
+    "explanation": "Texten presenterar både allvarliga fakta om klimatförändringarna och positiva trender som fallande energipriser och politiskt engagemang. Frågan 'om dessa positiva trender kan accelerera tillräckligt snabbt' visar att texten varken är rent optimistisk eller pessimistisk. Det tredje alternativet fångar denna nyans bäst. Det första är för optimistiskt, det andra för pessimistiskt och det fjärde stämmer inte — texten tar tydlig ställning om att klimatförändringarna är ett problem."
+  },
+  {
+    "id": "las-012",
+    "slug": "las",
+    "subject": "Läsförståelse",
+    "question": "Läs texten och besvara frågan.\n\nMänniskan är en social varelse, formad av miljoner år av evolution i grupp. Socialt utanförskap aktiverar samma hjärnregioner som fysisk smärta — en insikt från hjärnavbildningsstudier som belyser hur djupt inrotad vår sociala natur är. Ensamhet är inte bara en känsla utan ett fysiologiskt tillstånd med mätbara effekter på immunsystem, hjärt-kärlhälsa och kognitiv funktion.\n\nEn paradox i vår tid är att vi är mer uppkopplade än någonsin och ändå upplever många en djupare ensamhet. Sociala medier erbjuder ständig kontakt men ofta ytliga interaktioner som inte uppfyller behovet av verklig gemenskap. Forskning tyder på att passivt scrollande i sociala medier snarare ökar ensamhetskänslor än minskar dem.\n\nEnsamma individer tenderar att uppfatta sociala hot som större än de är och tolkar andras beteende mer negativt. Detta kan skapa en ond cirkel där ensamheten förstärker sig själv — man drar sig undan, vilket leder till mer ensamhet, vilket förstärker det negativa tolkningsfiltret.\n\nVarför är paradoxen i texten paradoxal?",
+    "options": [
+      "Sociala medier borde leda till mer ensamhet men gör det inte",
+      "Vi är mer uppkopplade men upplever ändå ökad ensamhet",
+      "Ensamhet är skadlig men upplevs som ett positivt tillstånd av många",
+      "Hjärnan kan inte skilja mellan social och fysisk smärta"
+    ],
+    "answer": "Vi är mer uppkopplade men upplever ändå ökad ensamhet",
+    "explanation": "Texten beskriver explicit en paradox: 'vi är mer uppkopplade än någonsin och ändå upplever många en djupare ensamhet'. Det andra alternativet återger detta korrekt. Det första alternativet vänder på logiken felaktigt, det tredje saknar stöd i texten och det fjärde är en faktapåstående från texten men beskriver inte paradoxen."
+  },
+  {
+    "id": "las-013",
+    "slug": "las",
+    "subject": "Läsförståelse",
+    "question": "Läs texten och besvara frågan.\n\nDen svenska skolan har under de senaste decennierna sjunkit i internationella rankingar. PISA-mätningarna, som genomförs vart tredje år av OECD, visade en dramatisk nedgång i svenska elevers resultat under perioden 2000–2012 i läsning, matematik och naturvetenskap. En viss återhämtning skedde i 2015 och 2018 års mätningar, men resultaten är fortfarande lägre än under 1990-talets början.\n\nOrsakerna diskuteras flitigt och det finns sällan enighet. Kommunaliseringen av skolan 1991, det fria skolvalet och friskolereformen, läraryrkets sjunkande status och lärarbrist, bristande arbetsro i klassrummet — listan av möjliga förklaringar är lång.\n\nEn faktor som forskare återkommande lyfter fram är lärarens roll. Studier visar konsekvent att lärarens kompetens och förmåga att skapa goda relationer med eleverna är den enskilt viktigaste faktorn för elevers lärande — viktigare än klasstorleken, skolans resurser eller organisationsform.\n\nVilken faktor lyfter forskningen fram som viktigast för elevers lärande?",
+    "options": [
+      "Klasstorleken och tillgängliga resurser",
+      "Skolans organisationsform och ägandeskap",
+      "Lärarens kompetens och relationer med eleverna",
+      "Elevernas socioekonomiska bakgrund"
+    ],
+    "answer": "Lärarens kompetens och relationer med eleverna",
+    "explanation": "Texten anger explicit att 'lärarens kompetens och förmåga att skapa goda relationer med eleverna är den enskilt viktigaste faktorn för elevers lärande — viktigare än klasstorleken, skolans resurser eller organisationsform'. Det tredje alternativet återger detta korrekt. De övriga alternativen nämns explicit som mindre viktiga faktorer."
+  },
+  {
+    "id": "las-014",
+    "slug": "las",
+    "subject": "Läsförståelse",
+    "question": "Läs texten och besvara frågan.\n\nAntibiotika är en av medicinens största triumfer. Sedan Alexander Fleming upptäckte penicillinet 1928 har antibiotika räddat hundratals miljoner liv och gjort operationer, cancerbehandlingar och förlossningar möjliga utan livshotande infektionsrisk.\n\nMen antibiotikans framgång bär fröet till dess undergång. Ju mer vi använder antibiotika, desto mer selektivt tryck sätter vi på bakterier att utveckla resistens. Antibiotikaresistenta bakterier — ibland kallade superbakterier — dödar redan nära 700 000 människor om året globalt. Om utvecklingen fortsätter beräknar WHO att antibiotikaresistens år 2050 kan döda tio miljoner människor årligen.\n\nProblemet förvärras av att läkemedelsindustrins incitament att utveckla ny antibiotika är svaga. Ett nytt antibiotikum används sparsamt för att bevara dess effektivitet — vilket gör det till en dålig affär. Parallellt används antibiotika i stor utsträckning inom djurhållningen, vilket bidrar till resistensutvecklingen.\n\nVarför är läkemedelsindustrins incitament att utveckla ny antibiotika svaga?",
+    "options": [
+      "Forskning på antibiotika är tekniskt för svår",
+      "Ny antibiotika används sparsamt, vilket gör det ekonomiskt olönsamt",
+      "Myndigheter tillåter inte ny antibiotika på marknaden",
+      "Efterfrågan på ny antibiotika är för liten globalt"
+    ],
+    "answer": "Ny antibiotika används sparsamt, vilket gör det ekonomiskt olönsamt",
+    "explanation": "Texten förklarar att 'ett nytt antibiotikum används sparsamt för att bevara dess effektivitet — vilket gör det till en dålig affär'. Det andra alternativet återger detta resonemang korrekt. De övriga alternativen saknar stöd i texten — teknisk svårighet, myndighetshinder och global efterfrågan nämns inte som orsaker."
+  },
+  {
+    "id": "las-015",
+    "slug": "las",
+    "subject": "Läsförståelse",
+    "question": "Läs texten och besvara frågan.\n\nFotboll är världens mest populära sport, men den moderna fotbollsindustrin är en av världens mest ojämlika. De fem största ligorna — Premier League, La Liga, Bundesliga, Serie A och Ligue 1 — suger upp de flesta globala TV-intäkterna och kan erbjuda löner som mindre klubbar och ligaer aldrig kan matcha.\n\nDenna koncentration av resurser påverkar konkurrensen. I de flesta europeiska ligorna dominerar ett fåtal klubbar totalt. Under de senaste tio åren har titeln i Premier League vunnits av endast fyra olika klubbar, och i La Liga har Real Madrid och Barcelona vunnit nio av tio titlar under 2010-talet.\n\nFinanciellt fair play-reglerna, som UEFA införde för att motverka att rika ägare finansierar osustainable utgifter, har visat sig svåra att upprätthålla och har inte förhindrat att kapitalrika ägare från Mellanöstern och andra delar av världen köpt sig in i de största klubbarna.\n\nVad visar statistiken om Premier League under de senaste tio åren?",
+    "options": [
+      "Att fyra klubbar har delat på alla titlar",
+      "Att konkurrensen i ligan har ökat markant",
+      "Att Financial Fair Play har skapat mer jämlikhet",
+      "Att Premier League har förlorat tittare på grund av ligatrötthet"
+    ],
+    "answer": "Att fyra klubbar har delat på alla titlar",
+    "explanation": "Texten anger explicit att 'titeln i Premier League har vunnits av endast fyra olika klubbar' under de senaste tio åren. Det första alternativet återger detta korrekt. Det andra alternativet motsägs av textens resonemang om bristande konkurrens, det tredje motsägs av att Financial Fair Play 'har visat sig svåra att upprätthålla' och det fjärde nämns inte alls i texten."
+  },
+  {
+    "id": "las-016",
+    "slug": "las",
+    "subject": "Läsförståelse",
+    "question": "Läs texten och besvara frågan.\n\nDen digitala revolutionen har förändrat musikbranschen i grunden. Från att ha dominerats av skivbolag som kontrollerade distribution och marknadsföring har branschen förskjutits mot en direktrelation mellan artist och lyssnare via streamingtjänster och sociala medier.\n\nFör artisterna är bilden blandad. Å ena sidan har trösklarna för att nå en global publik sänkts dramatiskt — en sovrumspop-artist i Malmö kan idag nå lyssnare i Tokyo utan att behöva ett skivbolagskontrakt. Å andra sidan är inkomsterna från streaming minimala. Spotify betalar i genomsnitt runt 0,003–0,005 dollar per stream, vilket innebär att en artist behöver hundratals miljoner streams för att tjäna en anständig lön.\n\nDe som tjänar störst på streamingeran är paradoxalt nog de etablerade skivbolagen. De tre majors — Universal, Sony och Warner — äger rättigheterna till en stor del av den musik som streamas och inkasserar royalties utan att behöva producera ny musik.\n\nVilket påstående stämmer om de etablerade skivbolagen i streamingeran?",
+    "options": [
+      "De har förlorat sin dominans till oberoende artister",
+      "De tjänar på streaming via rättigheter till äldre musik",
+      "De betalar ut för höga royalties för att gå med vinst",
+      "De har tvingats sänka sina intäktskrav för att överleva"
+    ],
+    "answer": "De tjänar på streaming via rättigheter till äldre musik",
+    "explanation": "Texten anger att de etablerade skivbolagen 'äger rättigheterna till en stor del av den musik som streamas och inkasserar royalties utan att behöva producera ny musik'. Det andra alternativet fångar detta korrekt. Det första alternativet motsägs av textens beskrivning av bolagens paradoxala framgång, det tredje och fjärde saknar stöd i texten."
+  },
+  {
+    "id": "las-017",
+    "slug": "las",
+    "subject": "Läsförståelse",
+    "question": "Läs texten och besvara frågan.\n\nPhilosophers have long debated the nature of consciousness, but neuroscience has begun to approach the question empirically. One of the most influential theories is the Global Workspace Theory, proposed by Bernard Baars, which suggests that consciousness arises when information is 'broadcast' across a wide network of brain regions, making it available to different cognitive processes simultaneously.\n\nEn konkurrerande teori är Integrated Information Theory, som föreslår att medvetande kan mätas som ett värde — phi — som representerar mängden integrerad information i ett system. Intressant nog innebär denna teori att medvetande inte är exklusivt för biologiska hjärnor: ett system med tillräckligt hög phi, oavsett substrat, skulle ha en form av medvetande.\n\nIngen av teorierna har ännu bevisats och debatten är intensiv. Frågan om medvetande är inte bara vetenskaplig utan också filosofisk och etisk — den berör frågor om djurens medvetande, medvetande hos artificiell intelligens och vad det innebär att vara en person.\n\nVad skiljer Integrated Information Theory från Global Workspace Theory?",
+    "options": [
+      "IIT fokuserar på hjärnans nätverk medan GWT fokuserar på informationsmängd",
+      "IIT tillåter att icke-biologiska system kan ha medvetande, GWT gör inte det",
+      "GWT är empiriskt bevisad medan IIT fortfarande är spekulativ",
+      "GWT föreslår att medvetande kan mätas numeriskt via ett phi-värde"
+    ],
+    "answer": "IIT tillåter att icke-biologiska system kan ha medvetande, GWT gör inte det",
+    "explanation": "Texten anger att IIT innebär att 'medvetande inte är exklusivt för biologiska hjärnor — ett system med tillräckligt hög phi, oavsett substrat, skulle ha en form av medvetande'. GWT beskrivs däremot i termer av hjärnregioner och kognitiva processer, utan att explicit inkludera icke-biologiska system. Det andra alternativet fångar den centrala skillnaden. Det första vänder på teoriernas fokus felaktigt, det tredje saknar stöd, och det fjärde blandar ihop teorierna — phi-värdet tillhör IIT, inte GWT."
+  },
+  {
+    "id": "las-018",
+    "slug": "las",
+    "subject": "Läsförståelse",
+    "question": "Läs texten och besvara frågan.\n\nDen biologiska mångfalden minskar i en takt som saknar motstycke i mänsklighetens historia. Sedan 1970 har populationerna av däggdjur, fåglar, fiskar, kräldjur och groddjur minskat med i genomsnitt 68 procent, enligt WWFs Living Planet Report. Vi befinner oss mitt i det sjätte massutdöendet i jordens historia — det första som orsakas av en enskild art.\n\nOrsaken är i allt väsentligt mänsklig aktivitet: habitatförstörelse till följd av jordbruk och skogsavverkning, föroreningar, klimatförändringar, invasiva arter och överfiske. Tropiska regnskogar, korallrev och våtmarker — tre av planetens artrikaste ekosystem — är under hårt tryck.\n\nKonsekvenserna är inte bara estetiska eller etiska. Ekosystemtjänster — de gratistjänster naturen tillhandahåller som pollinering, vattenrening och klimatreglering — är grundläggande för mänsklig civilisation. Förlusten av biologisk mångfald undergräver dessa tjänster och hotar på sikt den mänskliga ekonomin och försörjningen.\n\nVarför är förlusten av biologisk mångfald ett problem även ur ett rent mänskligt perspektiv?",
+    "options": [
+      "Eftersom den minskar möjligheterna till naturupplevelser och turism",
+      "Eftersom den undergräver ekosystemtjänster som mänsklig civilisation är beroende av",
+      "Eftersom den är ett tecken på moralisk nedgång i samhället",
+      "Eftersom den minskar antalet arter tillgängliga för medicinsk forskning"
+    ],
+    "answer": "Eftersom den undergräver ekosystemtjänster som mänsklig civilisation är beroende av",
+    "explanation": "Texten argumenterar explicit att 'ekosystemtjänster — de gratistjänster naturen tillhandahåller som pollinering, vattenrening och klimatreglering — är grundläggande för mänsklig civilisation' och att 'förlusten av biologisk mångfald undergräver dessa tjänster och hotar på sikt den mänskliga ekonomin och försörjningen'. Det andra alternativet fångar detta resonemang. De övriga alternativen saknar stöd i texten."
+  },
+  {
+    "id": "las-019",
+    "slug": "las",
+    "subject": "Läsförståelse",
+    "question": "Läs texten och besvara frågan.\n\nKonstgjord intelligens förändrar arbetsmarknaden i en takt och med en bredd som tidigare teknologiska revolutioner inte matchat. Tidigare automatisering — industriroboten, kassaapparaten, bankautomaten — ersatte manuellt och rutinmässigt arbete. AI utmanar nu även kognitiva och kreativa yrken: juridik, redovisning, journalistik, bildproduktion och kodning.\n\nEkonomister är oeniga om konsekvenserna. Optimisterna hänvisar till historien: varje teknologisk revolution har på sikt skapat fler jobb än den förstört, om än av ett annat slag. Pessimisterna menar att AI:s kapacitet och hastighet är av en annan klass och att arbetsmarknaden inte hinner anpassa sig.\n\nEn aspekt som ofta förbises är fördelningsfrågan. Historisk teknologisk förändring har gynnat de som äger teknologin och de med förmåga att komplementera den — medan de vars jobb ersatts ofta hamnat i ett sämre läge. Om AI-eran följer samma mönster riskerar ojämlikheten att öka dramatiskt, oavsett om antalet jobb totalt minskar eller inte.\n\nVad är textens centrala varning angående AI och arbetsmarknaden?",
+    "options": [
+      "Att AI kommer att ersätta alla mänskliga jobb inom en generation",
+      "Att AI:s effekter på arbetsmarknaden är lätta att förutse",
+      "Att den ekonomiska vinsten från AI riskerar att fördelas ojämlikt",
+      "Att pessimisterna har rätt om att AI är värre än tidigare teknologier"
+    ],
+    "answer": "Att den ekonomiska vinsten från AI riskerar att fördelas ojämlikt",
+    "explanation": "Texten lyfter explicit fram fördelningsfrågan som något som 'ofta förbises' och argumenterar att om historiska mönster upprepas 'riskerar ojämlikheten att öka dramatiskt'. Det tredje alternativet fångar denna centrala varning. Det första är en överdrift texten inte stöder, det andra motsägs av att ekonomisterna är oeniga, och det fjärde tar ställning som texten undviker."
+  },
+  {
+    "id": "las-020",
+    "slug": "las",
+    "subject": "Läsförståelse",
+    "question": "Läs texten och besvara frågan.\n\nNordiska deckare har under de senaste decennierna blivit en global exportframgång. Från Henning Mankells Wallander till Stieg Larssons Millennium-trilogi och Camilla Läckbergs böcker har den genre som ibland kallas 'Nordic noir' fängslat läsare i dussintals länder och blivit anpassad för film och TV världen över.\n\nVad utmärker genren? Det finns naturligtvis variationer, men vissa drag återkommer: den dystra nordiska naturen som kuliss, sociala orättvisor och mörka sidor av välfärdsstaten som tematik, ofta komplexa och psykologiskt trovärdiga karaktärer, och en vilja att skildra samhällets strukturella problem snarare än att lyfta fram individuella skurkar.\n\nKritiker har pekat på att genrens utländska framgångar delvis bygger på en romantisering av den nordiska mörkret och de långa vintrarna — en exotism som inhemska läsare inte nödvändigtvis delar. Andra menar att framgångarna vittnar om ett genuint intresse för de sociala frågor som genren lyfter fram.\n\nVad lyfter texten fram som ett möjligt skäl till Nordic noir-genrens internationella framgång?",
+    "options": [
+      "Att böckerna är lättlästa och tillgängliga för en bred publik",
+      "Att genren romantiserar det nordiska mörkret på ett sätt som attraherar utländska läsare",
+      "Att nordiska kriminalromaner alltid legat på topplistorna globalt",
+      "Att genren undviker politiska och sociala teman för att nå bred publik"
+    ],
+    "answer": "Att genren romantiserar det nordiska mörkret på ett sätt som attraherar utländska läsare",
+    "explanation": "Texten nämner explicit att kritiker 'pekat på att genrens utländska framgångar delvis bygger på en romantisering av den nordiska mörkret och de långa vintrarna — en exotism som inhemska läsare inte nödvändigtvis delar'. Det andra alternativet återger detta korrekt. Det första och tredje saknar stöd och det fjärde motsägs direkt av textens beskrivning av genrens sociala tematik."
+  },
+  {
+    "id": "las-021",
+    "slug": "las",
+    "subject": "Läsförståelse",
+    "question": "Läs texten och besvara frågan.\n\nVattenbristen är en av de snabbast växande globala kriserna. Idag lever ungefär två miljarder människor i länder med hög vattenstress, och FN beräknar att efterfrågan på sötvatten kan överstiga tillgången med 40 procent redan år 2030.\n\nKlimatlösningarnas blinda fläck är ofta vatten. Solcellspaneler och vindkraftverk är visserligen koldioxidsnåla, men produktion av litiumjonbatterier och annat material för energiomställningen är vattenkrävande. Jordbruket, som svarar för 70 procent av det globala vattenuttaget, är under press från både klimatförändringar och ökad befolkning.\n\nLösningar finns och testas. Avsaltning av havsvatten används i vattenfattiga regioner, men är energikrävande och dyr. Precisionsjordbruk med drönar- och sensorteknik kan reducera vattenanvändningen markant. Och cirkulär vattenanvändning — att rena och återanvända avloppsvatten — har potential att minska uttaget på sötvattenreserver.\n\nVilket av följande påståenden stöds av texten?",
+    "options": [
+      "Jordbruket svarar för hälften av det globala vattenuttaget",
+      "Avsaltning är den mest kostnadseffektiva lösningen på vattenbrist",
+      "FN beräknar att vattenefterfrågan kan överstiga tillgången med 40 procent år 2030",
+      "Produktion av solcellspaneler kräver inga vattentillgångar"
+    ],
+    "answer": "FN beräknar att vattenefterfrågan kan överstiga tillgången med 40 procent år 2030",
+    "explanation": "Texten anger explicit att 'FN beräknar att efterfrågan på sötvatten kan överstiga tillgången med 40 procent redan år 2030'. Det tredje alternativet återger detta korrekt. Det första alternativet är felaktigt — texten anger 70 procent, inte hälften. Det andra alternativet motsägs av att avsaltning beskrivs som 'energikrävande och dyr'. Det fjärde motsägs av att solcellsproduktionen beskrivs som vattenkrävande."
+  },
+  {
+    "id": "las-022",
+    "slug": "las",
+    "subject": "Läsförståelse",
+    "question": "Läs texten och besvara frågan.\n\nFörtroendet för demokratiska institutioner har sjunkit i många länder under de senaste decennierna. Missnöjet kanaliseras ibland mot etablerade partier, ibland mot medierna, ibland mot politiken som helhet. Populistiska rörelser — såväl till höger som till vänster — har vuxit fram och utmanar den liberala demokratins normer och institutioner.\n\nForskare diskuterar vad som driver denna trend. Ekonomisk ojämlikhet och upplevelsen av att 'systemet' gynnar en elit på bekostnad av vanliga människor är en förklaring. Kulturella förändringar och en känsla av att traditionella identiteter och värden hotas är en annan. Medielandskapets fragmentering och sociala mediers algoritmers benägenhet att förstärka kontroversiella budskap är en tredje.\n\nVad som är klart är att demokratins hälsa inte kan tas för givet. Studier visar att yngre generationer i många länder är mer ambivalenta till demokrati som styrelseform än äldre generationer, och att stödet för 'en stark ledare som inte behöver bry sig om parlament och val' ökar.\n\nVilket påstående om yngre generationers inställning till demokrati stöds av texten?",
+    "options": [
+      "De är mer positiva till demokrati än äldre generationer",
+      "De föredrar populistiska rörelser framför traditionella partier",
+      "De är mer ambivalenta till demokrati som styrelseform än äldre generationer",
+      "De engagerar sig mer politiskt online men mindre i traditionella val"
+    ],
+    "answer": "De är mer ambivalenta till demokrati som styrelseform än äldre generationer",
+    "explanation": "Texten anger explicit att 'yngre generationer i många länder är mer ambivalenta till demokrati som styrelseform än äldre generationer'. Det tredje alternativet återger detta ordagrant. De övriga alternativen saknar stöd eller motsägs av texten — texten nämner inte att yngre föredrar populism, och onlineengagemang kontra valdeltagande nämns inte."
+  },
+  {
+    "id": "las-023",
+    "slug": "las",
+    "subject": "Läsförståelse",
+    "question": "Läs texten och besvara frågan.\n\nAtt vara tvåspråkig har länge ansetts ha kognitiva fördelar. Forskning från tidigt 2000-tal föreslog att tvåspråkiga individer presterade bättre på uppgifter som kräver kognitiv kontroll — förmågan att fokusera på relevant information och ignorera distraktioner — och att tvåspråkighet försenande uppkomsten av demens med upp till fem år.\n\nDessa resultat har emellertid kommit att ifrågasättas. Flera replikationsstudier har misslyckats med att reproducera de ursprungliga fynden. En del forskning tyder nu på att den kognitiva fördelen med tvåspråkighet, om den existerar, är mycket mer begränsad och kontextberoende än de tidiga entusiastiska studierna antydde.\n\nDebatterna om tvåspråkighetsforskningen illustrerar ett bredare problem i psykologin och kognitiva vetenskaper: replikationskrisen. Många klassiska fynd som tagits för givna har visat sig vara svåra att reproducera, och branschen genomgår en smärtsam men nödvändig självrannsakan kring metoder och publikationspraktiker.\n\nVad exemplifierar debatten om tvåspråkighetsforskningen enligt texten?",
+    "options": [
+      "Att tvåspråkighet inte har några kognitiva fördelar alls",
+      "Att tidiga psykologistudier alltid är mer tillförlitliga än senare replikationer",
+      "Ett bredare problem med replikerbarhet inom psykologi och kognitiva vetenskaper",
+      "Att demensförebyggande åtgärder saknar vetenskapligt stöd"
+    ],
+    "answer": "Ett bredare problem med replikerbarhet inom psykologi och kognitiva vetenskaper",
+    "explanation": "Texten anger explicit att 'debatterna om tvåspråkighetsforskningen illustrerar ett bredare problem i psykologin och kognitiva vetenskaper: replikationskrisen'. Det tredje alternativet återger detta direkt. Det första är för extremt — texten säger att fördelen är 'begränsad', inte obefintlig. Det andra motsägs av textens resonemang och det fjärde är inte ett tema i texten."
+  },
+  {
+    "id": "las-024",
+    "slug": "las",
+    "subject": "Läsförståelse",
+    "question": "Läs texten och besvara frågan.\n\nMat är mer än näring — det är kultur, identitet och gemenskap. Matvanor bärs av traditioner och berättelser som sträcker sig över generationer, och mat är ofta det sista en diaspora håller fast vid när andra kulturella markörer bleknar.\n\nGlobalisering och migration har omformat matlandskapet dramatiskt. En persons middagsbord kan idag inkludera ingredienser från fyra kontinenter, och restaurangkulturen i en global stad som Stockholm eller London erbjuder en kulinarisk världsresa. Fusion-kök blandar traditioner på sätt som tidigare var otänkbara.\n\nMen globaliseringen av maten väcker också frågor om äkthet och appropriering. När en maträtt reser långt från sitt ursprung och anpassas för nya smaker och marknader, vad händer med dess identitet? Och vem har rätten att definiera vad som är 'äkta' — ursprungslandets befolkning, diasporagemenskapen, eller den som lagar maten?\n\nVad är den huvudsakliga fråga texten ställer i sista stycket?",
+    "options": [
+      "Om fusion-kök är gastronomiskt överlägset traditionell matlagning",
+      "Vem som har rätten att definiera vad som är äkta mat",
+      "Om globalisering förstört traditionella matvanor",
+      "Varför diasporagemenskaper håller fast vid matvanor längre än andra traditioner"
+    ],
+    "answer": "Vem som har rätten att definiera vad som är äkta mat",
+    "explanation": "Det sista stycket avslutas explicit med frågan 'vem har rätten att definiera vad som är äkta — ursprungslandets befolkning, diasporagemenskapen, eller den som lagar maten?'. Det andra alternativet återger denna fråga korrekt. De övriga alternativen är inte de frågor texten ställer i sista stycket."
+  },
+  {
+    "id": "las-025",
+    "slug": "las",
+    "subject": "Läsförståelse",
+    "question": "Läs texten och besvara frågan.\n\nVälmående är ett begrepp som definieras olika i olika kulturer och traditioner. I västerländsk psykologi dominerar hedonistiska och eudaimonistiska modeller. Den hedonistiska synen fokuserar på maximeringen av positiva känslor och minimerandet av negativa — välmående som njutning. Den eudaimonistiska synen, rotad i Aristoteles, ser välmående som ett resultat av att leva meningsfullt, i enlighet med sina djupaste värderingar och potential.\n\nForskning tyder på att eudaimonistiskt välmående korrelerar starkare med hälsoutfall, djupare relationer och motståndskraft i svårigheter. Hedonistiskt välmående, trots att det är lättare att mäta och rapporteras mer direkt av individer, verkar mer sårbart för livsomständigheter och yttre faktorer.\n\nEn tredje tradition, hämtad från östasiatiska filosofier som buddhism och konfucianism, lägger tonvikten vid jämnmod, acceptans och att inte fastna i vare sig glädjerus eller sorg. Välmående ses här inte som ett tillstånd att uppnå utan som en kontinuerlig praktik av närvaro och balans.\n\nVad skiljer den eudaimonistiska synen på välmående från den hedonistiska?",
+    "options": [
+      "Eudaimoni fokuserar på njutning medan hedonism fokuserar på mening",
+      "Eudaimoni är rotad i östasiatisk filosofi medan hedonism är västerländsk",
+      "Eudaimoni kopplar välmående till ett meningsfullt liv medan hedonism fokuserar på positiva känslor",
+      "Eudaimoni mäts lättare än hedonism i psykologisk forskning"
+    ],
+    "answer": "Eudaimoni kopplar välmående till ett meningsfullt liv medan hedonism fokuserar på positiva känslor",
+    "explanation": "Texten beskriver den hedonistiska synen som 'maximeringen av positiva känslor' och den eudaimonistiska som 'ett resultat av att leva meningsfullt, i enlighet med sina djupaste värderingar'. Det tredje alternativet sammanfattar denna skillnad korrekt. Det första alternativet vänder på definitionerna felaktigt, det andra blandar ihop eudaimoni med den östasiatiska traditionen och det fjärde motsägs av texten som anger att hedonistiskt välmående är 'lättare att mäta'."
   }
 ]
