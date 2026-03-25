@@ -2,6 +2,7 @@
 
 import { useState } from "react"
 import type { Question } from "@/lib/questions"
+import { formatText } from "@/lib/utils"
 
 type Phase = "setup" | "quiz" | "result"
 
@@ -150,9 +151,7 @@ export default function QuizClient({ questions }: Props) {
             </div>
 
             <div className="bg-surface border border-border  rounded-2xl p-6">
-                <p className="text-neutral-100 font-medium text-base leading-relaxed">
-                    {current.question}
-                </p>
+                {formatText(current.question, "text-neutral-100 font-medium text-base leading-relaxed")}
             </div>
 
             <div className="flex flex-col gap-2">
@@ -187,7 +186,7 @@ export default function QuizClient({ questions }: Props) {
 
             {confirmed && (
                 <div className="bg--surface border border-border  rounded-xl px-4 py-3 text-sm text-muted">
-                    {current.explanation}
+                    {formatText(current.explanation, "text-sm text-muted")}
                 </div>
             )}
 

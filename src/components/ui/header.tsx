@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Warning from "../features/warning";
 
 export default function Sidhuvud() {
     return (
@@ -14,6 +15,7 @@ export default function Sidhuvud() {
                     </Link>
                 </nav>
             </div>
+            <Warning />
         </header>
     )
 }

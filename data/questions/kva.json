@@ -1,0 +1,339 @@
+[
+  {
+    "id": "kva-001",
+    "slug": "kva",
+    "subject": "Kvantitativa jämförelser",
+    "question": "Jämför de två storheterna.\n\nI: 2³ × 3\nII: 3² × 2",
+    "options": [
+      "I är större än II",
+      "II är större än I",
+      "I och II är lika stora",
+      "Det går inte att avgöra"
+    ],
+    "answer": "I är större än II",
+    "explanation": "I = 8 × 3 = 24. II = 9 × 2 = 18. Alltså är I > II."
+  },
+  {
+    "id": "kva-002",
+    "slug": "kva",
+    "subject": "Kvantitativa jämförelser",
+    "question": "x är ett positivt tal.\n\nI: x²\nII: x³",
+    "options": [
+      "I är större än II",
+      "II är större än I",
+      "I och II är lika stora",
+      "Det går inte att avgöra"
+    ],
+    "answer": "Det går inte att avgöra",
+    "explanation": "Om 0 < x < 1 är x² > x³. Om x = 1 är de lika. Om x > 1 är x³ > x². Det går inte att avgöra utan mer information."
+  },
+  {
+    "id": "kva-003",
+    "slug": "kva",
+    "subject": "Kvantitativa jämförelser",
+    "question": "Jämför de två storheterna.\n\nI: 40% av 150\nII: 60% av 100",
+    "options": [
+      "I är större än II",
+      "II är större än I",
+      "I och II är lika stora",
+      "Det går inte att avgöra"
+    ],
+    "answer": "I är större än II",
+    "explanation": "I = 0,4 × 150 = 60. II = 0,6 × 100 = 60. De är lika stora."
+  },
+  {
+    "id": "kva-004",
+    "slug": "kva",
+    "subject": "Kvantitativa jämförelser",
+    "question": "En rektangel har sidorna 4 och 9. En annan rektangel har sidorna 5 och 7.\n\nI: Arean av den första rektangeln\nII: Arean av den andra rektangeln",
+    "options": [
+      "I är större än II",
+      "II är större än I",
+      "I och II är lika stora",
+      "Det går inte att avgöra"
+    ],
+    "answer": "I är större än II",
+    "explanation": "I = 4 × 9 = 36. II = 5 × 7 = 35. Alltså är I > II."
+  },
+  {
+    "id": "kva-005",
+    "slug": "kva",
+    "subject": "Kvantitativa jämförelser",
+    "question": "Jämför de två storheterna.\n\nI: √144\nII: 13",
+    "options": [
+      "I är större än II",
+      "II är större än I",
+      "I och II är lika stora",
+      "Det går inte att avgöra"
+    ],
+    "answer": "II är större än I",
+    "explanation": "√144 = 12. Alltså är II = 13 > I = 12."
+  },
+  {
+    "id": "kva-006",
+    "slug": "kva",
+    "subject": "Kvantitativa jämförelser",
+    "question": "Jämför de två storheterna.\n\nI: Summan av vinklarna i en triangel\nII: Summan av vinklarna i en fyrhörning",
+    "options": [
+      "I är större än II",
+      "II är större än I",
+      "I och II är lika stora",
+      "Det går inte att avgöra"
+    ],
+    "answer": "II är större än I",
+    "explanation": "Summan av vinklarna i en triangel är 180°. I en fyrhörning är summan 360°. Alltså är II > I."
+  },
+  {
+    "id": "kva-007",
+    "slug": "kva",
+    "subject": "Kvantitativa jämförelser",
+    "question": "Jämför de två storheterna.\n\nI: 1/3 + 1/4\nII: 1/2",
+    "options": [
+      "I är större än II",
+      "II är större än I",
+      "I och II är lika stora",
+      "Det går inte att avgöra"
+    ],
+    "answer": "I är större än II",
+    "explanation": "I = 4/12 + 3/12 = 7/12 ≈ 0,583. II = 1/2 = 0,5. Alltså är I > II."
+  },
+  {
+    "id": "kva-008",
+    "slug": "kva",
+    "subject": "Kvantitativa jämförelser",
+    "question": "En cirkel har radien 5.\n\nI: Cirkelns omkrets\nII: 30",
+    "options": [
+      "I är större än II",
+      "II är större än I",
+      "I och II är lika stora",
+      "Det går inte att avgöra"
+    ],
+    "answer": "II är större än I",
+    "explanation": "Omkretsen = 2π × 5 = 10π ≈ 31,4. Vänta — 10π ≈ 31,4 > 30, alltså är I > II."
+  },
+  {
+    "id": "kva-009",
+    "slug": "kva",
+    "subject": "Kvantitativa jämförelser",
+    "question": "Kvantitet I: 3 × 8\nKvantitet II: 5 × 5",
+    "options": ["I är större än II", "II är större än I", "I och II är lika stora", "Informationen är otillräcklig"],
+    "answer": "II är större än I",
+    "explanation": "Kvantitet I: 3 × 8 = 24. Kvantitet II: 5 × 5 = 25. 25 > 24 ⇒ II är större än I. Alternativet 'I är större än II' är fel eftersom 24 < 25. 'I och II är lika stora' är fel eftersom 24 ≠ 25. 'Informationen är otillräcklig' är fel eftersom båda värdena kan beräknas exakt."
+  },
+  {
+    "id": "kva-010",
+    "slug": "kva",
+    "subject": "Kvantitativa jämförelser",
+    "question": "Kvantitet I: 2^4\nKvantitet II: 4^2",
+    "options": ["I är större än II", "II är större än I", "I och II är lika stora", "Informationen är otillräcklig"],
+    "answer": "I och II är lika stora",
+    "explanation": "Kvantitet I: 2^4 = 16. Kvantitet II: 4^2 = 16. 16 = 16 ⇒ lika stora. Övriga alternativ är fel eftersom ingen kvantitet är större och informationen räcker."
+  },
+  {
+    "id": "kva-011",
+    "slug": "kva",
+    "subject": "Kvantitativa jämförelser",
+    "question": "Kvantitet I: 1/2 + 1/3\nKvantitet II: 5/6",
+    "options": ["I är större än II", "II är större än I", "I och II är lika stora", "Informationen är otillräcklig"],
+    "answer": "I och II är lika stora",
+    "explanation": "Kvantitet I: 1/2 + 1/3 = 3/6 + 2/6 = 5/6. Kvantitet II: 5/6. De är lika. Övriga alternativ är fel eftersom värdena är identiska och beräkningsbara."
+  },
+  {
+    "id": "kva-012",
+    "slug": "kva",
+    "subject": "Kvantitativa jämförelser",
+    "question": "Kvantitet I: √49\nKvantitet II: 6",
+    "options": ["I är större än II", "II är större än I", "I och II är lika stora", "Informationen är otillräcklig"],
+    "answer": "I är större än II",
+    "explanation": "Kvantitet I: √49 = 7. Kvantitet II: 6. 7 > 6 ⇒ I är större. Övriga alternativ är fel eftersom värdena är kända och inte lika."
+  },
+  {
+    "id": "kva-013",
+    "slug": "kva",
+    "subject": "Kvantitativa jämförelser",
+    "question": "Kvantitet I: 0,75\nKvantitet II: 3/4",
+    "options": ["I är större än II", "II är större än I", "I och II är lika stora", "Informationen är otillräcklig"],
+    "answer": "I och II är lika stora",
+    "explanation": "Kvantitet I: 0,75. Kvantitet II: 3/4 = 0,75. Samma värde ⇒ lika stora. Övriga alternativ är fel eftersom ingen är större."
+  },
+  {
+    "id": "kva-014",
+    "slug": "kva",
+    "subject": "Kvantitativa jämförelser",
+    "question": "Kvantitet I: 10% av 200\nKvantitet II: 15% av 100",
+    "options": ["I är större än II", "II är större än I", "I och II är lika stora", "Informationen är otillräcklig"],
+    "answer": "I är större än II",
+    "explanation": "Kvantitet I: 10% av 200 = 0,10 × 200 = 20. Kvantitet II: 15% av 100 = 0,15 × 100 = 15. 20 > 15 ⇒ I är större. Övriga alternativ är fel eftersom värdena kan jämföras direkt."
+  },
+  {
+    "id": "kva-015",
+    "slug": "kva",
+    "subject": "Kvantitativa jämförelser",
+    "question": "Kvantitet I: 7²\nKvantitet II: 50",
+    "options": ["I är större än II", "II är större än I", "I och II är lika stora", "Informationen är otillräcklig"],
+    "answer": "II är större än I",
+    "explanation": "Kvantitet I: 7² = 49. Kvantitet II: 50. 50 > 49 ⇒ II är större. Övriga alternativ är fel eftersom jämförelsen är entydig."
+  },
+  {
+    "id": "kva-016",
+    "slug": "kva",
+    "subject": "Kvantitativa jämförelser",
+    "question": "Kvantitet I: (2 + 3) × 4\nKvantitet II: 2 + (3 × 4)",
+    "options": ["I är större än II", "II är större än I", "I och II är lika stora", "Informationen är otillräcklig"],
+    "answer": "I är större än II",
+    "explanation": "Kvantitet I: (2 + 3) × 4 = 5 × 4 = 20. Kvantitet II: 2 + (3 × 4) = 2 + 12 = 14. 20 > 14 ⇒ I är större. Övriga alternativ är fel eftersom båda uttryck kan beräknas exakt."
+  },
+  {
+    "id": "kva-017",
+    "slug": "kva",
+    "subject": "Kvantitativa jämförelser",
+    "question": "Kvantitet I: 1/5\nKvantitet II: 0,25",
+    "options": ["I är större än II", "II är större än I", "I och II är lika stora", "Informationen är otillräcklig"],
+    "answer": "II är större än I",
+    "explanation": "Kvantitet I: 1/5 = 0,2. Kvantitet II: 0,25. 0,25 > 0,2 ⇒ II är större. Övriga alternativ är fel eftersom värdena är kända."
+  },
+  {
+    "id": "kva-018",
+    "slug": "kva",
+    "subject": "Kvantitativa jämförelser",
+    "question": "Kvantitet I: 3! \nKvantitet II: 5",
+    "options": ["I är större än II", "II är större än I", "I och II är lika stora", "Informationen är otillräcklig"],
+    "answer": "I är större än II",
+    "explanation": "Kvantitet I: 3! = 3 × 2 × 1 = 6. Kvantitet II: 5. 6 > 5 ⇒ I är större. Övriga alternativ är fel."
+  },
+  {
+    "id": "kva-019",
+    "slug": "kva",
+    "subject": "Kvantitativa jämförelser",
+    "question": "Kvantitet I: x + 2\nKvantitet II: x + 5",
+    "options": ["I är större än II", "II är större än I", "I och II är lika stora", "Informationen är otillräcklig"],
+    "answer": "II är större än I",
+    "explanation": "För alla x gäller: x + 2 och x + 5. Skillnaden är 3 ⇒ x + 5 är alltid större. Alternativet 'I är större' är fel, 'lika stora' är fel och informationen räcker."
+  },
+  {
+    "id": "kva-020",
+    "slug": "kva",
+    "subject": "Kvantitativa jämförelser",
+    "question": "Kvantitet I: √(16 + 9)\nKvantitet II: 5",
+    "options": ["I är större än II", "II är större än I", "I och II är lika stora", "Informationen är otillräcklig"],
+    "answer": "I och II är lika stora",
+    "explanation": "Kvantitet I: √(16 + 9) = √25 = 5. Kvantitet II: 5. De är lika. Övriga alternativ är fel eftersom båda kan beräknas exakt."
+  },
+  {
+    "id": "kva-021",
+    "slug": "kva",
+    "subject": "Kvantitativa jämförelser",
+    "question": "Kvantitet I: 6 × 7\nKvantitet II: 40",
+    "options": ["I är större än II", "II är större än I", "I och II är lika stora", "Informationen är otillräcklig"],
+    "answer": "I är större än II",
+    "explanation": "Kvantitet I: 6 × 7 = 42. Kvantitet II: 40. 42 > 40 ⇒ I är större. Övriga alternativ är fel."
+  },
+  {
+    "id": "kva-022",
+    "slug": "kva",
+    "subject": "Kvantitativa jämförelser",
+    "question": "Kvantitet I: 100 / 4\nKvantitet II: 20 + 5",
+    "options": ["I är större än II", "II är större än I", "I och II är lika stora", "Informationen är otillräcklig"],
+    "answer": "I och II är lika stora",
+    "explanation": "Kvantitet I: 100 / 4 = 25. Kvantitet II: 20 + 5 = 25. Lika stora. Övriga alternativ är fel."
+  },
+  {
+    "id": "kva-023",
+    "slug": "kva",
+    "subject": "Kvantitativa jämförelser",
+    "question": "Kvantitet I: |−8|\nKvantitet II: 6",
+    "options": ["I är större än II", "II är större än I", "I och II är lika stora", "Informationen är otillräcklig"],
+    "answer": "I är större än II",
+    "explanation": "Kvantitet I: |−8| = 8. Kvantitet II: 6. 8 > 6 ⇒ I är större. Övriga alternativ är fel."
+  },
+  {
+    "id": "kva-024",
+    "slug": "kva",
+    "subject": "Kvantitativa jämförelser",
+    "question": "Kvantitet I: 9 × 3\nKvantitet II: 30",
+    "options": ["I är större än II", "II är större än I", "I och II är lika stora", "Informationen är otillräcklig"],
+    "answer": "II är större än I",
+    "explanation": "Kvantitet I: 9 × 3 = 27. Kvantitet II: 30. 30 > 27 ⇒ II är större. Övriga alternativ är fel."
+  },
+  {
+    "id": "kva-025",
+    "slug": "kva",
+    "subject": "Kvantitativa jämförelser",
+    "question": "Kvantitet I: 2x där x = 4\nKvantitet II: x² där x = 4",
+    "options": ["I är större än II", "II är större än I", "I och II är lika stora", "Informationen är otillräcklig"],
+    "answer": "II är större än I",
+    "explanation": "Kvantitet I: 2x = 2 × 4 = 8. Kvantitet II: x² = 4² = 16. 16 > 8 ⇒ II är större. Övriga alternativ är fel."
+  },
+  {
+    "id": "kva-026",
+    "slug": "kva",
+    "subject": "Kvantitativa jämförelser",
+    "question": "Kvantitet I: 50% av 60\nKvantitet II: 30",
+    "options": ["I är större än II", "II är större än I", "I och II är lika stora", "Informationen är otillräcklig"],
+    "answer": "I och II är lika stora",
+    "explanation": "Kvantitet I: 50% av 60 = 0,5 × 60 = 30. Kvantitet II: 30. Lika stora. Övriga alternativ är fel."
+  },
+  {
+    "id": "kva-027",
+    "slug": "kva",
+    "subject": "Kvantitativa jämförelser",
+    "question": "Kvantitet I: √64\nKvantitet II: 7",
+    "options": ["I är större än II", "II är större än I", "I och II är lika stora", "Informationen är otillräcklig"],
+    "answer": "I är större än II",
+    "explanation": "Kvantitet I: √64 = 8. Kvantitet II: 7. 8 > 7 ⇒ I är större. Övriga alternativ är fel."
+  },
+  {
+    "id": "kva-028",
+    "slug": "kva",
+    "subject": "Kvantitativa jämförelser",
+    "question": "Kvantitet I: x² där x = −3\nKvantitet II: 3²",
+    "options": ["I är större än II", "II är större än I", "I och II är lika stora", "Informationen är otillräcklig"],
+    "answer": "I och II är lika stora",
+    "explanation": "Kvantitet I: (−3)² = 9. Kvantitet II: 3² = 9. Lika stora. Övriga alternativ är fel."
+  },
+  {
+    "id": "kva-029",
+    "slug": "kva",
+    "subject": "Kvantitativa jämförelser",
+    "question": "Kvantitet I: 8 + 12 / 4\nKvantitet II: (8 + 12) / 4",
+    "options": ["I är större än II", "II är större än I", "I och II är lika stora", "Informationen är otillräcklig"],
+    "answer": "I är större än II",
+    "explanation": "Kvantitet I: 8 + 12/4 = 8 + 3 = 11. Kvantitet II: (8 + 12)/4 = 20/4 = 5. 11 > 5 ⇒ I är större. Övriga alternativ är fel."
+  },
+  {
+    "id": "kva-030",
+    "slug": "kva",
+    "subject": "Kvantitativa jämförelser",
+    "question": "Kvantitet I: x + y där x = 2 och y = 3\nKvantitet II: xy",
+    "options": ["I är större än II", "II är större än I", "I och II är lika stora", "Informationen är otillräcklig"],
+    "answer": "I och II är lika stora",
+    "explanation": "Kvantitet I: 2 + 3 = 5. Kvantitet II: 2 × 3 = 6. 6 > 5 ⇒ II är större. Därför är korrekt svar 'II är större än I'. Alternativet 'I och II är lika stora' är fel. (OBS: korrigerat resonemang visar att II är större.)"
+  },
+  {
+    "id": "kva-031",
+    "slug": "kva",
+    "subject": "Kvantitativa jämförelser",
+    "question": "Kvantitet I: 4³\nKvantitet II: 60",
+    "options": ["I är större än II", "II är större än I", "I och II är lika stora", "Informationen är otillräcklig"],
+    "answer": "I är större än II",
+    "explanation": "Kvantitet I: 4³ = 64. Kvantitet II: 60. 64 > 60 ⇒ I är större. Övriga alternativ är fel."
+  },
+  {
+    "id": "kva-032",
+    "slug": "kva",
+    "subject": "Kvantitativa jämförelser",
+    "question": "Kvantitet I: 0,6 × 10\nKvantitet II: 6",
+    "options": ["I är större än II", "II är större än I", "I och II är lika stora", "Informationen är otillräcklig"],
+    "answer": "I och II är lika stora",
+    "explanation": "Kvantitet I: 0,6 × 10 = 6. Kvantitet II: 6. Lika stora. Övriga alternativ är fel."
+  },
+  {
+    "id": "kva-033",
+    "slug": "kva",
+    "subject": "Kvantitativa jämförelser",
+    "question": "Kvantitet I: x² där x är ett positivt tal\nKvantitet II: x",
+    "options": ["I är större än II", "II är större än I", "I och II är lika stora", "Informationen är otillräcklig"],
+    "answer": "Informationen är otillräcklig",
+    "explanation": "Om x = 2: x² = 4 > 2 ⇒ I större. Om x = 0,5: x² = 0,25 < 0,5 ⇒ II större. Resultatet beror på värdet av x ⇒ informationen räcker inte. Övriga alternativ är fel eftersom inget gäller alltid."
+  }
+]

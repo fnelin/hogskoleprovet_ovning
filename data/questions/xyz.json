@@ -1,0 +1,437 @@
+[
+  {
+    "id": "ari-001",
+    "subject": "Matematisk problemlösning",
+    "question": "Vad är 15% av 240?",
+    "options": [
+      "30",
+      "36",
+      "40",
+      "48"
+    ],
+    "answer": "36",
+    "explanation": "15% av 240 = 0,15 × 240 = 36.",
+    "slug": "xyz"
+  },
+  {
+    "id": "ari-002",
+    "subject": "Matematisk problemlösning",
+    "question": "Vilket tal är störst?",
+    "options": [
+      "3/4",
+      "0,7",
+      "72%",
+      "7/10"
+    ],
+    "answer": "3/4",
+    "explanation": "3/4 = 0,75 vilket är störst. Övriga är 0,70, 0,72 och 0,70.",
+    "slug": "xyz"
+  },
+  {
+    "id": "ari-003",
+    "subject": "Matematisk problemlösning",
+    "question": "En vara kostar 320 kr efter 20% rabatt. Vad var ordinariepriset?",
+    "options": [
+      "384 kr",
+      "400 kr",
+      "420 kr",
+      "256 kr"
+    ],
+    "answer": "400 kr",
+    "explanation": "320 = 0,8 × p → p = 320 / 0,8 = 400 kr.",
+    "slug": "xyz"
+  },
+  {
+    "id": "ari-004",
+    "subject": "Matematisk problemlösning",
+    "question": "Hur många minuter är 2,5 timmar?",
+    "options": [
+      "120",
+      "135",
+      "150",
+      "160"
+    ],
+    "answer": "150",
+    "explanation": "2,5 × 60 = 150 minuter.",
+    "slug": "xyz"
+  },
+  {
+    "id": "ari-005",
+    "subject": "Matematisk problemlösning",
+    "question": "Vad är 2/3 + 3/4?",
+    "options": [
+      "5/7",
+      "17/12",
+      "1/2",
+      "11/12"
+    ],
+    "answer": "17/12",
+    "explanation": "2/3 = 8/12 och 3/4 = 9/12. Summan är 17/12.",
+    "slug": "xyz"
+  },
+  {
+    "id": "ari-006",
+    "subject": "Matematisk problemlösning",
+    "question": "Ett tåg färdas 450 km på 3 timmar. Vad är medelhastigheten i km/h?",
+    "options": [
+      "135",
+      "150",
+      "160",
+      "175"
+    ],
+    "answer": "150",
+    "explanation": "450 / 3 = 150 km/h.",
+    "slug": "xyz"
+  },
+  {
+    "id": "ari-007",
+    "subject": "Matematisk problemlösning",
+    "question": "Vilket av följande är ett primtal?",
+    "options": [
+      "51",
+      "57",
+      "59",
+      "63"
+    ],
+    "answer": "59",
+    "explanation": "59 är delbart enbart med 1 och sig självt. Övriga är delbara: 51 = 3×17, 57 = 3×19, 63 = 9×7.",
+    "slug": "xyz"
+  },
+  {
+    "id": "alg-001",
+    "subject": "Matematisk problemlösning",
+    "question": "Lös ekvationen: 3x + 7 = 22",
+    "options": [
+      "x = 3",
+      "x = 4",
+      "x = 5",
+      "x = 6"
+    ],
+    "answer": "x = 5",
+    "explanation": "3x = 22 − 7 = 15 → x = 5.",
+    "slug": "xyz"
+  },
+  {
+    "id": "alg-002",
+    "subject": "Matematisk problemlösning",
+    "question": "Förenkla: 4a + 3b − 2a + b",
+    "options": [
+      "6a + 4b",
+      "2a + 4b",
+      "2a − 4b",
+      "6a − 4b"
+    ],
+    "answer": "2a + 4b",
+    "explanation": "4a − 2a = 2a och 3b + b = 4b, alltså 2a + 4b.",
+    "slug": "xyz"
+  },
+  {
+    "id": "alg-003",
+    "subject": "Matematisk problemlösning",
+    "question": "Vilket värde har x om 2(x − 3) = 10?",
+    "options": [
+      "x = 5",
+      "x = 7",
+      "x = 8",
+      "x = 11"
+    ],
+    "answer": "x = 8",
+    "explanation": "2x − 6 = 10 → 2x = 16 → x = 8.",
+    "slug": "xyz"
+  },
+  {
+    "id": "alg-004",
+    "subject": "Matematisk problemlösning",
+    "question": "Vad är värdet av uttrycket 3x² när x = 4?",
+    "options": [
+      "24",
+      "36",
+      "48",
+      "144"
+    ],
+    "answer": "48",
+    "explanation": "3 × 4² = 3 × 16 = 48.",
+    "slug": "xyz"
+  },
+  {
+    "id": "alg-005",
+    "subject": "Matematisk problemlösning",
+    "question": "Lös olikheten: 5x − 3 > 12",
+    "options": [
+      "x > 1",
+      "x > 2",
+      "x > 3",
+      "x > 4"
+    ],
+    "answer": "x > 3",
+    "explanation": "5x > 15 → x > 3.",
+    "slug": "xyz"
+  },
+  {
+    "id": "alg-006",
+    "subject": "Matematisk problemlösning",
+    "question": "Faktorisera: x² − 9",
+    "options": [
+      "(x−3)(x+3)",
+      "(x−9)(x+1)",
+      "(x+3)²",
+      "(x−3)²"
+    ],
+    "answer": "(x−3)(x+3)",
+    "explanation": "x² − 9 är en differens av kvadrater: (x−3)(x+3).",
+    "slug": "xyz"
+  },
+  {
+    "id": "alg-007",
+    "subject": "Matematisk problemlösning",
+    "question": "Om f(x) = 2x + 5, vad är f(−3)?",
+    "options": [
+      "−11",
+      "−1",
+      "1",
+      "11"
+    ],
+    "answer": "−1",
+    "explanation": "f(−3) = 2×(−3) + 5 = −6 + 5 = −1.",
+    "slug": "xyz"
+  },
+  {
+    "id": "alg-008",
+    "subject": "Matematisk problemlösning",
+    "question": "Lös ekvationssystemet: x + y = 10 och x − y = 4",
+    "options": [
+      "x=6, y=4",
+      "x=7, y=3",
+      "x=8, y=2",
+      "x=5, y=5"
+    ],
+    "answer": "x=7, y=3",
+    "explanation": "Addera ekvationerna: 2x = 14 → x = 7, sedan y = 10 − 7 = 3.",
+    "slug": "xyz"
+  },
+  {
+    "id": "ari-009",
+    "slug": "xyz",
+    "subject": "Matematisk problemlösning",
+    "question": "Vad är 25% av 360?",
+    "options": ["80", "85", "90", "95"],
+    "answer": "90",
+    "explanation": "25% = 0,25. 0,25 × 360 = 90."
+  },
+  {
+    "id": "ari-010",
+    "slug": "xyz",
+    "subject": "Matematisk problemlösning",
+    "question": "Lös ekvationen: 3x + 9 = 24",
+    "options": ["3", "4", "5", "6"],
+    "answer": "5",
+    "explanation": "3x + 9 = 24 ⇒ 3x = 15 ⇒ x = 15 / 3 = 5."
+  },
+  {
+    "id": "ari-011",
+    "slug": "xyz",
+    "subject": "Matematisk problemlösning",
+    "question": "Vad är medelvärdet av talen 4, 6, 10 och 12?",
+    "options": ["7", "8", "9", "10"],
+    "answer": "8",
+    "explanation": "(4 + 6 + 10 + 12) / 4 = 32 / 4 = 8."
+  },
+  {
+    "id": "ari-012",
+    "slug": "xyz",
+    "subject": "Matematisk problemlösning",
+    "question": "Vad är arean av en rektangel med längd 8 cm och bredd 5 cm?",
+    "options": ["30", "35", "40", "45"],
+    "answer": "40",
+    "explanation": "Area = längd × bredd = 8 × 5 = 40 cm²."
+  },
+  {
+    "id": "ari-013",
+    "slug": "xyz",
+    "subject": "Matematisk problemlösning",
+    "question": "Vad är 2^5?",
+    "options": ["16", "24", "32", "64"],
+    "answer": "32",
+    "explanation": "2^5 = 2 × 2 × 2 × 2 × 2 = 32."
+  },
+  {
+    "id": "ari-014",
+    "slug": "xyz",
+    "subject": "Matematisk problemlösning",
+    "question": "Hur mycket är 3/5 av 50?",
+    "options": ["20", "25", "30", "35"],
+    "answer": "30",
+    "explanation": "3/5 × 50 = (3 × 50) / 5 = 150 / 5 = 30."
+  },
+  {
+    "id": "ari-015",
+    "slug": "xyz",
+    "subject": "Matematisk problemlösning",
+    "question": "Vad är omkretsen av en cirkel med radien 7 cm? (π ≈ 3,14)",
+    "options": ["43,96", "44,00", "45,12", "46,20"],
+    "answer": "43,96",
+    "explanation": "Omkrets = 2πr = 2 × 3,14 × 7 = 43,96 cm."
+  },
+  {
+    "id": "ari-016",
+    "slug": "xyz",
+    "subject": "Matematisk problemlösning",
+    "question": "Vad är lösningen till x/4 = 6?",
+    "options": ["18", "20", "22", "24"],
+    "answer": "24",
+    "explanation": "x/4 = 6 ⇒ x = 6 × 4 = 24."
+  },
+  {
+    "id": "ari-017",
+    "slug": "xyz",
+    "subject": "Matematisk problemlösning",
+    "question": "Vad är sannolikheten att få en sexa när man kastar en vanlig tärning?",
+    "options": ["1/2", "1/3", "1/6", "1/8"],
+    "answer": "1/6",
+    "explanation": "En tärning har 6 sidor och endast en ger sexa ⇒ sannolikhet = 1/6."
+  },
+  {
+    "id": "ari-018",
+    "slug": "xyz",
+    "subject": "Matematisk problemlösning",
+    "question": "Vad är 0,4 × 0,5?",
+    "options": ["0,1", "0,2", "0,25", "0,3"],
+    "answer": "0,2",
+    "explanation": "0,4 × 0,5 = 0,20 = 0,2."
+  },
+  {
+    "id": "ari-019",
+    "slug": "xyz",
+    "subject": "Matematisk problemlösning",
+    "question": "Vad är volymen av en kub med sidan 3 cm?",
+    "options": ["9", "18", "27", "36"],
+    "answer": "27",
+    "explanation": "Volym = sida³ = 3³ = 27 cm³."
+  },
+  {
+    "id": "ari-020",
+    "slug": "xyz",
+    "subject": "Matematisk problemlösning",
+    "question": "Vad är 75% i decimalform?",
+    "options": ["0,25", "0,5", "0,75", "0,8"],
+    "answer": "0,75",
+    "explanation": "75% = 75/100 = 0,75."
+  },
+  {
+    "id": "ari-021",
+    "slug": "xyz",
+    "subject": "Matematisk problemlösning",
+    "question": "Lös: 2x - 4 = 10",
+    "options": ["5", "6", "7", "8"],
+    "answer": "7",
+    "explanation": "2x - 4 = 10 ⇒ 2x = 14 ⇒ x = 7."
+  },
+  {
+    "id": "ari-022",
+    "slug": "xyz",
+    "subject": "Matematisk problemlösning",
+    "question": "Vad är summan av vinklarna i en triangel?",
+    "options": ["90°", "180°", "270°", "360°"],
+    "answer": "180°",
+    "explanation": "Summan av vinklarna i en triangel är alltid 180°."
+  },
+  {
+    "id": "ari-023",
+    "slug": "xyz",
+    "subject": "Matematisk problemlösning",
+    "question": "Vad är medianen i talen 2, 5, 7, 9, 11?",
+    "options": ["5", "7", "8", "9"],
+    "answer": "7",
+    "explanation": "Mittenvärdet i den sorterade listan är 7."
+  },
+  {
+    "id": "ari-024",
+    "slug": "xyz",
+    "subject": "Matematisk problemlösning",
+    "question": "Vad är 12 × 15?",
+    "options": ["150", "160", "170", "180"],
+    "answer": "180",
+    "explanation": "12 × 15 = 180."
+  },
+  {
+    "id": "ari-025",
+    "slug": "xyz",
+    "subject": "Matematisk problemlösning",
+    "question": "Vad är kvadratroten ur 81?",
+    "options": ["7", "8", "9", "10"],
+    "answer": "9",
+    "explanation": "√81 = 9 eftersom 9 × 9 = 81."
+  },
+  {
+    "id": "ari-026",
+    "slug": "xyz",
+    "subject": "Matematisk problemlösning",
+    "question": "Hur många procent är 20 av 80?",
+    "options": ["20%", "25%", "30%", "40%"],
+    "answer": "25%",
+    "explanation": "20 / 80 = 0,25 = 25%."
+  },
+  {
+    "id": "ari-027",
+    "slug": "xyz",
+    "subject": "Matematisk problemlösning",
+    "question": "Vad är arean av en triangel med bas 10 cm och höjd 4 cm?",
+    "options": ["20", "30", "40", "50"],
+    "answer": "20",
+    "explanation": "Area = (bas × höjd) / 2 = (10 × 4) / 2 = 20 cm²."
+  },
+  {
+    "id": "ari-028",
+    "slug": "xyz",
+    "subject": "Matematisk problemlösning",
+    "question": "Vad är 5! (5 fakultet)?",
+    "options": ["60", "100", "120", "150"],
+    "answer": "120",
+    "explanation": "5! = 5 × 4 × 3 × 2 × 1 = 120."
+  },
+  {
+    "id": "ari-029",
+    "slug": "xyz",
+    "subject": "Matematisk problemlösning",
+    "question": "Vad är lutningen (k) i linjen y = 3x + 2?",
+    "options": ["2", "3", "5", "6"],
+    "answer": "3",
+    "explanation": "I formen y = kx + m är k = 3."
+  },
+  {
+    "id": "ari-030",
+    "slug": "xyz",
+    "subject": "Matematisk problemlösning",
+    "question": "Vad är sannolikheten att dra ett rött kort från en vanlig kortlek (52 kort)?",
+    "options": ["1/4", "1/2", "1/13", "1/52"],
+    "answer": "1/2",
+    "explanation": "Det finns 26 röda kort av 52 ⇒ 26/52 = 1/2."
+  },
+  {
+    "id": "ari-031",
+    "slug": "xyz",
+    "subject": "Matematisk problemlösning",
+    "question": "Vad är 7² + 3²?",
+    "options": ["49", "52", "58", "60"],
+    "answer": "58",
+    "explanation": "7² = 49 och 3² = 9 ⇒ 49 + 9 = 58."
+  },
+  {
+    "id": "ari-032",
+    "slug": "xyz",
+    "subject": "Matematisk problemlösning",
+    "question": "Vad är 1,5 × 8?",
+    "options": ["10", "11", "12", "13"],
+    "answer": "12",
+    "explanation": "1,5 × 8 = 12."
+  },
+  {
+    "id": "ari-033",
+    "slug": "xyz",
+    "subject": "Matematisk problemlösning",
+    "question": "Vad är differensen mellan 100 och 37?",
+    "options": ["53", "63", "67", "73"],
+    "answer": "63",
+    "explanation": "100 − 37 = 63."
+  }
+]

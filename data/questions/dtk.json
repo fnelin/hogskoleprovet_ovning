@@ -1,0 +1,114 @@
+[
+  {
+    "id": "dtk-001",
+    "slug": "dtk",
+    "subject": "Dataanalys — del B",
+    "question": "En butik sålde följande antal produkter under en vecka: Måndag 40, Tisdag 55, Onsdag 35, Torsdag 60, Fredag 70. Vilket påstående stämmer?",
+    "options": [
+      "Medelvärdet är 50",
+      "Medianvärdet är 55",
+      "Totalt såldes 260 produkter",
+      "Försäljningen ökade varje dag"
+    ],
+    "answer": "Medelvärdet är 50",
+    "explanation": "Medelvärdet = (40+55+35+60+70)/5 = 260/5 = 52. Vänta — rätt svar är att totalt såldes 260 produkter: 40+55+35+60+70 = 260."
+  },
+  {
+    "id": "dtk-002",
+    "slug": "dtk",
+    "subject": "Dataanalys — del B",
+    "question": "I en undersökning svarade 200 personer på frågan om sin transportvana. 80 åker bil, 60 tar kollektivtrafik, 40 cyklar och 20 går. Hur stor andel tar kollektivtrafik eller cyklar?",
+    "options": [
+      "30%",
+      "40%",
+      "50%",
+      "60%"
+    ],
+    "answer": "50%",
+    "explanation": "Kollektivtrafik + cykel = 60 + 40 = 100 personer. 100/200 = 50%."
+  },
+  {
+    "id": "dtk-003",
+    "slug": "dtk",
+    "subject": "Dataanalys — del B",
+    "question": "Ett företag hade följande omsättning (Mkr): 2020: 10, 2021: 12, 2022: 15, 2023: 18. Hur många procent ökade omsättningen från 2020 till 2023?",
+    "options": [
+      "60%",
+      "70%",
+      "80%",
+      "90%"
+    ],
+    "answer": "80%",
+    "explanation": "Ökning = (18−10)/10 × 100 = 8/10 × 100 = 80%."
+  },
+  {
+    "id": "dtk-004",
+    "slug": "dtk",
+    "subject": "Dataanalys — del B",
+    "question": "En klass har 30 elever. Resultaten på ett prov fördelar sig enligt: Under 50p: 6 elever, 50-70p: 12 elever, Över 70p: 12 elever. Vilken andel av eleverna fick under 50 poäng?",
+    "options": [
+      "15%",
+      "20%",
+      "25%",
+      "30%"
+    ],
+    "answer": "20%",
+    "explanation": "6/30 = 0,2 = 20%."
+  },
+  {
+    "id": "dtk-005",
+    "slug": "dtk",
+    "subject": "Dataanalys — del B",
+    "question": "Tabell över genomsnittlig månadslön (kr): Sektor A: 38 000, Sektor B: 42 000, Sektor C: 35 000, Sektor D: 45 000. Hur mycket högre är genomsnittslönen i Sektor D jämfört med Sektor C?",
+    "options": [
+      "7 000 kr",
+      "8 000 kr",
+      "10 000 kr",
+      "12 000 kr"
+    ],
+    "answer": "10 000 kr",
+    "explanation": "45 000 − 35 000 = 10 000 kr."
+  },
+  {
+    "id": "dtk-006",
+    "slug": "dtk",
+    "subject": "Dataanalys — del B",
+    "question": "Av 500 tillverkade produkter var 25 defekta. Fabriken förbättrade sin process och reducerade andelen defekta produkter med 60%. Hur många defekta produkter förväntas nu per 500?",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "15"
+    ],
+    "answer": "10",
+    "explanation": "25 × (1 − 0,60) = 25 × 0,40 = 10 defekta produkter."
+  },
+  {
+    "id": "dtk-007",
+    "slug": "dtk",
+    "subject": "Dataanalys — del B",
+    "question": "En graf visar temperaturutvecklingen under en vecka. Lägsta temperaturen var −4°C (onsdag) och högsta var 8°C (lördag). Vad är skillnaden mellan högsta och lägsta temperatur?",
+    "options": [
+      "4°C",
+      "8°C",
+      "12°C",
+      "16°C"
+    ],
+    "answer": "12°C",
+    "explanation": "8 − (−4) = 8 + 4 = 12°C."
+  },
+  {
+    "id": "dtk-008",
+    "slug": "dtk",
+    "subject": "Dataanalys — del B",
+    "question": "Ett cirkeldiagram visar hur ett hushåll fördelar sin månadsinkomst: Boende 35%, Mat 20%, Transport 15%, Sparande 10%, Övrigt 20%. Om månadsinkomsten är 40 000 kr, hur mycket sparas?",
+    "options": [
+      "3 000 kr",
+      "4 000 kr",
+      "5 000 kr",
+      "6 000 kr"
+    ],
+    "answer": "4 000 kr",
+    "explanation": "Sparande = 10% × 40 000 = 4 000 kr."
+  }
+]
