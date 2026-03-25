@@ -1,100 +1,227 @@
 [
   {
     "id": "ord-001",
+    "slug": "ord",
     "subject": "Ordförståelse",
-    "question": "Vilket ord är en synonym till 'kolossal'?",
-    "options": [
-      "Minimal",
-      "Genomsnittlig",
-      "Gigantisk",
-      "Rimlig"
-    ],
-    "answer": "Gigantisk",
-    "explanation": "Kolossal och gigantisk betyder båda något som är enormt stort.",
-    "slug": "ord"
+    "question": "Det var ett *eklektiskt* urval av musik på festivalen — allt från jazz till heavy metal.",
+    "options": ["enhetligt", "blandat", "exklusivt", "traditionellt", "modernt"],
+    "answer": "blandat",
+    "explanation": "Eklektiskt betyder sammansatt av element från olika håll eller stilar. 'Blandat' fångar denna betydelse bäst. 'Enhetligt' är motsatsen, 'exklusivt' handlar om tillgänglighet, 'traditionellt' och 'modernt' beskriver stil snarare än sammansättning."
   },
   {
     "id": "ord-002",
+    "slug": "ord",
     "subject": "Ordförståelse",
-    "question": "Vad betyder ordet 'flegmatisk'?",
-    "options": [
-      "Lättretad och impulsiv",
-      "Lugn och svårrubbad",
-      "Ivrig och entusiastisk",
-      "Oärlig och beräknande"
-    ],
-    "answer": "Lugn och svårrubbad",
-    "explanation": "En flegmatisk person är kallblodig, lugn och låter sig inte lätt uppröras.",
-    "slug": "ord"
+    "question": "Hennes *lakoniska* svar lämnade åhörarna med fler frågor än svar.",
+    "options": ["utförliga", "kortfattade", "tvetydiga", "arroganta", "välformulerade"],
+    "answer": "kortfattade",
+    "explanation": "Lakonisk betyder mycket kortfattad, ofta till den grad att det upplevs som knapphändigt. 'Kortfattade' är den närmaste synonymen. 'Utförliga' är motsatsen, 'tvetydiga' handlar om otydlighet, 'arroganta' om attityd och 'välformulerade' om kvalitet."
   },
   {
     "id": "ord-003",
+    "slug": "ord",
     "subject": "Ordförståelse",
-    "question": "Vilket ord är ett antonym till 'frikostig'?",
-    "options": [
-      "Generös",
-      "Givmild",
-      "Snål",
-      "Öppen"
-    ],
-    "answer": "Snål",
-    "explanation": "Frikostig betyder generös/givmild, vars motsats är snål.",
-    "slug": "ord"
+    "question": "Kritikern beskrev romanen som *redundant* och ansåg att författaren upprepade sig i onödan.",
+    "options": ["originell", "överflödig", "komplex", "lättillgänglig", "fragmentarisk"],
+    "answer": "överflödig",
+    "explanation": "Redundant betyder överflödig eller onödigt upprepande. 'Överflödig' är den direkta synonymen. 'Originell' är en positiv motsats, 'komplex' handlar om svårighetsgrad, 'lättillgänglig' om begriplighet och 'fragmentarisk' om struktur."
   },
   {
     "id": "ord-004",
+    "slug": "ord",
     "subject": "Ordförståelse",
-    "question": "Vad betyder 'ambivalent'?",
-    "options": [
-      "Helt övertygad om något",
-      "Likgiltig inför allt",
-      "Ha motstridiga känslor inför något",
-      "Extremt engagerad"
-    ],
-    "answer": "Ha motstridiga känslor inför något",
-    "explanation": "Ambivalens innebär att man hyser mottsatta känslor eller åsikter om något samtidigt.",
-    "slug": "ord"
+    "question": "Hans *pedantiska* inställning till regler irriterade kollegorna.",
+    "options": ["likgiltig", "noggrann till överdrift", "kreativ", "auktoritär", "sporadisk"],
+    "answer": "noggrann till överdrift",
+    "explanation": "Pedantisk beskriver en person som är överdrivet noga med regler och detaljer på ett irriterande sätt. 'Noggrann till överdrift' fångar denna nyans bäst. 'Likgiltig' är motsatsen, 'auktoritär' handlar om maktutövning, 'kreativ' och 'sporadisk' är helt irrelevanta."
   },
   {
     "id": "ord-005",
+    "slug": "ord",
     "subject": "Ordförståelse",
-    "question": "Vilket ord passar bäst i meningen: 'Hans tal var _____, fyllt av onödiga detaljer och upprepningar.'",
-    "options": [
-      "Koncist",
-      "Mångordig",
-      "Pregnant",
-      "Kortfattat"
-    ],
-    "answer": "Mångordig",
-    "explanation": "Mångordig betyder att man använder fler ord än nödvändigt, vilket stämmer med beskrivningen.",
-    "slug": "ord"
+    "question": "Projektet finansierades av en *anonym* välgörare som inte ville avslöja sin identitet.",
+    "options": ["känd", "namnlös", "generös", "extern", "statlig"],
+    "answer": "namnlös",
+    "explanation": "Anonym betyder okänd till namnet eller utan angiven identitet. 'Namnlös' är den närmaste synonymen. 'Känd' är motsatsen, 'generös' beskriver egenskapen att ge, 'extern' handlar om tillhörighet och 'statlig' om ursprung."
   },
   {
     "id": "ord-006",
+    "slug": "ord",
     "subject": "Ordförståelse",
-    "question": "Vad betyder 'konsensus'?",
-    "options": [
-      "Stark oenighet",
-      "Allmän enighet",
-      "Personlig åsikt",
-      "Formellt beslut"
-    ],
-    "answer": "Allmän enighet",
-    "explanation": "Konsensus syftar på en uppfattning som delas av alla eller en majoritet i en grupp.",
-    "slug": "ord"
+    "question": "Hennes *empatiska* förhållningssätt gjorde henne till en uppskattad terapeut.",
+    "options": ["känslokall", "inkännande", "analytisk", "distanserad", "metodisk"],
+    "answer": "inkännande",
+    "explanation": "Empatisk betyder förmågan att förstå och dela andras känslor. 'Inkännande' är den närmaste synonymen. 'Känslokall' och 'distanserad' är motsatser, 'analytisk' och 'metodisk' beskriver tankesätt snarare än inlevelse."
   },
   {
     "id": "ord-007",
+    "slug": "ord",
     "subject": "Ordförståelse",
-    "question": "Vilket ord är en synonym till 'eufori'?",
-    "options": [
-      "Vemod",
-      "Likgiltighet",
-      "Lycksalighet",
-      "Förvirring"
-    ],
-    "answer": "Lycksalighet",
-    "explanation": "Eufori och lycksalighet beskriver båda ett tillstånd av intensiv glädje och välbefinnande.",
-    "slug": "ord"
+    "question": "Den *flyktiga* doften av blommor försvann snabbt i den kalla luften.",
+    "options": ["intensiva", "svaga", "kortlivade", "exotiska", "friska"],
+    "answer": "kortlivade",
+    "explanation": "Flyktig betyder övergående eller kortvarig. I doftens sammanhang avses att den snabbt försvinner. 'Kortlivade' fångar denna betydelse. 'Intensiva' och 'starka' är inte synonymer, 'exotiska' handlar om ursprung och 'friska' om karaktär."
+  },
+  {
+    "id": "ord-008",
+    "slug": "ord",
+    "subject": "Ordförståelse",
+    "question": "Förhandlingarna befann sig i ett *impasse* och ingen sida ville ge vika.",
+    "options": ["dödläge", "slutskede", "genombrott", "villkorslöst läge", "uppehåll"],
+    "answer": "dödläge",
+    "explanation": "Impasse betyder ett dödläge eller en låst situation där ingen progress är möjlig. 'Dödläge' är den direkta synonymen. 'Slutskede' antyder ett avslut, 'genombrott' är motsatsen, 'villkorslöst läge' är inte ett etablerat begrepp och 'uppehåll' antyder en paus snarare än ett låst läge."
+  },
+  {
+    "id": "ord-009",
+    "slug": "ord",
+    "subject": "Ordförståelse",
+    "question": "Hans *arroganta* uppträdande alienerade många av hans kollegor.",
+    "options": ["ödmjuka", "högmodiga", "reserverade", "excentriska", "engagerade"],
+    "answer": "högmodiga",
+    "explanation": "Arrogant betyder överlägsen och nedlåtande mot andra. 'Högmodig' är den närmaste synonymen. 'Ödmjuk' är motsatsen, 'reserverad' handlar om tillbakadragenhet, 'excentrisk' om avvikande beteende och 'engagerad' om delaktighet."
+  },
+  {
+    "id": "ord-010",
+    "slug": "ord",
+    "subject": "Ordförståelse",
+    "question": "Rapporten innehöll en *koncis* sammanfattning av de viktigaste resultaten.",
+    "options": ["detaljerad", "kortfattad och klar", "missvisande", "teknisk", "tillgänglig"],
+    "answer": "kortfattad och klar",
+    "explanation": "Koncis betyder kortfattad men innehållsrik och tydlig. 'Kortfattad och klar' fångar båda aspekterna. 'Detaljerad' är motsatsen till kortfattad, 'missvisande' handlar om korrekthet, 'teknisk' om svårighetsgrad och 'tillgänglig' om begriplighet."
+  },
+  {
+    "id": "ord-011",
+    "slug": "ord",
+    "subject": "Ordförståelse",
+    "question": "Den *nostalgiska* filmen väckte minnen från barndomen hos publiken.",
+    "options": ["futuristiska", "vemodigt tillbakablickande", "sentimentalt överdrivna", "dokumentära", "satiriska"],
+    "answer": "vemodigt tillbakablickande",
+    "explanation": "Nostalgisk beskriver en vemodig längtan efter det förflutna. 'Vemodigt tillbakablickande' fångar denna stämning bäst. 'Futuristisk' är framåtblickande och därmed motsatsen, 'sentimentalt överdriven' har en mer negativ klang, 'dokumentär' handlar om genre och 'satirisk' om syfte."
+  },
+  {
+    "id": "ord-012",
+    "slug": "ord",
+    "subject": "Ordförståelse",
+    "question": "Hennes *pragmatiska* syn på problemet ledde till en snabb och praktisk lösning.",
+    "options": ["idealistiska", "verklighetsbaserade", "teoretiska", "pessimistiska", "intuitiva"],
+    "answer": "verklighetsbaserade",
+    "explanation": "Pragmatisk betyder praktiskt inriktad, fokuserad på vad som fungerar i verkligheten snarare än teorier eller ideal. 'Verklighetsbaserad' är den närmaste synonymen. 'Idealistisk' och 'teoretisk' är motsatser, 'pessimistisk' handlar om attityd och 'intuitiv' om beslutsprocess."
+  },
+  {
+    "id": "ord-013",
+    "slug": "ord",
+    "subject": "Ordförståelse",
+    "question": "Det *enigmatiska* leendet på porträttet har fascinerats betraktare i århundraden.",
+    "options": ["vackra", "gåtfulla", "melankoliska", "naturliga", "formella"],
+    "answer": "gåtfulla",
+    "explanation": "Enigmatisk betyder mystisk och svår att tolka eller förstå. 'Gåtfull' är den direkta synonymen. 'Vacker' handlar om estetik, 'melankolisk' om känslouttryck, 'naturlig' om autenticitet och 'formell' om stil."
+  },
+  {
+    "id": "ord-014",
+    "slug": "ord",
+    "subject": "Ordförståelse",
+    "question": "Forskaren var känd för sin *metodiska* genomgång av varje detalj i experimentet.",
+    "options": ["slumpmässiga", "systematiska", "intuitiva", "hastiga", "övergripande"],
+    "answer": "systematiska",
+    "explanation": "Metodisk betyder planmässig och systematisk, att arbeta enligt en tydlig metod. 'Systematisk' är den närmaste synonymen. 'Slumpmässig' och 'intuitiv' är motsatser, 'hastig' antyder brist på noggrannhet och 'övergripande' handlar om omfattning."
+  },
+  {
+    "id": "ord-015",
+    "slug": "ord",
+    "subject": "Ordförståelse",
+    "question": "Den *subtila* skillnaden mellan de två begreppen är svår att uppfatta för nybörjare.",
+    "options": ["uppenbara", "svårfångade", "tekniska", "fundamentala", "historiska"],
+    "answer": "svårfångade",
+    "explanation": "Subtil betyder fin, knappt märkbar eller svår att uppfatta. 'Svårfångad' är den närmaste synonymen i sammanhanget. 'Uppenbar' är motsatsen, 'teknisk' handlar om ämnets natur, 'fundamental' om vikt och 'historisk' om ursprung."
+  },
+  {
+    "id": "ord-016",
+    "slug": "ord",
+    "subject": "Ordförståelse",
+    "question": "Hans *karismatiska* ledarskap inspirerade hela organisationen.",
+    "options": ["auktoritära", "hänförande", "kompetenta", "demokratiska", "erfarna"],
+    "answer": "hänförande",
+    "explanation": "Karismatisk beskriver en person med en naturlig förmåga att attrahera och inspirera andra. 'Hänförande' fångar denna dragningskraft. 'Auktoritär' handlar om maktutövning, 'kompetent' om skicklighet, 'demokratisk' om beslutsprocess och 'erfaren' om livserfarenhet."
+  },
+  {
+    "id": "ord-017",
+    "slug": "ord",
+    "subject": "Ordförståelse",
+    "question": "Debattören använde sig av *retorik* för att övertala publiken snarare än faktaargument.",
+    "options": ["statistik", "vältalighet", "humor", "provokation", "vetenskap"],
+    "answer": "vältalighet",
+    "explanation": "Retorik är konsten att tala övertygande och vältaligt. 'Vältalighet' är den närmaste synonymen. 'Statistik' och 'vetenskap' handlar om faktabaserade argument, 'humor' om underhållning och 'provokation' om att reta upp."
+  },
+  {
+    "id": "ord-018",
+    "slug": "ord",
+    "subject": "Ordförståelse",
+    "question": "Hennes *altruistiska* handlingar gagnade alltid andra på bekostnad av hennes eget välmående.",
+    "options": ["själviska", "osjälviska", "impulsiva", "beräknande", "välmenande"],
+    "answer": "osjälviska",
+    "explanation": "Altruistisk betyder att handla för andras bästa utan att tänka på sin egen vinning. 'Osjälvisk' är den direkta synonymen. 'Självisk' är motsatsen, 'impulsiv' handlar om beslutsprocess, 'beräknande' om motiv och 'välmenande' är för svagt — det kräver inte uppoffring."
+  },
+  {
+    "id": "ord-019",
+    "slug": "ord",
+    "subject": "Ordförståelse",
+    "question": "Den *autonoma* regionen styrde sig själv utan inblandning från centralregeringen.",
+    "options": ["ockuperade", "självstyrande", "isolerade", "demokratiska", "ekonomiskt starka"],
+    "answer": "självstyrande",
+    "explanation": "Autonom betyder självstyrande eller oberoende. 'Självstyrande' är den direkta synonymen. 'Ockuperad' är en motsats, 'isolerad' handlar om avskildhet, 'demokratisk' om styrelseskick och 'ekonomiskt stark' om välstånd."
+  },
+  {
+    "id": "ord-020",
+    "slug": "ord",
+    "subject": "Ordförståelse",
+    "question": "Atmosfären på mötet var *spänd* och ingen vågade säga vad de egentligen tänkte.",
+    "options": ["avslappnad", "laddad", "formell", "kaotisk", "produktiv"],
+    "answer": "laddad",
+    "explanation": "Spänd i denna kontext beskriver en atmosfär fylld av undertryckt spänning eller konflikt. 'Laddad' fångar denna emotionella intensitet bäst. 'Avslappnad' är motsatsen, 'formell' handlar om ton, 'kaotisk' om ordning och 'produktiv' om resultat."
+  },
+  {
+    "id": "ord-021",
+    "slug": "ord",
+    "subject": "Ordförståelse",
+    "question": "Hans *cyniska* världsbild gjorde det svårt för honom att lita på andra människors goda avsikter.",
+    "options": ["optimistiska", "misstrogna", "filosofiska", "realistiska", "depressiva"],
+    "answer": "misstrogna",
+    "explanation": "Cynisk beskriver en inställning av misstro mot andras motiv och goda avsikter. 'Mistrogen' är den närmaste synonymen. 'Optimistisk' är motsatsen, 'filosofisk' handlar om tankesätt, 'realistisk' saknar den negativa klangen och 'depressiv' handlar om sinnesstämning."
+  },
+  {
+    "id": "ord-022",
+    "slug": "ord",
+    "subject": "Ordförståelse",
+    "question": "Företaget befann sig i en *prekär* ekonomisk situation efter förlusten av sin största kund.",
+    "options": ["stabil", "osäker", "tillfällig", "katastrofal", "komplex"],
+    "answer": "osäker",
+    "explanation": "Prekär betyder instabil och osäker, med risk för att situationen kan försämras. 'Osäker' är den närmaste synonymen. 'Stabil' är motsatsen, 'tillfällig' handlar om varaktighet, 'katastrofal' är för extremt och 'komplex' handlar om komplexitet snarare än risk."
+  },
+  {
+    "id": "ord-023",
+    "slug": "ord",
+    "subject": "Ordförståelse",
+    "question": "Hans *verbala* skicklighet imponerade på alla som lyssnade på hans föreläsningar.",
+    "options": ["intellektuella", "språkliga", "retoriska", "pedagogiska", "akademiska"],
+    "answer": "språkliga",
+    "explanation": "Verbal betyder relaterad till ord och språk. 'Språklig' är den närmaste synonymen. 'Intellektuell' är bredare och handlar om tankeförmåga, 'retorisk' är mer specifikt kopplat till övertalning, 'pedagogisk' till undervisning och 'akademisk' till lärdomsmiljö."
+  },
+  {
+    "id": "ord-024",
+    "slug": "ord",
+    "subject": "Ordförståelse",
+    "question": "Den *monumentala* skulpturen dominerade torget och syntes från hela staden.",
+    "options": ["historiska", "välkända", "imposanta", "omtvistade", "moderna"],
+    "answer": "imposanta",
+    "explanation": "Monumental betyder av imponerande storlek eller betydelse, som väcker vördnad. 'Imposant' är den närmaste synonymen. 'Historisk' handlar om ålder, 'välkänd' om kännedom, 'omtvistad' om kontroverser och 'modern' om stil."
+  },
+  {
+    "id": "ord-025",
+    "slug": "ord",
+    "subject": "Ordförståelse",
+    "question": "Hennes *intuitiva* förståelse för situationen förvånade de mer erfarna kollegorna.",
+    "options": ["analytiska", "instinktiva", "förvärvade", "teoretiska", "ytliga"],
+    "answer": "instinktiva",
+    "explanation": "Intuitiv betyder baserad på känsla och omedelbar förståelse snarare än logisk analys. 'Instinktiv' är den närmaste synonymen. 'Analytisk' och 'teoretisk' är motsatser som betonar rationellt tänkande, 'förvärvad' handlar om inlärning och 'ytlig' om djup."
   }
 ]
