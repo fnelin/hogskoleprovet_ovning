@@ -10,7 +10,7 @@
       "48"
     ],
     "answer": "36",
-    "explanation": "15% av 240 = 0,15 × 240 = 36.",
+    "explanation": "15% av 240 = 0,15 * 240 = 36.",
     "slug": "xyz"
   },
   {
@@ -38,7 +38,7 @@
       "256 kr"
     ],
     "answer": "400 kr",
-    "explanation": "320 = 0,8 × p → p = 320 / 0,8 = 400 kr.",
+    "explanation": "320 = 0,8 * p → p = 320 / 0,8 = 400 kr.",
     "slug": "xyz"
   },
   {
@@ -52,7 +52,7 @@
       "160"
     ],
     "answer": "150",
-    "explanation": "2,5 × 60 = 150 minuter.",
+    "explanation": "2,5 * 60 = 150 minuter.",
     "slug": "xyz"
   },
   {
@@ -94,7 +94,7 @@
       "63"
     ],
     "answer": "59",
-    "explanation": "59 är delbart enbart med 1 och sig självt. Övriga är delbara: 51 = 3×17, 57 = 3×19, 63 = 9×7.",
+    "explanation": "59 är delbart enbart med 1 och sig självt. Övriga är delbara: 51 = 3*17, 57 = 3*19, 63 = 9*7.",
     "slug": "xyz"
   },
   {
@@ -150,7 +150,7 @@
       "144"
     ],
     "answer": "48",
-    "explanation": "3 × 4² = 3 × 16 = 48.",
+    "explanation": "3 * 4² = 3 * 16 = 48.",
     "slug": "xyz"
   },
   {
@@ -192,7 +192,7 @@
       "11"
     ],
     "answer": "−1",
-    "explanation": "f(−3) = 2×(−3) + 5 = −6 + 5 = −1.",
+    "explanation": "f(−3) = 2*(−3) + 5 = −6 + 5 = −1.",
     "slug": "xyz"
   },
   {
@@ -216,7 +216,7 @@
     "question": "Vad är 25% av 360?",
     "options": ["80", "85", "90", "95"],
     "answer": "90",
-    "explanation": "25% = 0,25. 0,25 × 360 = 90."
+    "explanation": "25% = 0,25. 0,25 * 360 = 90."
   },
   {
     "id": "ari-010",
@@ -243,7 +243,7 @@
     "question": "Vad är arean av en rektangel med längd 8 cm och bredd 5 cm?",
     "options": ["30", "35", "40", "45"],
     "answer": "40",
-    "explanation": "Area = längd × bredd = 8 × 5 = 40 cm²."
+    "explanation": "Area = längd * bredd = 8 * 5 = 40 cm²."
   },
   {
     "id": "ari-013",
@@ -252,7 +252,7 @@
     "question": "Vad är 2^5?",
     "options": ["16", "24", "32", "64"],
     "answer": "32",
-    "explanation": "2^5 = 2 × 2 × 2 × 2 × 2 = 32."
+    "explanation": "2^5 = 2 * 2 * 2 * 2 * 2 = 32."
   },
   {
     "id": "ari-014",
@@ -261,7 +261,7 @@
     "question": "Hur mycket är 3/5 av 50?",
     "options": ["20", "25", "30", "35"],
     "answer": "30",
-    "explanation": "3/5 × 50 = (3 × 50) / 5 = 150 / 5 = 30."
+    "explanation": "3/5 * 50 = (3 * 50) / 5 = 150 / 5 = 30."
   },
   {
     "id": "ari-015",
@@ -270,7 +270,7 @@
     "question": "Vad är omkretsen av en cirkel med radien 7 cm? (π ≈ 3,14)",
     "options": ["43,96", "44,00", "45,12", "46,20"],
     "answer": "43,96",
-    "explanation": "Omkrets = 2πr = 2 × 3,14 × 7 = 43,96 cm."
+    "explanation": "Omkrets = 2πr = 2 * 3,14 * 7 = 43,96 cm."
   },
   {
     "id": "ari-016",
@@ -279,7 +279,7 @@
     "question": "Vad är lösningen till x/4 = 6?",
     "options": ["18", "20", "22", "24"],
     "answer": "24",
-    "explanation": "x/4 = 6 ⇒ x = 6 × 4 = 24."
+    "explanation": "x/4 = 6 ⇒ x = 6 * 4 = 24."
   },
   {
     "id": "ari-017",
@@ -294,10 +294,10 @@
     "id": "ari-018",
     "slug": "xyz",
     "subject": "Matematisk problemlösning",
-    "question": "Vad är 0,4 × 0,5?",
+    "question": "Vad är 0,4 * 0,5?",
     "options": ["0,1", "0,2", "0,25", "0,3"],
     "answer": "0,2",
-    "explanation": "0,4 × 0,5 = 0,20 = 0,2."
+    "explanation": "0,4 * 0,5 = 0,20 = 0,2."
   },
   {
     "id": "ari-019",
@@ -348,10 +348,10 @@
     "id": "ari-024",
     "slug": "xyz",
     "subject": "Matematisk problemlösning",
-    "question": "Vad är 12 × 15?",
+    "question": "Vad är 12 * 15?",
     "options": ["150", "160", "170", "180"],
     "answer": "180",
-    "explanation": "12 × 15 = 180."
+    "explanation": "12 * 15 = 180."
   },
   {
     "id": "ari-025",
@@ -360,7 +360,7 @@
     "question": "Vad är kvadratroten ur 81?",
     "options": ["7", "8", "9", "10"],
     "answer": "9",
-    "explanation": "√81 = 9 eftersom 9 × 9 = 81."
+    "explanation": "√81 = 9 eftersom 9 * 9 = 81."
   },
   {
     "id": "ari-026",
@@ -378,7 +378,7 @@
     "question": "Vad är arean av en triangel med bas 10 cm och höjd 4 cm?",
     "options": ["20", "30", "40", "50"],
     "answer": "20",
-    "explanation": "Area = (bas × höjd) / 2 = (10 × 4) / 2 = 20 cm²."
+    "explanation": "Area = (bas * höjd) / 2 = (10 * 4) / 2 = 20 cm²."
   },
   {
     "id": "ari-028",
@@ -387,7 +387,7 @@
     "question": "Vad är 5! (5 fakultet)?",
     "options": ["60", "100", "120", "150"],
     "answer": "120",
-    "explanation": "5! = 5 × 4 × 3 × 2 × 1 = 120."
+    "explanation": "5! = 5 * 4 * 3 * 2 * 1 = 120."
   },
   {
     "id": "ari-029",
@@ -420,10 +420,10 @@
     "id": "ari-032",
     "slug": "xyz",
     "subject": "Matematisk problemlösning",
-    "question": "Vad är 1,5 × 8?",
+    "question": "Vad är 1,5 * 8?",
     "options": ["10", "11", "12", "13"],
     "answer": "12",
-    "explanation": "1,5 × 8 = 12."
+    "explanation": "1,5 * 8 = 12."
   },
   {
     "id": "ari-033",

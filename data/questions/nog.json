@@ -42,7 +42,7 @@
       "E - ej genom de båda påståendena"
     ],
     "answer": "C - i (1) tillsammans med (2)",
-    "explanation": "(1) ensamt: 2(l + b) = 28 → l + b = 14, men vi vet inte förhållandet. Otillräckligt.\n(2) ensamt: l = 4b ger förhållandet men inte de faktiska måtten. Otillräckligt.\nTillsammans: l = 4b och l + b = 14 → 4b + b = 14 → b = 2,8, l = 11,2. Area = 2,8 × 11,2 = 31,36 cm². Tillräckligt. Svar: C."
+    "explanation": "(1) ensamt: 2(l + b) = 28 → l + b = 14, men vi vet inte förhållandet. Otillräckligt.\n(2) ensamt: l = 4b ger förhållandet men inte de faktiska måtten. Otillräckligt.\nTillsammans: l = 4b och l + b = 14 → 4b + b = 14 → b = 2,8, l = 11,2. Area = 2,8 * 11,2 = 31,36 cm². Tillräckligt. Svar: C."
   },
   {
     "id": "nog-004",
@@ -57,7 +57,7 @@
       "E - ej genom de båda påståendena"
     ],
     "answer": "D - i (1) och (2) var för sig",
-    "explanation": "(1) ensamt: priset per kg = 60 / 4 = 15 kr. 8 kg kostar 8 × 15 = 120 kr. Tillräckligt.\n(2) ensamt: 8 × 15 = 120 kr. Tillräckligt.\nBåda räcker var för sig. Svar: D."
+    "explanation": "(1) ensamt: priset per kg = 60 / 4 = 15 kr. 8 kg kostar 8 * 15 = 120 kr. Tillräckligt.\n(2) ensamt: 8 * 15 = 120 kr. Tillräckligt.\nBåda räcker var för sig. Svar: D."
   },
   {
     "id": "nog-005",
@@ -72,7 +72,7 @@
       "E - ej genom de båda påståendena"
     ],
     "answer": "E - ej genom de båda påståendena",
-    "explanation": "(1) ensamt: udda tal större än 10 inkluderar icke-primtal som 15, 21, 25. Otillräckligt.\n(2) ensamt: t.ex. 121 = 11² är inte delbart med 3, 5 eller 7 men är inte ett primtal. Otillräckligt.\nTillsammans: kombinationen utesluter inte sammansatta tal som 11 × 13 = 143. Fortfarande otillräckligt. Svar: E."
+    "explanation": "(1) ensamt: udda tal större än 10 inkluderar icke-primtal som 15, 21, 25. Otillräckligt.\n(2) ensamt: t.ex. 121 = 11² är inte delbart med 3, 5 eller 7 men är inte ett primtal. Otillräckligt.\nTillsammans: kombinationen utesluter inte sammansatta tal som 11 * 13 = 143. Fortfarande otillräckligt. Svar: E."
   },
   {
     "id": "nog-006",
@@ -102,7 +102,7 @@
       "E - ej genom de båda påståendena"
     ],
     "answer": "C - i (1) tillsammans med (2)",
-    "explanation": "(1) ensamt: vi vet hastigheten men inte restiden. Otillräckligt.\n(2) ensamt: vi vet restiden men inte hastigheten. Otillräckligt.\nTillsammans: sträcka = 120 × 2,5 = 300 km. Tillräckligt. Svar: C."
+    "explanation": "(1) ensamt: vi vet hastigheten men inte restiden. Otillräckligt.\n(2) ensamt: vi vet restiden men inte hastigheten. Otillräckligt.\nTillsammans: sträcka = 120 * 2,5 = 300 km. Tillräckligt. Svar: C."
   },
   {
     "id": "nog-008",
@@ -132,7 +132,7 @@
       "E - ej genom de båda påståendena"
     ],
     "answer": "C - i (1) tillsammans med (2)",
-    "explanation": "(1) ensamt: vi vet ökningen i kronor men inte utgångsvärdet. Otillräckligt.\n(2) ensamt: vi vet utgångsvärdet men inte ökningen. Otillräckligt.\nTillsammans: procentuell ökning = (15 000 / 75 000) × 100 = 20%. Tillräckligt. Svar: C."
+    "explanation": "(1) ensamt: vi vet ökningen i kronor men inte utgångsvärdet. Otillräckligt.\n(2) ensamt: vi vet utgångsvärdet men inte ökningen. Otillräckligt.\nTillsammans: procentuell ökning = (15 000 / 75 000) * 100 = 20%. Tillräckligt. Svar: C."
   },
   {
     "id": "nog-010",
@@ -192,7 +192,7 @@
       "E - ej genom de båda påståendena"
     ],
     "answer": "C - i (1) tillsammans med (2)",
-    "explanation": "(1) ensamt: vi vet bottenytan men inte höjden. Otillräckligt.\n(2) ensamt: vi vet höjden men inte bottenytan. Otillräckligt.\nTillsammans: volym = 600 × 20 = 12 000 cm³ = 12 liter. Tillräckligt. Svar: C."
+    "explanation": "(1) ensamt: vi vet bottenytan men inte höjden. Otillräckligt.\n(2) ensamt: vi vet höjden men inte bottenytan. Otillräckligt.\nTillsammans: volym = 600 * 20 = 12 000 cm³ = 12 liter. Tillräckligt. Svar: C."
   },
   {
   "id": "nog-014",
@@ -207,7 +207,7 @@
     "E - ej genom de båda påståendena"
   ],
   "answer": "C - i (1) tillsammans med (2)",
-  "explanation": "(1) ensamt: x < 0, men vi vet inte tecknet på y → xy kan vara negativ eller positiv. Otillräckligt.\n(2) ensamt: y < 0, men vi vet inte tecknet på x → xy kan vara negativ eller positiv. Otillräckligt.\nTillsammans: x < 0 och y < 0 → produkten xy = negativ × negativ = positiv → vi kan avgöra att produkten inte är negativ. Tillräckligt. Svar: C."
+  "explanation": "(1) ensamt: x < 0, men vi vet inte tecknet på y → xy kan vara negativ eller positiv. Otillräckligt.\n(2) ensamt: y < 0, men vi vet inte tecknet på x → xy kan vara negativ eller positiv. Otillräckligt.\nTillsammans: x < 0 och y < 0 → produkten xy = negativ * negativ = positiv → vi kan avgöra att produkten inte är negativ. Tillräckligt. Svar: C."
 },
   {
     "id": "nog-015",
@@ -342,7 +342,7 @@
       "E - ej genom de båda påståendena"
     ],
     "answer": "C - i (1) tillsammans med (2)",
-    "explanation": "(1) ensamt: vi vet längden men inte bredden, och kan inte beräkna arean. Otillräckligt.\n(2) ensamt: vi vet bredden men inte längden. Otillräckligt.\nTillsammans: area = 9 × 6 = 54 cm² > 50 cm². Tillräckligt. Svar: C."
+    "explanation": "(1) ensamt: vi vet längden men inte bredden, och kan inte beräkna arean. Otillräckligt.\n(2) ensamt: vi vet bredden men inte längden. Otillräckligt.\nTillsammans: area = 9 * 6 = 54 cm² > 50 cm². Tillräckligt. Svar: C."
   },
   {
     "id": "nog-024",
@@ -357,7 +357,7 @@
       "E - ej genom de båda påståendena"
     ],
     "answer": "C - i (1) tillsammans med (2)",
-    "explanation": "(1) ensamt: vi vet totala antalet elever men inte hur många som läser franska. Otillräckligt.\n(2) ensamt: vi vet antalet franskaelever men inte totala antalet. Otillräckligt.\nTillsammans: 80/400 × 100 = 20%. Tillräckligt. Svar: C."
+    "explanation": "(1) ensamt: vi vet totala antalet elever men inte hur många som läser franska. Otillräckligt.\n(2) ensamt: vi vet antalet franskaelever men inte totala antalet. Otillräckligt.\nTillsammans: 80/400 * 100 = 20%. Tillräckligt. Svar: C."
   },
   {
     "id": "nog-025",

@@ -39,7 +39,7 @@
       "90%"
     ],
     "answer": "80%",
-    "explanation": "Ökning = (18−10)/10 × 100 = 8/10 × 100 = 80%."
+    "explanation": "Ökning = (18−10)/10 * 100 = 8/10 * 100 = 80%."
   },
   {
     "id": "dtk-004",
@@ -81,7 +81,7 @@
       "15"
     ],
     "answer": "10",
-    "explanation": "25 × (1 − 0,60) = 25 × 0,40 = 10 defekta produkter."
+    "explanation": "25 * (1 − 0,60) = 25 * 0,40 = 10 defekta produkter."
   },
   {
     "id": "dtk-007",
@@ -109,6 +109,6 @@
       "6 000 kr"
     ],
     "answer": "4 000 kr",
-    "explanation": "Sparande = 10% × 40 000 = 4 000 kr."
+    "explanation": "Sparande = 10% * 40 000 = 4 000 kr."
   }
 ]
