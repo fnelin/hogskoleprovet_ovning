@@ -55,7 +55,9 @@ The questions are managed in two json files.
 - [ ] Difficulty levels for questions
 - [ ] Links for deeper dive into (read more here->) explanations for each question
 - [ ] Proper settings and sliders per user profile. Set levels and subjects to focus on etc.
+- [ ] AI Generated questions instead of a database full of static questions.
 
 > [!NOTE]
 > 🚧 **About** 🚧 <br>
-> This is a sporadic project with focus on having a working application instead of testing the limits of new technology. As such updates will be sporadic and focused towards when the tests draw closer.
+> This is a sporadic project with focus on having a working application instead of testing the limits of new technology.
+> As such updates will be sporadic and focused towards when the tests draw closer.
